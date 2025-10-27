@@ -1948,9 +1948,9 @@
         },
         {
             "seedType": 1313,
-            "name": "Noix Liane",
-            "introduce": "<align=justified><size=36><color=black>Tout le monde dit que la Noix Liane est très solitaire, si emmêlée dans ses propres problèmes qu’il est difficile de dénouer les fils menant à son cœur si dur. Mais qui pourrait nier son désir de tranquillité ? Personne… à part le Jonc, qui le prend parfois pour une pelote de ficelle avec laquelle jouer.\n\n</color>",
-            "info": "<size=36>Applique une valeur de Liane en représailles.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> When bitten, inflicts 1 Tangle value on the attacker. Lorsqu’elle est mordue, inflige 1 point de Liane à l’assaillant. Lorsqu’elle est écrasée, perd 50 PV toutes les 0,02 secondes et inflige 1 point de Liane à chaque fois.</color>",
+            "name": "Noix Algue",
+            "introduce": "<align=justified><size=36><color=black>Tout le monde dit que la Noix Algue est très solitaire, si emmêlée dans ses propres problèmes qu’il est difficile de dénouer les fils menant à son cœur si dur. Mais qui pourrait nier son désir de tranquillité ? Personne… à part le Jonc, qui le prend parfois pour une pelote de ficelle avec laquelle jouer.\n\n</color>",
+            "info": "<size=36>Applique une valeur de Liane en représailles.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Lorsqu’elle est mordue, inflige 1 point de Liane à l’assaillant. Lorsqu’elle est écrasée, perd 50 PV toutes les 0,02 secondes et inflige 1 point de Liane à chaque fois.</color>",
             "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix > Algue</color>"
         },
         {
@@ -2057,7 +2057,47 @@
             "introduce": "<align=justified><size=36><color=black>Quand les zombies viennent acheter des pastèques, le marchand Aloe Alba leur vend toujours la plus grosse — la Noix Melon. Après que les zombies se soient cassé les dents dessus, Aloe Alba les envoie bien gentiment à la clinique dentaire la plus proche… qui, bien sûr, lui appartient aussi.</color>",
             "info": "<size=36>Fait pousser un bouclier temporaire et riposte avec une pastèque après avoir subi assez de dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle subit des dégâts, stocke 1,5× les dégâts reçus sous forme d’énergie de Riposte. Si les dégâts dépassent 100/500/1000, elle en stocke respectivement 3×/4,5×/6×.\n<color=black>•</color> La jauge de Riposte est limitée aux PV max.\n<color=black>•</color> Quand la jauge de Riposte dépasse 1000, consomme toute l’énergie accumulée pour lancer une pastèque infligeant la même quantité de dégâts et gagne un bouclier équivalent, qui se dissipe totalement en 5 s.</color>",
             "cost": "<size=36>Recette de Fusion : <color=#8B0000>Noix + Cata-melon</color>"
+        },
+        {
+            "seedType": 1231,
+            "name": "Mine Hypnotique",
+            "introduce": "<align=justified><size=36><color=black>La Mine Hypnotique n’est pas du genre pressée. Elle pense que chaque zombie mérite une seconde chance — de préférence avant d’exploser. Contradictoire ? Peut-être. Mais cela respecte parfaitement ses cinq principes personnels, qu’elle refuse de révéler.</color>",
+            "info": "<size=36>Mine patate dotée d’un charme explosif.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Petite plante (échappe aux projectiles tirés en ligne droite).\n<color=black>•</color> Hypnotise les zombies qu’elle fait exploser, ou inflige 1800 dégâts si le zombie ne peut pas être hypnotisé.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Mine Patate + Champi-hypno</color>"
+        },
+        {
+            "seedType": 1240,
+            "name": "Mine Tripatate",
+            "introduce": "<align=justified><size=36><color=black>La Mine Tripatate adore faire des blagues sous terre. Elle surgit pour lancer ses surprises non pas une, ni deux, mais trois fois — comme une farceuse souterraine dotée d’un stock infini de « boum ». Faites attention où vous mettez les pieds, ou vous risqueriez de prendre une triple détonation qui vous fera sauter les bottes.\n\n- Rédigé par Mme Draco</color>",
+            "info": "<size=36>La Mine Tripatate refait surface après son explosion et tire des patates sur trois lignes.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Petite plante (échappe aux projectiles tirés en ligne droite).\n<color=black>•</color> Sa cadence augmente à mesure que les zombies s’approchent (jusqu’à 0,5 s par tir).\n<color=black>•</color> Une fois armée, explose au contact, inflige 5400 dégâts, repousse les zombies d’une case et se replonge dans le sol.\n<color=black>•</color> Ressort 15 s après avoir explosé. Explose et disparaît immédiatement au contact d’un véhicule.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Mine Patate + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1232,
+            "name": "Mine Algue",
+            "introduce": "<align=justified><size=36><color=black>Autrefois mine navale rejetée sur le rivage par un puissant tsunami, elle repose désormais à demi enfouie dans la terre. Les algues à sa surface se sont fanées, mais les explosifs à l’intérieur, eux, sont toujours bien vivants… et tout aussi mortels.</color>",
+            "info": "<size=36>Mine patate enchevêtrée dans des algues.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Noyade)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Petite plante (échappe aux projectiles tirés en ligne droite).\n<color=black>•</color> Une fois armée, élimine instantanément le premier zombie approchant et déclenche une explosion de Mine Patate.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Mine Patate + Algue</color>"
+        },
+        {
+            "seedType": 1190,
+            "name": "Mine Citrouille",
+            "introduce": "<align=justified><size=36><color=black>Ancien propriétaire d’une friterie, la Mine Citrouille avait un modèle économique simple : couper les frites en deux, mais garder le même prix. Les clients n’étaient pas d’accord. Aujourd’hui, dans le jardin, elle propose un autre genre de marché — un qui se termine par une explosion. Pourtant, allez savoir pourquoi, tout le monde parle encore de son ancien menu.</color>",
+            "info": "<size=36>Une Citrouille plus courte et plus explosive.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Petite plante (échappe aux projectiles tirés en ligne droite). Cependant, les plantes non « petites » placées à l’intérieur seront touchées. À chaque fois qu’elle subit des dégâts, une petite explosion se produit, infligeant 500 points de dégâts aux zombies.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Mine Patate > Citrouille</color>"
+        },
+        {
+            "seedType": 1296,
+            "name": "Mine Souci",
+            "introduce": "<align=justified><size=36><color=black>Sous la terre dorment des trésors… et des zombies ? « Alors mon jardin de chasse aux trésors est en fait un cimetière ?! » La Mine Souci voulait simplement déterrer des richesses, mais Dave a enterré des zombies pour rendre la chasse plus palpitante. Autant dire que ça complique les choses.</color>",
+            "info": "<size=36>Toujours occupée à creuser pour trouver des trésors.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Petite plante. Déniche un trésor toutes les 30 s : 1 % de chance de faire apparaître un zombie aléatoire, 10 % d’obtenir un paquet de graines, sinon produit 25 Soleils et 100 Pièces.\n<color=black>•</color> Sur les cartes de plage, les Mines Souci placées sur des zones à trésor produisent 50 % plus vite ; la probabilité d’un paquet de graines passe à 33 %, celle d’un zombie tombe à 0 %.\n<color=black>•</color> Disparaît après avoir trouvé 3 paquets de graines.\n<color=black>•</color> À sa mort, déclenche une explosion de Mine Patate infligeant 1800 dégâts.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Souci + Mine Patate</color>"
         }
+
+
+
+
+
 
 
 
