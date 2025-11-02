@@ -31,11 +31,11 @@ Chinese 2.8.2 | PC | [MEGA](https://mega.nz/file/yFoFkJpb#I_bM6OW3Mvflea7vx-qP5f
 
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
-> The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**. Other contained languages are empty for the moment.
-	Up-to-date - English, Spanish, Vietnamese, Japanese
+> The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
+	Up-to-date - English, Spanish, Vietnamese, Japanese, Korean, Ukrainian
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
-	Last Updated 2.3.1 - Korean, French
+	Last Updated 2.3.1 - French
 	Last Updated 2.1.6 / Partially Updated - German, Italian
 	Want to add your language here? Go to our Discord for more info!
 
@@ -113,7 +113,8 @@ Vietnamese | Shion, Cryda, JustNull |
 Indonesian | 由羅 (Yura), Xelag, Seroja, Star Apple | 
 Russian | Nekosha, LancerX0 (Coder), Kammerer | 
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
-Korea | No active translator | 설이 , ATMnou, 취미로 놀고 먹는 사람
+Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
+Ukrainian | Easter Wolf |
 
 ## Notice to Translators
 The translator mod, PvZ_Fusion_Translator.dll, is currently closed source, but you can grab the latest build dll on the root directory of this repo's main branch. It is constantly updated.
