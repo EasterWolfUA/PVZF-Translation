@@ -590,10 +590,10 @@
         },
         {
             "seedType": 1016,
-            "name": "Mordeur Cerise",
-            "introduce": "<size=36><color=black>Depuis son verre avec Cerise Explosive, Mordeur n'a cessé de \" bourdonner \". Elle devenait une menace absolue à chaque repas. Le bruit de la mastication se transforma en pops explosifs alors que les assiettes et les bols volaient partout, laissant tout le monde peu disposé à dîner avec elle. Après un vote à main levée, Cherry Mordeur a fini par manger dans la cour… au moins, elle n'a plus besoin d'acheter de nouvelle vaisselle.</color></size>",
-            "info": "<size=36>Produit une explosion de cerises après avoir mangé un zombie.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta + 1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Crée une explosion de cerise dans une grille 3x3 en mordant.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Cerise Explosive + Mordeur</color></size>",
-            "cost": ""
+            "name": "Mordeur Explosif",
+            "introduce": "<size=36><color=black>Depuis son rendez-vous avec la Cerise Explosif, le Mordeur ne cessait de \" gronder \". Il devenait une vraie menace à chaque repas. Chaque bruit de mastication se transformait en mini explosion alors que les assiettes et bols volaient partout, laissant tout le monde peu enclin à dîner avec lui. Après un vote à main levée, le Mordeur Explosif a fini par manger dans la cour… au moins, il n'a plus besoin de racheter de vaisselle.</color></size>",
+            "info": "<size=36>Produit une explosion de Cerise après avoir mangé un zombie.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta + 1800 (Incendiaire)</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : </color><color=#8B0000>Cerise Explosive + Mordeur</color>"
         },
         {
             "seedType": 1017,
@@ -1689,10 +1689,10 @@
         },
         {
             "seedType": 1164,
-            "name": "Citrouille-Kaboom",
-            "introduce": "<size=36><color=#3D1400>Citrouille-Kaboom est un parent éloigné de Cherry-nut, mais à chaque fois que Citrouille-Kaboom rencontre Cherry-nut, il est toujours en retard. \"Moi aussi, je veux arriver tôt\", dit Citrouille-Kaboom, \"mais je ne peux pas m'empêcher de sauter sur quelque chose de rouge.\"</color>",
-            "info": "<size=36><size=36>Une citrouille qui ne peut pas être explosée par les cerises !\n\n<color=#3D1400>Résistance : </color><color=red>4000</color>\n<color=#3D1400>Spécial : </color><color=red>Ne peut pas être endommagé par les explosions de la Cerise Explosive zombie et guérit à la place.</color>\n<color=#3D1400>Recette de Fusion : </color><color=red>Citrouille + Cerise Explosive</color>",
-            "cost": ""
+            "name": "Citrouille-Piégée",
+            "introduce": "<size=36><color=#3D1400>La Citrouille Piégée est un parent éloigné de la Noix Explosive, mais à chaque rencontre de ces deux là, la Citrouille Piégée est en retard. \"Moi aussi, je veux arriver tôt\", dit la Citrouille Piégée, \"mais je ne peux pas m'empêcher de sauter sur tout ce qui est rouge.\"</color>",
+            "info": "<size=36><size=36>Une citrouille qui ne peut pas être explosée par les cerises !\n\n<color=#3D1400>Robustesse : </color><color=red>4000</color>\n<color=#3D1400>Spécial : </color><color=red>Ne peut pas être endommagée par les explosions de Cerise et guérit à la place.</color>",
+            "cost": "\n<color=#3D1400>Formule de Fusion : </color><color=red>Citrouille + Cerise Explosive</color>"
         },
         {
             "seedType": 1165,
@@ -1703,10 +1703,10 @@
         },
         {
             "seedType": 1166,
-            "name": "Bombardier Magnétique",
-            "introduce": "<size=36><color=#3D1400>\"Bien vendre est aussi une compétence.\" dit le Bombardier Magnétique. Seuls les champs-aimants peuvent transformer la haine en amour. Autrefois, il détestait le plus les cerises. En fait, c'est toujours le cas, mais peut-être a-t-il découvert une opportunité commerciale ?</color>",
-            "info": "<size=36>Transmute les objets métalliques en cerises explosives !\n\n<color=#3D1400>Dégâts : </color><color=red>300/2,5 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Consomme des objets métalliques et les transforme en cerises explosives. Chaque objet métallique peut être transformé en 4 cerises. Des objets métalliques peuvent être activement donnés à le Bombardier Magnétique pour qu'elle lance une attaque.</color>\n<color=#3D1400>Recette de Fusion : </color><color=red>Magnet-champignon + Cerise Explosive</color>",
-            "cost": ""
+            "name": "Aimant Piégé",
+            "introduce": "<size=36><color=#3D1400>\"Bien vendre est plus qu'une compétence, c'est un talent !\" dit l'Aimant Piégé. Seuls les Aimants Piégés peuvent transformer la haine en amour. Autrefois, ce qu'il détestait le plus était les cerises. En fait, c'est toujours le cas, mais peut-être a-t-il découvert une opportunité commerciale ?</color>",
+            "info": "<size=36>Transforme les objets métalliques en cerises explosives !\n\n<color=#3D1400>Dégâts : </color><color=red>300/2,5 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Consomme des objets métalliques et les transforme en cerises explosives. Chaque objet métallique peut être transformé en 4 mini cerises. Des objets métalliques peuvent être donnés à l'Aimant Piégé pour qu'il lance une attaque.</color>",
+            "cost": "\n<color=#3D1400>Formule de Fusion : </color><color=red>Champi-Aimant + Cerise Explosive</color>"
         },
         {
             "seedType": 1167,
@@ -1780,10 +1780,10 @@
         },
         {
             "seedType": 1178,
-            "name": "Torche Boom",
-            "introduce": "<size=36><color=#3D1400>L’Afro de Torche Boom rebondit rythmiquement, comme s'il dansait au son d'un rythme que lui seul peut entendre. Certains disent que son groove inspire ses créations enflammées, tandis que d'autres entraînent simplement le spectacle — tant le style que les explosions laissent une impression durable.",
-            "info": "<size=36>Fait apparaître un drone cerise chercheur après avoir enflammé un certain nombre de projectiles, et transforme directement les cerises explosives en drones.\n\n<color=#3D1400>Spécial :</color> <color=red>Pour chaque 30 pois traversés, génère un drone cerise chercheur. Convertit également toute cerise explosive traversée en drone cerise. Il peut y avoir jusqu'à 3 drones cerise en même temps. À sa mort, a déclenché une explosion Cerise Explosive.</color>\n<color=#3D1400>Recette de Fusion :</color> <color=red>Torche + Cerise Explosive</color>",
-            "cost": ""
+            "name": "Torche des Enfers",
+            "introduce": "<size=36><color=#3D1400>La coupe afro de la Torche des Enfers rebondit rythmiquement, comme si elle dansait au son d'un rythme qu'elle seule pouvait entendre. Certains disent que son rythme inspire ses créations enflammées, tandis que d'autres entraînent simplement le spectacle; tant le style que les explosions marquent les esprits.",
+            "info": "<size=36>Fait apparaître un drone cerise chercheur après avoir enflammé un certain nombre de projectiles, et transforme directement les cerises explosives en drones.\n\n<color=#3D1400>Spécial :</color> <color=red>Tous les 30 pois enflammés, génère un drone cerise chercheur. Convertit également toute cerise explosive traversée en drone cerise. Il peut y avoir jusqu'à 3 drones cerise en même temps. À sa mort, déclenche une explosion de cerise.</color>",
+            "cost": "\n<size=36><color=#3D1400>Formule de Fusion :</color> <color=red>Torche + Cerise Explosive</color>"
         },
         {
             "seedType": 931,
@@ -1794,10 +1794,10 @@
         },
         {
             "seedType": 1179,
-            "name": "Bamboom",
-            "introduce": "<size=36>",
-            "info": "<size=36>Se propulse vers les zombies, leur causant des dégâts et les repoussant.\n\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>Après avoir été planté, attend 1 seconde avant de voler vers l'avant dans sa voie, repoussant les zombies qu'il rencontre et causant 300 dégâts de zone à chaque impact. Inflige des dégâts supplémentaires aux zombies Nian.</color>",
-            "cost": "\n<size=36><color=black>Recette de Fusion : </color><color=#8B0000>Cerise Explosive + Jalapeño</color>"
+            "name": "Piment d'Espelette",
+            "introduce": "<align=justified><size=36><color=black>Le Piment d'Espelette fait un carton, au détriment des zombies; chaque fois qu'un pétard explose, ils finissent étourdis, perdus, et littéralement fondus. \"Roh, voyez le bon côté des choses,\" rassure le Piment d'Espelette. \"Vous avez bonne mine depuis que vous ressemblez au charbon.",
+            "info": "<size=36>Se propulse vers les zombies, leur causant des dégâts et les repoussant.\n\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>Après avoir été planté, attend 1 seconde avant de se propulser en avant dans sa ligne, repoussant les zombies qu'il rencontre et causant 300 dégâts de zone à chaque impact. Inflige des dégâts supplémentaires aux zombies Nian.</color>",
+            "cost": "\n<size=36><color=black>Formule de Fusion : </color><color=#8B0000>Cerise Explosive + Jalapeño</color>"
         },
         {
             "seedType": 1180,
@@ -1871,38 +1871,38 @@
         },
         {
             "seedType": 1274,
-            "name": "Champi-explosion",
-            "introduce": "<align=justified><size=36><color=black>La plus douce des cerises de la famille : pas de crises, pas de hurlements, tout le monde l’adore. \"J’ai… un peu envie de jurer, parfois\" , avoue-t-elle. \"Mais… j’ai peur qu’on me réponde en criant.\"</color>",
-            "info": "<size=36>Facilement effrayée, mais provoque une explosion quand cela arrive.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Lorsqu’elle prend peur, elle se cache et déclenche une explosion de type Bombre Cerise, infligeant 600 dégâts de zone.</color>",
-            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Champi-peureux + Cerise Explosive</color>"
+            "name": "Champi-Explosion",
+            "introduce": "<align=justified><size=36><color=black>La plus douce des cerises de la famille : pas de crises, pas de hurlements, tout le monde l’adore. \"J’ai… un peu envie de me lâcher, parfois\" , avoue-t-il. \"Mais… j’ai peur qu’on me crie dessus.\"</color>",
+            "info": "<size=36>Facilement effrayé, mais provoque une explosion quand cela arrive.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Lorsqu’il prend peur, il se cache et explose comme une Cerise Explosive, infligeant 600 dégâts sur une zone 3X3.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-peureux + Cerise Explosive</color>"
         },
         {
             "seedType": 1212,
             "name": "Cerise Gelée",
             "introduce": "<align=justified><size=36><color=black>Toutes les plantes disent que la Cerise Gelée est calme, introvertie et plutôt taciturne. \"Il m’arrive parfois de me confier aux autres cerises\", dit la Cerise Gelée. \"Elles appellent ça… des nouvelles explosives.\"</color>",
-            "info": "<size=36>Moulée dans la glace, cette cerise absorbe les projectiles de cerises lancés par les plantes pour générer des sachets de graines de Cerise Explosive.\n\n<color=black>Special: </color><color=#8B0000>Absorber une Cerise Explosive, enflammée ou explosive octroie respectivement 1, 2 et 10 points d’énergie. Tous les 100 points d’énergie accumulés, un sachet de graines de Cerise Explosive est généré. À sa mort, elle déclenche une explosion de Cerise Explosive et gèle tous les zombies à portée pendant 10 secondes.</color>",
-            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Cerise Explosive + Champi-glace</color>"
+            "info": "<size=36>Moulée dans la glace, cette cerise absorbe les projectiles de cerises lancés par les plantes pour générer des sachets de graines de Cerise Explosive.\n\n<color=black>Special: </color><color=#8B0000>Absorber une Cerise Explosive, enflammée ou explosive, octroie respectivement 1, 2 et 10 points d’énergie. Tous les 100 points d’énergie accumulés, un sachet de graines de Cerise Explosive est généré. À sa mort, elle déclenche une explosion de Cerise Explosive et gèle tous les zombies à portée pendant 10 secondes.</color>",
+            "cost": "<size=36>\nFormule de Fusion: <color=#8B0000>Cerise Explosive + Champi-glace</color>"
         },
         {
             "seedType": 1244,
             "name": "Drone Cerise",
-            "introduce": "<align=justified><size=36><color=black>Le Drone Cerise se soucie toujours de son apparence — que quelqu’un le regarde ou non. Au sol ou dans les airs, si tu touches à sa coiffure, prépare-toi à te faire pulvériser. Fort.</color>",
-            "info": "<size=36>Cerise rebelle et un brin frimeuse, elle flotte dans les airs avant de larguer ses bombes sur les zombies avec panache.\n\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Toutes les 15 secondes, cible un zombie dans une zone de 3×5 et largue une Cerise Explosive, provoquant une explosion dans un rayon d’une case.</color>",
-            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Cerise Explosive + Troufle</color>"
+            "introduce": "<align=justified><size=36><color=black>Le Drone Cerise se soucie toujours de son apparence, que quelqu’un le regarde ou non. Si tu touches à sa coiffure au sol ou dans les airs, attends-toi à des représailles assez violentes.</color>",
+            "info": "<size=36>Cerise rebelle et un brin frimeuse, elle flotte dans les airs avant de foncer sur les zombies avec panache.\n\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Spécial: </color><color=#8B0000>Toutes les 15 secondes, cible un zombie dans une zone de 3×5 et leur fonce dessus, explosant une case comme une cerise.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Cerise Explosive+ Troufle</color>"
         },
         {
             "seedType": 1243,
-            "name": "Pot Cerise",
-            "introduce": "<align=justified><size=36><color=black>Le Pot-Cerise préférerait renoncer à sa paie du Jardin Zen plutôt que d’être prise pour une plante.\"Ces fous ne trouvent pas de vraies cerises, alors ils essaient de manger tout ce qui en a le goût !\" Rien que d’en parler, elle en frissonne.</color>",
-            "info": "<size=36>Un pot passionné par les explosions de cerises, qui les utilise pour soigner la plante sur sa case et renforcer brièvement les tireurs de type cerise.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immunisée contre les explosions de cerises.\n<color=black>•</color> Soigne la plante placée sur sa case de 20 PV lorsqu’elle est touchée par une explosion de cerise.\n<color=black>•</color> Pendant le soin, accorde également un bonus de vitesse d’attaque de 30 % pendant 1 seconde aux plantes tireuses de cerises.</color>",
-            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Cerise Explosive > Pot de Fleur</color>"
+            "name": "Pot Piégé",
+            "introduce": "<align=justified><size=36><color=black>Le Pot Piégé préférerait renoncer à sa paie du Jardin Zen plutôt que d’être pris pour une plante.\"Ces fous ne trouvent pas de vraies cerises, alors ils essaient de manger tout ce qui en a le goût !\" Rien que d’en parler, elle en frissonne.</color>",
+            "info": "<size=36>Un pot passionné par les explosions de cerises, qui les utilise pour soigner la plante sur sa case et renforcer brièvement les tireurs de type cerise.\n\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Immunisé contre les explosions de cerises.\n<color=black>•</color> Soigne la plante placée sur sa case de 20 PV lorsqu’elle est touchée par une explosion de cerise.\n<color=black>•</color> Pendant le soin, accorde également un bonus de vitesse d’attaque de 30 % pendant 1 seconde aux plantes tireuses de cerises.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Cerise Explosive + Pot de Fleur</color>"
         },
         {
             "seedType": 1207,
             "name": "Bombrelle",
-            "introduce": "<align=justified><size=36><color=black>La Bombrelle a adopté une nouvelle coupe de cheveux, ce qui la rend encore plus rebelle et irritable — une vraie délinquante qui traîne dans les rues. Mais ne vous fiez pas à son apparence : derrière ce look nerveux se cache un cœur tendre… elle aide même le coiffeur à ramasser les feuilles tombées.</color>",
-            "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Résistance : </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de la Feuille-Parapluie.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Pot-Cerise soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
-            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Cerise Explosive + Feuille-Parapluie</color>"
+            "introduce": "<align=justified><size=36><color=black>La Bombrelle a adopté une nouvelle coupe de cheveux, ce qui la rend encore plus rebelle et irritable; une vraie délinquante des quartiers nords. Mais ne vous fiez pas à son apparence : derrière ce look nerveux se cache un cœur tendre… elle aide même le coiffeur à ramasser les feuilles tombées.</color>",
+            "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Robustesse : </color><color=#8B0000>600</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de la Feuille-Parapluie.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Bombrelle soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
+            "cost": "<size=36>\nFormule de Fusion: <color=#8B0000>Cerise Explosive+ Feuille-Parapluie</color>"
         },
         {
             "seedType": 1312,
