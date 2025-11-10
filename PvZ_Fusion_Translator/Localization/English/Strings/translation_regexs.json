@@ -26,7 +26,7 @@
   "^经典塔防(\\d+)?": "ZombiesTD {0}",
   "^花园保卫战(\\d+)?": "Garden Defense {0}",
   "-------UI - Puzzle Mode": "UI - Puzzle Mode-------",
-  "^决战([^\\s]+)！": "<size=14>Ultimate Battle:\n{0}",
+  "^决战([^\\s]+)！": "<size=12>Ultimate Battle:\n{0}",
   "-------UI - Survival Mode": "UI - Survival Mode-------",
   "^黑夜：([^\\s]+)": "Night\n({0})",
   "^白天：([^\\s]+)": "Day\n({0})",
