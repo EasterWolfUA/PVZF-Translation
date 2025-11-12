@@ -3161,7 +3161,7 @@
             "seedType": 1317,
             "name": "M.A.D. Pepper",
             "introduce": "<align=justified><size=36><color=black>\"I'm about to explode! Everyone in front of me better watch out, plant or zombie alike! This is mutual destruction, assured!\" said M.A.D. Pepper. His slightly trembling body indicates a massive energy build-up, or maybe it's just from standing on tiptoes with an unstable stance.</color>",
-            "info": "<size=36>Burns plants too to trigger chain explosions.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not explode automatically; click manually to trigger a Jalapeno blast and a Doom-shroom explosion.\n<color=black>•</color> In every other tile in the same lane that has a plant, releases a Doom-shroom explosion without leaving craters and destroys all plants in that tile; the destroyed plants have a 25% chance to drop as a Seed packet.</color>",
+            "info": "<size=36>Also burns your plants to trigger chain explosions.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not explode automatically; click manually to trigger a Jalapeno blast and a Doom-shroom explosion.\n<color=black>•</color> In every other tile in the same lane that has a plant, releases a Doom-shroom explosion without leaving craters and destroys all plants in that tile; the destroyed plants have a 25% chance to drop as a Seed packet.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Doom-shroom</color>"
         },
         {
