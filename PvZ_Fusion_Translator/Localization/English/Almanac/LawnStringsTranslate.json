@@ -3222,7 +3222,7 @@
         },
         {
             "seedType": 1325,
-            "name": "Aurora-shroom",
+            "name": "[poll result 1]",
             "introduce": "<align=justified><size=36><color=black>As rare as a polar sunrise, this frosty innovator spends all his time perfecting his craft of dessert-making. His signature Sunny Orange sundae, loved by plants and zombies alike (even if it drains the last of their warmth).</color>",
             "info": "<size=36>Gradually melts, releasing cold and sunlight in stages.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> At each sun production, makes all frozen zombies drop 15 sun.\n<color=black>•</color> For the first two sun production cycles, triggers Ice-shroom effects that inflict chill but don't freeze. On the third cycle, triggers full Ice-shroom effect, then disappears.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Ice-shroom</color>"
@@ -3292,15 +3292,15 @@
         },
         {
             "seedType": 1335,
-            "name": "Hypno Chomper",
-            "introduce": "<align=justified><size=36><color=black>Hypno Chomper looks down on his fellow Chompers. He thinks they're rude, picky eaters, and lazy freeloaders who produce nothing for the garden, unlike him, with his dazzling, radiant skin.</color>",
+            "name": "[poll result 2]",
+            "introduce": "<align=justified><size=36><color=black>[poll result 2] looks down on his fellow Chompers. He thinks they're rude, picky eaters, and lazy freeloaders who produce nothing for the garden, unlike him, with his dazzling, radiant skin.</color>",
             "info": "<size=36>Devours hypnotized zombies and converts them into Hypno-shrooms.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>12s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Only targets Hypnotized Zombies and drops a Hypno-shroom seed packet on a successful devour (no digestion required for the seed packet).\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Chomper.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Hypno-shroom</color>"
         },
         {
             "seedType": 1336,
             "name": "Hypno Pepper",
-            "introduce": "<align=justified><size=36><color=black>\"I'm actually very harmless,\" said Hypno Pepper, adjusting his hat. \"I help zombies find their hidden fragility, guiding them to drop their pretense and become open, honest friends.\" As for the blazing flames? \"That's just the hypnotic element's color reaction. It doesn't really hurt the fragile zombies.”</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I'm actually very harmless,\" said Hypno Pepper, adjusting his hat. \"I help zombies find their hidden fragility, guiding them to drop their pretense and become open, honest friends.\" As for the blazing flames? \"That's just the hypnotium doing its magic. It doesn't really hurt the fragile zombies.\"</color>",
             "info": "<size=36>Explodes with fiery charm, causing zombies to switch sides.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hypnotizes all zombies with less than 900 HP in its lane.\n<color=black>•</color> Deals 1800 Cremator damage to all other zombies in its lane.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Jalapeno</color>"
         },
