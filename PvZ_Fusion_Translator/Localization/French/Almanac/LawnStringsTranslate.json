@@ -521,9 +521,9 @@
         {
             "seedType": 1006,
             "name": "Noix Solaire",
-            "introduce": "<size=36><color=black>Solar-nut se considère toujours comme un ange, ignorant parfaitement que les autres plantes parlent souvent dans son dos. \"Vous savez, s'il ajoute quelques lignes noires, il ressemblerait exactement à une abeille !\"</color></size>",
-            "info": "<size=36>Noix Solaire produit du Soleil tout en protégeant vos plantes.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25/15 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Tournesol + Noix</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>La Noix Solaire se considère toujours comme un ange, totalement inconsciente que les autres plantes parlent souvent dans son dos. « Vous savez, s’il ajoutait quelques lignes noires, il ressemblerait à une abeille ! »</color></size>",
+            "info": "<size=36>Noix Solaire produit du Soleil tout en protégeant vos plantes.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Phases de Dégâts : </color><color=#8B0000>1333/2666</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25/15s</color>\n<color=black>Spécial : </color><color=#8B0000>Produit 25 Soleil lors des transitions de phase de dégâts. Lâche 50 Soleil à la mort.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Noix</color></size>"
         },
         {
             "seedType": 1007,
@@ -542,9 +542,9 @@
         {
             "seedType": 1009,
             "name": "Mine Solaire",
-            "introduce": "<size=36><color=black>\"Arrêtez-vous aux feux rouges, ralentissez aux feux jaunes et respectez le code de la route !\" Solar Mine avertit fréquemment les zombies. Mais pour les zombies, tout ce qu’ils voient, c’est la teinte verte dégoûtante devant eux. Il serre ses feuilles vertes et fait la moue, souhaitant plus de soleil. \"Après tout, c'est le soleil qui nous alimente tous !\"</color></size>",
-            "info": "<size=36>Mine Solaire produit du Soleil avant et après son explosion.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25/15 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Tournesol + Mine Patate</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>« Arrêtez-vous aux feux rouges, ralentissez aux feux jaunes et respectez le code de la route ! » Mine Solaire avertit fréquemment les zombies. Mais pour eux, tout ce qu’ils voient, c’est cette teinte verdâtre dégoûtante devant eux. Il serre ses feuilles vertes et fait la moue, souhaitant plus de soleil. « Après tout, c’est le soleil qui nous alimente tous ! »</color></size>",
+            "info": "<size=36>Mine Solaire produit du Soleil jusqu’à et après son explosion.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25/15s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles tirés en ligne droite).\n<color=black>•</color> La fusion restitue 25 Soleil.\n<color=black>•</color> Lâche 50 Soleil lors de l’explosion.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Mine Patate</color></size>"
         },
         {
             "seedType": 1010,
@@ -577,9 +577,9 @@
         {
             "seedType": 1014,
             "name": "Mordeur Solaire",
-            "introduce": "<size=36><color=black>Tout le monde était curieux de savoir comment Solar Mordeur transformait les zombies qu'il dévorait en soleil, mais il hésitait toujours à partager son secret. Un jour, Tournesol a découvert que sa teneur en chlorophylle avait considérablement diminué, révélant la vérité : elle ne transformait pas réellement les zombies en lumière du soleil.</color></size>",
-            "info": "<size=36>Mordeur Solaire peut produire du Soleil après avoir avalé des zombies.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color>\n<color=black>Spécial : </color><color=#8B0000>Produit 100 Soleil après avoir avalé des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Tournesol + Mordeur</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Tout le monde se demandait comment Mordeur Solaire transformait les zombies qu’il dévorait en lumière, mais il hésitait toujours à révéler son secret. Un jour, Tournesol découvrit que sa teneur en énergie végétale avait considérablement diminué, révélant la vérité : il ne transformait pas réellement les zombies en lumière du soleil.</color></size>",
+            "info": "<size=36>Mordeur Solaire peut produire du Soleil après avoir avalé des zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40s</color>\n<color=black>Spécial : </color><color=#8B0000>Produit 100 Soleil après avoir avalé un zombie.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Mordeur</color></size>"
         },
         {
             "seedType": 1015,
@@ -1010,10 +1010,10 @@
         },
         {
             "seedType": 1077,
-            "name": "Champi-soleil Marin",
-            "introduce": "<size=36><color=black>\"Malheureusement, je suis un champignon, pas une fleur, donc je ne peux pas être appelé une fleur de mer ou quelque chose de similaire\", a admis Sea Sun-Shroom. \"Parfois, cela me déprime, mais ne vous laissez pas déranger. Je ne suis peut-être pas un Tournesol, mais je peux quand même utiliser différentes réactions physiques et chimiques dans l'eau pour vous apporter du soleil !\"</color></ taille>",
-            "info": "<size=36>Plus il grandit plus il produit de soleils.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15 → 25 → 50 / 15 Secondes</color>\n<color=black>Temps de croissance : </color><color=#8B0000>20 secondes → 40 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-mer + Tournesol</color></size>",
-            "cost": ""
+            "name": "Champi-Soleil Marin",
+            "introduce": "<align=justified><size=36><color=black>« Malheureusement, je suis un champignon, pas une fleur, donc je ne peux pas être appelé une fleur de mer ou quelque chose du genre », admit Champi-Soleil Marin. « Parfois, cela me déprime, mais ne t’en fais pas. Je ne suis peut-être pas un Tournesol, mais je peux tout de même utiliser différentes réactions physiques et chimiques dans l’eau pour t’apporter du soleil ! »</color></size>",
+            "info": "<size=36>Produit de plus en plus de Soleil à mesure qu’il grandit.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15 → 25 → 50/15s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>20s → 40s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Mer</color></size>"
         },
         {
             "seedType": 1078,
@@ -1248,10 +1248,10 @@
         },
         {
             "seedType": 1111,
-            "name": "Cata-soleil",
-            "introduce": "<size=36><color=black>Certaines personnes se demandent pourquoi les petits soleils de Solar-pult disparaissent lorsqu'ils sont projetés sur le côté droit du toit. Solar-pult sourit : \"D'où pensez-vous que les Soleils de la cour avant viennent ?\"</color>",
-            "info": "<size=36>Lance des choux solaires pour endommager les zombies et peut aussi générer du soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>50/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Rend 100 Soleil lors de la fusion. Chaque tir rebondit une fois après avoir touché un zombie. Pour chaque 200 Soleil, il peut rebondir une fois de plus ; lorsqu'il touche un zombie ou le sol, il perd 5 Soleil.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cata-chou + Tournesol</color>",
-            "cost": "<size=36>"
+            "name": "Cata-Soleil",
+            "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Cata-Soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Cata-Soleil se contente de sourire : « D’où pensez-vous que viennent les Soleils de la cour avant ? »</color></size>",
+            "info": "<size=36>Lance des choux solaires pour attaquer les zombies et peut aussi générer du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>50/5s</color>\n<color=black>Spécial : </color><color=#8B0000>Rend 100 Soleil lors de la fusion. Chaque tir rebondit une fois après avoir touché un zombie. Pour chaque tranche de 200 Soleil, il peut rebondir une fois supplémentaire ; chaque rebond fait perdre 5 Soleil.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Cata-chou + Tournesol</color></size>"
         },
         {
             "seedType": 1112,
@@ -1550,9 +1550,9 @@
         {
             "seedType": 1154,
             "name": "Aimant Solaire",
-            "introduce": "<size=36><color=black>Avez-vous entendu ? Aimant Solaire rayonne de richesse ces derniers temps ! \" Je ne produis pas de fer ; Je fais juste la livraison\", dit-il fièrement. \" C'est le fruit d'années de travail acharné. \" On dit qu'il a même ouvert une entreprise au-delà de la pelouse !' </couleur>",
-            "info": "<size=36>Produit des objets métalliques et transforme les objets métalliques en soleil.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25/25 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Produit un objet métallique aléatoire toutes les 30 secondes. Dépensez un objet métallique dessus et cela produira 25 soleil.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Tournesol + Champi-aimant</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Avez-vous entendu ? L'Aimant Solaire rayonne de richesse ces derniers temps ! « Je ne produis pas de fer ; je ne fais que la lumière », dit-il fièrement. « C’est le fruit d’années de dur labeur. » On raconte même qu’il a ouvert une entreprise au-delà de la pelouse !</color></size>",
+            "info": "<size=36>Produit des objets métalliques et transforme les objets métalliques en Soleil.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Spécial : </color><color=#8B0000>Produit un objet métallique aléatoire toutes les 30 secondes. Faites glisser un objet métallique dessus et il produira 25 Soleil. Les objets produits sont automatiquement envoyés à Grenadier Aimant, Hypno Aimant ou Charmatron placés directement devant.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Aimant</color></size>"
         },
         {
             "seedType": 1155,
