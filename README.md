@@ -30,8 +30,8 @@ The download links for the Multi-language Mod and the translation files of the M
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
 > The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
-	Up-to-date (3.1.1) - English, Vietnamese, Korean
-    Partially Up-to-date (3.1.1) - Spanish, Japanese, Ukrainian
+	Up-to-date (3.1.1) - English, Vietnamese, Korean, Ukrainian
+    Partially Up-to-date (3.1.1) - Spanish, Japanese
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.3.1 - French
