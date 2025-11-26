@@ -364,7 +364,7 @@
    {
      "theZombieType": 64,
      "name": "Jackson Playero",
-     "introduce": "<size=39><color=#3D1400>Entre plantas y zombis, el Zombi Bailador de Playa es considerado el más odioso de ambos equipos. Es un creído, con ganas de expandir su nueva carrera musical por todas partes. Habría funcionado si no hubiera empezado a invadir la playa. Ahora, hay poco o ningún espacio para relajarse.</color>",
+     "introduce": "<size=39><color=#3D1400>Entre plantas y zombis, el Jackson Playero es considerado el más odioso por ambos equipos. Es un creído, con ganas de expandir su nueva carrera musical por todas partes. Habría funcionado si no hubiera empezado a invadir la playa. Ahora, hay poco a ningún espacio para relajarse.</color>",
      "info": "<size=39>Es tan egocéntrico que deja estatuas de el mismo mientras pasa.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invoca 4 Estatuas Bailarines con 500 PS. Después de 15s, cada estatua se rompe y suelta otro Jackson Playero con PS iguales a los PS restantes de la Estatua Bailarín. Fuera de el Modo TD, invoca las Estatuas Bailarines donde un Zombi Jackson básico haría aparecer sus Bailarines Extra.</color>"
    },
    {
@@ -413,7 +413,7 @@
     "theZombieType": 73,
     "name": "Necroflama",
    "introduce": "<size=39><color=#3D1400>\"Estoy harta de todas las reglas del jardín. Las plantas deberían crecer siguiendo su propio corazón.\" solía decir la Necroflama a sus compañeros, pero las demás plantas no la tomaban en serio. Tal vez ha llegado el momento de abandonar todas las preocupaciones y convertirse en una hierba libre, pensó ella. \"No soy una planta, ni un zombi, ni una herramienta. Yo soy simplemente yo.\"</color></size>",
-   "info": "<size=39>Esta Endoflama que ha perdido su poder es tan difícil de eliminar como una mala hierba.</color>\n\n<color=#3D1400>Características:</color> <color=red>\n- Actua como un obstáculo en el campo más que una planta. No puede ser eliminada o movida, y, los zombis la ignorarán.\n- Absorbe cualquier proyectil proveniente de una planta y recibirá 30 de daño.\n- Tras 10 segundos de estar en el campo, invoca aleatoriamente un Vegezombi. Luego invoca otro cada 15 segundos, y al morir, invoca otro más.\n- Al usar fertilizante en ella, desaparece y deja caer un Regalo Planta.</color></size>"
+   "info": "<size=39>Esta Endoflama que ha perdido su poder es tan difícil de eliminar como una mala hierba.</color>\n\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Actua como un obstáculo en el campo más que una planta. No puede ser eliminada o movida, y, los zombis la ignorarán.\n- Absorbe cualquier proyectil proveniente de una planta y recibirá 30 de daño.\n- Tras 10 segundos de estar en el campo, invoca aleatoriamente un Vegezombi. Luego invoca otro cada 15 segundos, y al morir, invoca otro más.\n- Al usar fertilizante en ella, desaparece y deja caer un Regalo Planta.</color></size>"
  },
  {
      "theZombieType": 74,
