@@ -72,7 +72,7 @@
   "烈焰_燃烧": "<color=#AA0022>Ignis:</color>\nCombustion",
   "僵尸的红温亡语会额外释放辣椒火焰": "Enflamed zombies release additional Jalapeno effect upon death.",
   "烈焰_浴火": "<color=#AA0022>Ignis:</color>\nBlaze Bath",
-  "辣椒火焰燃烧时，为本行植物回复{value}生命值": "Jalapeno effects heal plants in the same for {value} HP.",
+  "辣椒火焰燃烧时，为本行植物回复{value}生命值": "Jalapeno effects heal plants in the same lane for {value} HP.",
   "烈焰_鬼火": "<color=#AA0022>Ignis:</color>\nFrigid Fire",
   "辣椒火焰燃尽时，有{value}概率对本行僵尸施加冻结状态": "Jalapeno effects have a {value}% chance to Freeze the surviving zombies.",
   "烈焰_诅咒": "<color=#AA0022>Ignis:</color>\nCursed Flame",
