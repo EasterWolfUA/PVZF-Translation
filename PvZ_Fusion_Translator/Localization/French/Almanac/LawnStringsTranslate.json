@@ -2428,6 +2428,62 @@
             "introduce": "<align=justified><size=36><color=black>L’été est la saison où le Pot Glacé est le plus actif. \" Héhé, tu as chaud ? Tu veux venir te rafraîchir ? \" dit-il. \" Fais juste attention à ne pas glisser sur la glace. Et si tu es une pastèque qui cherche un peu d’ombre, méfie-toi ! Une fois devenu une pastèque givrée, quelqu’un pourrait bien te manger ! \"</color></size>",
             "info": "<size=36>Peut matérialiser des plantes forgées par le feu.\n\n<color=black>Spécial : </color><color=#8B0000>Toutes les 10 s, transforme une plante Rôtie spécifique sur sa case en sa forme de base utilisable pour une fusion.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace > Pot de fleur</color></size>"
+        },
+        {
+            "seedType": 1317,
+            "name": "Piment Méchant",
+            "introduce": "<align=justified><size=36><color=black>\" Je vais exploser ! Tout ce qui est devant moi, plante ou zombie, ferait mieux de dégager ! Destruction mutuelle garantie ! \" s’écrie le Piment Méchant. Son corps légèrement tremblant trahit une énorme accumulation d’énergie… ou peut-être simplement une posture bancale sur la pointe des pieds.</color></size>",
+            "info": "<size=36>Brûle aussi les plantes pour déclencher des explosions en chaîne.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> N’explose pas automatiquement : il faut cliquer pour déclencher une déflagration de Jalapeno suivie d’une explosion de Champi-mort.\n<color=black>•</color> Dans chaque autre case de la même ligne possédant une plante, déclenche une explosion de Champi-mort sans laisser de cratère et détruit la plante présente ; les plantes détruites ont 25 % de chances de revenir sous forme de sachet de graine.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Jalapeno + Champi-mort</color></size>"
+        },
+        {
+            "seedType": 1199,
+            "name": "Torche Maudite",
+            "introduce": "<align=justified><size=36><color=black>Chaque fois qu’on demande à la Torche Maudite : \" C’est quoi ton secret pour un bon barbecue ? \", elle se contente de ramasser les braises pour les recycler. Ce n’est pas qu’elle s’en fiche ; c’est juste que si elle répondait… tu finirais le visage couvert de cendres.</color></size>",
+            "info": "<size=36>La Torche Maudite continue de brûler même après une explosion de Champi-mort, et porte les flammes à un tout autre niveau.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsque sa valeur de Braise est de 0, elle se comporte comme une Torche classique.\n<color=black>•</color> Lorsque sa valeur de Braise est supérieure à 0, transforme les pois normaux et les pois enflammés en pois de braise, gagnant +30 dégâts et un éclaboussement constant à 1/3 sans perte de puissance. Les pois de braise appliquent l’altération Braise.\n<color=black>•</color> Peut également consommer 10 points de Braise pour renforcer les Pois-maudit ou les projectiles Mini-Champi-mort, multipliant leurs dégâts respectivement par ×2 ou ×6, et améliorant leur effet d’éclaboussement au niveau de la grande explosion du Champi-mort.</color>\n\n<color=#7303fc>Valeur de Braise : </color><color=#8B0000>\n<color=black>•</color> Initiale : 60 — Maximum : 60 — Perte : 1 point par seconde.\n<color=black>•</color> Gagne 60 points pour 60 projectiles enflammés, 30 points lorsqu’elle est touchée par une explosion de Champi-mort, et 10 points lorsqu’un zombie dans une zone de 5×5 meurt sous l’effet de Braise.\n<color=black>•</color> L’effet Braise disparaît avec les statuts froid/givré/empoisonné et coexiste avec l’altération Enflammé.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mort + Torche</color></size>"
+        },
+        {
+            "seedType": 1303,
+            "name": "Champi-orque",
+            "introduce": "<align=justified><size=36><color=black>On raconte que ce géant nageait autrefois dans les eaux ouvertes de la Crête Dents-de-Requin, terreur de tous les poissons. Mais un jour, un incident malheureux avec une bulle d’un certain Champi-réducteur l’a laissé… minuscule. Son corps a rapetissé, mais ni son appétit, ni son enthousiasme explosif quand un Champi-mer s’approche trop près.</color></size>",
+            "info": "<size=36>Après avoir consommé des Champi-mer, crache de petites bombes maudite vers l’avant.\n\n<color=black>Dégâts : </color><color=#8B0000>600</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Lance un spore maudit infligeant 600 dégâts dans un rayon modéré après avoir consommé un Champi-mer. Le nourrir n’a pas de temps de recharge, mais chaque tir prend 1,5 s et un maximum de 2 tirs peuvent être enregistrés en même temps.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mort > Champi-mer</color></size>"
+        },
+        {
+            "seedType": 1191,
+            "name": "Cactus Maudit",
+            "introduce": "<align=justified><size=36><color=black>Le Cactus Maudit est un adepte convaincu de l’Art de la Guerre version plantes : attendre le bon moment, frapper fort, et ne rien laisser debout. Qu’il s’agisse de zombies titubant sur le champ de bataille ou de rats cuirassés cherchant un abri, une seule explosion bien placée suffit à renverser le cours du combat.</color></size>",
+            "info": "<size=36>Tire des épines destructrices.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque commence avec 0 % de chance de déclencher une Attaque Ultime. En cas d’échec, la probabilité augmente de 5 % pour l’attaque suivante.</color>\n<color=black>Ultime : </color><color=#8B0000>Tire une rafale massive d’épines vers l’avant, capable de toucher les unités aériennes.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus + Champi-mort</color></size>"
+        },
+        {
+            "seedType": 1275,
+            "name": "Troufle Atomique",
+            "introduce": "<align=justified><size=36><color=black>Le Troufle Atomique voulait simplement un ventilateur plus puissant… mais même l’énergie nucléaire ne semble pas satisfaire ses exigences. \" C’est un modèle catastrophique \", constate Zomboss. \" Toute cette chaleur et ces déchets ? Propulsés droit dehors. \"</color></size>",
+            "info": "<size=36>Souffle sur les zombies avec un vent brûlant chargé de cendres et de retombées nucléaires.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Reste actif pendant 10 s avant de disparaître.\n<color=black>•</color> Chaque seconde, inflige 180 dégâts Crémateur à tous les zombies du terrain. Les dégâts sont doublés contre les zombies affectés par l’altération Braise.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Champi-mort</color></size>"
+        },
+        {
+            "seedType": 1277,
+            "name": "Étoile de la mort",
+            "introduce": "<align=justified><size=36><color=black>\" Je pourrais détruire presque toute la planète si j’en avais envie \", fanfaronne l’Étoile de la mort, \" et tout le monde accuserait la plus grosse étoile du ciel… \"</color></size>",
+            "info": "<size=36>Se transforme en Météore maudit et s’écrase au sol.\n\n<color=black>Spécial : </color><color=#8B0000>Disparaît après 3 s et invoque un Météore Doom infligeant 1800 dégâts de zone à l’impact, puis se scinde en 180 étoiles-spores infligeant chacune 20 dégâts.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Carambole + Champi-mort</color></size>"
+        },
+        {
+            "seedType": 1213,
+            "name": "Mort Dormante",
+            "introduce": "<align=justified><size=36><color=black>Confiner de l’énergie nucléaire à l’aide du magnétisme est un sujet que la Mort Dormante étudie depuis longtemps. C’est une tâche ardue où le timing est crucial ; nombre de ses laboratoires ne sont plus que ruines. Pourtant, il semble que les zombies soient bien plus impatients que les plantes de le voir réussir.</color></size>",
+            "info": "<size=36>La Mort Dormante est stabilisée par une force magnétique et peut se fusionner avec du métal pour se transformer en une forme correspondante.\n\n<color=black>Spécial : </color><color=#8B0000>N’explose pas tant qu’une fusion supplémentaire n’a pas lieu.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mort + Champi-aimant</color></size>"
+        },
+        {
+            "seedType": 1251,
+            "name": "Champi-mort Argenté",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-mort Argenté a transformé la destruction en véritable business — et un business très rentable. Bien sûr, il a aussitôt dépensé sa première fortune… pour s’offrir une peau flambant neuve.</color></size>",
+            "info": "<size=36>Un Champi-mort qui a troqué le boom pour le bling.\n\n<color=black>Spécial : </color><color=#8B0000>N’explose pas.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mort + Souci</color></size>"
         }
     ]
 }
