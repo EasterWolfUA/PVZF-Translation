@@ -1013,7 +1013,7 @@
             "name": "Champi-Soleil Marin",
             "introduce": "<align=justified><size=36><color=black>\" Malheureusement, je suis un champignon, pas une fleur, donc je ne peux pas être appelé une fleur de mer ou quelque chose du genre \", admit Champi-Soleil Marin. \" Parfois, cela me déprime, mais ne t’en fais pas. Je ne suis peut-être pas un Tournesol, mais je peux tout de même utiliser différentes réactions physiques et chimiques dans l’eau pour t’apporter du soleil ! \"</color></size>",
             "info": "<size=36>Produit de plus en plus de Soleil à mesure qu’il grandit.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15 → 25 → 50/15s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>20s → 40s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse (évite les projectiles tirés en ligne droite).</color></size>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Mer</color></size>"
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-mer</color></size>"
         },
         {
             "seedType": 1078,
@@ -2403,7 +2403,7 @@
         },
         {
             "seedType": 1182,
-            "name": "Torche de Glace",
+            "name": "Torche de glace",
             "introduce": "<align=justified><size=36><color=black>\" Une entrée, une sortie. C’est la règle. \" La Torche de Glace était fière de sa logique parfaitement structurée. \" C’est pour ça que je neutralise les flammes de la Torche avec un givre pur et inflexible. \" Mais lorsqu’on les met ensemble… tout se complique. Le feu et la glace, le chaud et le froid — parfois ils s’équilibrent, parfois ils s’affrontent, et parfois… la physique abandonne.</color></size>",
             "info": "<size=36>Transforme les pois normaux en pois de glace ou pois polaires, et les orbes d’eau en blocs de glace.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Transforme les pois normaux qui la traversent en pois de glace, et les pois de glace en pois polaires infligeant ×2 dégâts et ×2 points Cryo.\n<color=black>•</color> Transforme les orbes d’eau en blocs de glace.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Torche + Champi-glace</color></size>"
@@ -2550,14 +2550,14 @@
         },
         {
             "seedType": 1185,
-            "name": "Ombrelle de Lumière",
+            "name": "Ombrelle de lumière",
             "introduce": "<align=justified><size=36><color=black>Au-delà du brouillard, elle observe — prophétesse épargnée par la cécité des mortels. Lorsque Dieu fit naître la lumière, elle s’avança. \" Par décret du Très-Haut, me voici dans la terre de Seth. Le brasier menace, mais par cette lumière sacrée, je protégerai les égarés de ses flammes. \"</color></size>",
             "info": "<size=36>Peut dissiper le brouillard et bloquer les projectiles.\n\n<color=black>Limite d’Énergie : </color><color=#8B0000>2000</color>\n<color=black>Portée du bouclier & de la lumière : </color><color=#8B0000>3×3</color>\n<color=black>Spécial : <color=#99582a>Système Lumos</color></color><color=#8B0000>\n<color=black>•</color> Fournit 1 niveau de Lumos et dissipe le brouillard comme une Planterne.\n<color=black>•</color> Consomme de l’Énergie pour bloquer les projectiles. Chaque blocage consomme de l’Énergie proportionnellement aux dégâts du projectile (hors ballons de basket). Les tridents ne peuvent pas être bloqués.\n<color=black>•</color> Restaure (25 × niveau de Lumos) d’Énergie par seconde, mais se met au repos pendant 5 secondes lorsqu’elle est entièrement épuisée.\n<color=black>•</color> L’Énergie est consommée en premier pour absorber les dégâts, à raison de 5 Énergie = 1 Robustesse.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Planterne + Ombrelle</color></size>"
         },
         {
             "seedType": 1186,
-            "name": "Ombrelle à Épine",
+            "name": "Ombrelle à épine",
             "introduce": "<align=justified><size=36><color=black>L'Ombrelle à Épine vient de sortir son dernier morceau, \" Cactus Piquant \". Le regard plein d’espoir, elle confie : \" Peut-être qu’un jour, on m’aimera autant que les roses. Je sais que ça ne se fera pas en un jour… mais je continuerai de donner le meilleur de moi. \"</color></size>",
             "info": "<size=36>Peut abattre les zombies volants et repousser les aéronefs.</size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus + Ombrelle</color></size>"  
