@@ -2484,6 +2484,111 @@
             "introduce": "<align=justified><size=36><color=black>Le Champi-mort Argenté a transformé la destruction en véritable business — et un business très rentable. Bien sûr, il a aussitôt dépensé sa première fortune… pour s’offrir une peau flambant neuve.</color></size>",
             "info": "<size=36>Un Champi-mort qui a troqué le boom pour le bling.\n\n<color=black>Spécial : </color><color=#8B0000>N’explose pas.</color></size>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mort + Souci</color></size>"
+        },
+        {
+            "seedType": 1202,
+            "name": "Citrouille Écraseuse",
+            "introduce": "<align=justified><size=36><color=black>La Citrouille Écraseuse n’a jamais perdu un seul bras de fer, a étudié très sérieusement toutes les techniques pour faire des ricochets et excelle dans le choix des pierres — son seul problème, c’est qu’elle a une peur bleue de l’eau et ne peut qu’observer les autres faire.</color></size>",
+            "info": "<size=36>Le nid douillet des Écraseurs. Lorsqu’elle abrite certaines plantes, elle peut engendrer de petits Écraseurs.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>225</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les plantes de type Écraseur placées dans la Citrouille Écraseuse perdent leur capacité à détecter les ennemis.\n<color=black>•</color> Lorsqu’elle contient un Écraseur ou un Écraseur Infernal, elle génère un petit écraseur infligeant 1/8 des dégâts (minimum 225) avec une distance de saut maximale de 1,5 case. Il disparaît après 6 sauts et se régénère au bout de 3 secondes.\n<color=black>•</color> Les petits écraseurs issus d’un Écraseur Infernal déclenchent l’effet Jalapeno à l’atterrissage.\n<color=black>•</color> Les capacités ne fonctionnent pas dans les lignes d’eau.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur > Citrouille</color></size>"
+        },
+        {
+            "seedType": 1328,
+            "name": "Tripe Pois-pestilentiel",
+            "introduce": "<align=justified><size=36><color=black>\" Beurk, votre goût pue ! Je vous déteste tous les deux ! \" hurle la troisième tête. Les zombies pensent qu’il pleure à cause de l’odeur de ses camarades, mais en réalité, c’est simplement à cause de leur horrible goût musical. \" On n’a même pas de nez \", précise la première tête.</color></size>",
+            "info": "<size=36>Tire des pois toxiques ; les zombies déjà empoisonnés libèrent des nuages toxiques lorsqu’ils sont touchés.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=#5E1675>Système de Poison : </color><color=#8B0000>\n<color=black>•</color> Chaque projectile ajoute 1 point de Poison à la cible.\n<color=black>•</color> Si le zombie touché est déjà en état Empoisonné, crée un Nuage Toxique sous ses pieds qui dure 6 s et applique 1 point de Poison par seconde à tous les zombies pris dedans. Un seul Nuage Toxique peut être actif par ligne.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois + Ail</color></size>"
+        },
+        {
+            "seedType": 1237,
+            "name": "Algue Épineuse",
+            "introduce": "<align=justified><size=36><color=black>L’Algue Épineuse s’est toujours sentie comme la petite dernière de la famille des ronces — petite, discrète et à moitié immergée. Les autres tentaient de le réconforter : \" Hé, au moins tu es encore plus populaire que la vieille noix épineuse. \"</color></size>",
+            "info": "<size=36>Une Ronce aquatique et entortillante.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1 s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques ajoutent 1 valeur d’Entrave. Subit 10 dégâts chaque fois qu’elle attaque un véhicule.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ortie > Algue</color></size>"
+        },
+        {
+            "seedType": 1198,
+            "name": "Carambole Épicé",
+            "introduce": "<align=justified><size=36><color=black>La Carambole Épicé fixe les autres en silence, un regard brûlant qui les fait garder leurs distances : \" Il fait trop peur. \" Mais la Carambole Épicé s’en moque ; elle est entièrement concentrée sur la création de son œuvre ultime. Elle est convaincue que lorsqu'elle explosera enfin, tout le monde la remarquera.</color></size>",
+            "info": "<size=36>Explose et libère des étoiles épicées infligeant de lourds dégâts.\n\n<color=black>Dégâts : </color><color=#8B0000>100 × 25</color>\n<color=black>Spécial : </color><color=#8B0000>N’active pas immédiatement l’effet Jalapeno lors de la fusion. Explose 1 seconde après la fusion, déclenchant l’effet Jalapeno puis se dispersant en 25 étoiles épicées.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Jalapeno + Carambole</color></size>"
+        },
+        {
+            "seedType": 1337,
+            "name": "Ortie Beurrée",
+            "introduce": "<align=justified><size=36><color=black>Contrairement aux autres Orties, l’Ortie Beurrée est d’une douceur exceptionnelle. Elle n’a aucune épine, déteste les sports violents et veut seulement que les zombies goûtent une part de son gâteau au beurre fait maison. Malheureusement, avec sa mauvaise vue, elle tend toujours le beurre… au mauvais endroit.</color></size>",
+            "info": "<size=36>Un piège collant et beurré qui ne inflige aucun dégât.\n\n<color=black>Dégâts : </color><color=#8B0000>0</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ralentit tous les zombies non volants qui marchent dessus et les \" beurre \" pendant 1 s toutes les 3 s.\n<color=black>•</color> Ne perce plus les pneus et est complètement ignorée par les véhicules.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ortie + Lance-maïs</color></size>" 
+        },
+        {
+            "seedType": 1197,
+            "name": "Torche Étoilé",
+            "introduce": "<align=justified><size=36><color=black>Après avoir obtenu son diplôme, la Torche Étoilé est retournée dans sa région montagneuse pour enseigner. \" Dès que j’ai reçu une éducation, j’ai compris que la connaissance devait se transmettre comme une étincelle ! \" La flamme du savoir a enflammé l’enthousiasme des élèves… et aussi les zombies.</color></size>",
+            "info": "<size=36>Une Torche en forme de Carambole, qui enflamme les projectiles étoilés.\n\n<color=black>Spécial : </color><color=#8B0000>Enflamme les projectiles en forme d’étoile qui la traversent (sauf les étoiles-pics et les étoiles des boîtes-surprises), leur ajoutant 20 dégâts et supprimant leurs autres propriétés. Les étoiles enflammées infligent des dégâts d’éclaboussure de la même manière que les pois enflammés.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Torche + Carambole</color></size>"
+        },
+        {
+            "seedType": 1288,
+            "name": "Citrouille Foyé",
+            "introduce": "<align=justified><size=36><color=black>La Citrouille Foyé n’aime pas les gestes bruyants ou tape-à-l’œil. Calme, réservée, elle aide discrètement tous les pois qui ont besoin d’un coup de main. Même lors d’un barbecue, si on lui sert un aliment à moitié cru, elle ne dira rien ; elle le range simplement à l’intérieur et le ramène chez elle. À ce moment-là, il sera parfaitement cuit.</color></size>",
+            "info": "<size=36>Peut enflammer les pois et produire des Citrouilles Rôties.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Pour 50 pois enflammés, génère une Citrouille Rôtie devant elle.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Torche > Citrouille</color></size>"
+        },
+        {
+            "seedType": 1334,
+            "name": "Coquille de mer",
+            "introduce": "<align=justified><size=36><color=black>Autrefois vedette du Festival Mondial de la Vie Marine et fierté de la colonie des Champi-mer, la Coquille de mer ne parvient plus à flotter. Tout a changé après cette terrible fête d’Halloween. Il avait enfilé une tête de citrouille pour un numéro parfait… et découvrit ensuite qu’il ne pouvait plus l’enlever.</color></size>",
+            "info": "<size=36>Se régénère grâce aux sachets de graines de Champi-mer.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante terrestre. Peut être nourrie avec un sachet de graine de Champi-mer pour récupérer 1/3 de ses PV max.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-mer > Citrouille</color></size>"
+        },
+        {
+            "seedType": 1195,
+            "name": "Pot Lumière",
+            "introduce": "<align=justified><size=36><color=black>Le Pot Lumière diffuse en permanence une lueur douce et chaleureuse, si bien qu’on l’utilise souvent comme veilleuse. En l’examinant de près, on peut lire une petite inscription gravée sur son rebord : \" Habitat des lucioles, merci de ne pas déranger. \"</color></size>",
+            "info": "<size=36>Un Pot de fleurs capable de remplacer une petite Planterne, offrant 1 niveau de Lumos sur sa case.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe une petite zone de brouillard et fournit 1 niveau de Lumos sur sa case.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pot de fleur > Planterne</color></size>"
+        },
+        {
+            "seedType": 1185,
+            "name": "Ombrelle de Lumière",
+            "introduce": "<align=justified><size=36><color=black>Au-delà du brouillard, elle observe — prophétesse épargnée par la cécité des mortels. Lorsque Dieu fit naître la lumière, elle s’avança. \" Par décret du Très-Haut, me voici dans la terre de Seth. Le brasier menace, mais par cette lumière sacrée, je protégerai les égarés de ses flammes. \"</color></size>",
+            "info": "<size=36>Peut dissiper le brouillard et bloquer les projectiles.\n\n<color=black>Limite d’Énergie : </color><color=#8B0000>2000</color>\n<color=black>Portée du bouclier & de la lumière : </color><color=#8B0000>3×3</color>\n<color=black>Spécial : <color=#99582a>Système Lumos</color></color><color=#8B0000>\n<color=black>•</color> Fournit 1 niveau de Lumos et dissipe le brouillard comme une Planterne.\n<color=black>•</color> Consomme de l’Énergie pour bloquer les projectiles. Chaque blocage consomme de l’Énergie proportionnellement aux dégâts du projectile (hors ballons de basket). Les tridents ne peuvent pas être bloqués.\n<color=black>•</color> Restaure (25 × niveau de Lumos) d’Énergie par seconde, mais se met au repos pendant 5 secondes lorsqu’elle est entièrement épuisée.\n<color=black>•</color> L’Énergie est consommée en premier pour absorber les dégâts, à raison de 5 Énergie = 1 Robustesse.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Planterne + Ombrelle</color></size>"
+        },
+        {
+            "seedType": 1186,
+            "name": "Ombrelle à Épine",
+            "introduce": "<align=justified><size=36><color=black>L'Ombrelle à Épine vient de sortir son dernier morceau, \" Cactus Piquant \". Le regard plein d’espoir, elle confie : \" Peut-être qu’un jour, on m’aimera autant que les roses. Je sais que ça ne se fera pas en un jour… mais je continuerai de donner le meilleur de moi. \"</color></size>",
+            "info": "<size=36>Peut abattre les zombies volants et repousser les aéronefs.</size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus + Ombrelle</color></size>"  
+        },
+        {
+            "seedType": 1181,
+            "name": "Dégouteur",
+            "introduce": "<align=justified><size=36><color=black>Le Dégouteur menait autrefois une vie tranquille dans un restaurant-barbecue toujours bondé. \" Ah… c’était le bon vieux temps \", soupire-t-il. \" Les clients repartaient avec bonheur après que j’aie dispersé une odeur d’ail. Aujourd’hui ? Les choses ne sont plus comme avant. \"</color>",
+            "info": "<size=36>Le Dégouteur peut empoisonner les zombies.\n\n<color=#5E1675>Système de Poison : </color><color=#8B0000>Inflige 5 points de Poison à tous les zombies à l’écran et applique l’état Empoisonné. Prolonge également la durée du debuff de 5 secondes.</color>\n<color=black>Spécial : </color><color=#8B0000>Force les zombies à changer de ligne.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Ail + Troufle</color></size>"   
+        },
+        {
+            "seedType": 1323,
+            "name": "Citrouille Puante",
+            "introduce": "<align=justified><size=36><color=black>Après d’innombrables révisions, la Citrouille Puante est enfin prête pour le combat. Par rapport à un simple Ail, elle corrige plusieurs défauts : une défense fragile, un manque d’efficacité et l’incapacité à protéger des projectiles. Quant à l’odeur… il faudra tester la résistance de tout le monde.</color>",
+            "info": "<size=36>Une citrouille dotée des propriétés de l’Ail.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Les zombies qui la mordent sont empoisonnés pendant 10s, forcés de changer de ligne et gagnent 1 point de Poison.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Ail > Citrouille</color>"
+        },
+        {
+            "seedType": 1209,
+            "name": "Maïs Magnétique",
+            "introduce": "<align=justified><size=36><color=black>\" Les anciens doivent eux aussi suivre l’évolution du monde \", dit le Maïs Magnétique. \" Cette nouvelle force magnétique m’a vraiment ouvert les yeux. \" Il y a toutefois un petit souci : les voisins le prennent désormais pour un ferrailleur.</color>",
+            "info": "<size=36>Le Maïs Magnétique peut se fusionner avec des objets métalliques et adopter une forme différente selon le type.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3s</color>\n<color=black>Spécial : </color><color=#8B0000>A 25% de chances de lancer un beurre magnétique infligeant 80 dégâts et étourdissant la cible pendant 4 secondes.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Lance-maïs + Champi-aimant</color>"
+        },
+        {
+            "seedType": 1314,
+            "name": "Pastèque Magnétique",
+            "introduce": "<align=justified><size=36><color=black>La Pastèque Magnétique travaillait autrefois à l’Institut de Recherche en Électromagnétisme. Elle y avait même proposé un modèle théorique affirmant que les pôles magnétiques seraient répartis comme des pépins incrustés dans une pastèque. Malheureusement, personne ne prit sa théorie au sérieux… car elle n’était que le fournisseur officiel de pastèques.</color>",
+            "info": "<size=36>Pierre angulaire des autres fusions de Pastèques Métalliques, elle inflige aussi de lourds dégâts aux zombies casqués.\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige 2× les dégâts aux zombies portant une Armure de Type 1.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Champi-aimant</color>"
         }
     ]
 }
