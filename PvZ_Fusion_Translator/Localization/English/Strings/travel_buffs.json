@@ -117,8 +117,8 @@
     "Vulcannon: Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos",
     "Princess Solarnova: When a solar shot hits a zombie, it cause nearby projectiles to explode as well",
     "Princess Solarnova: Energy cap ×3, Sun production amount after storage overflow ×3",
-    "Vortex Melon: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage",
-    "Vortex Melon: Cryo-melon damage ×6, but with decreased splash radius",
+    "Maelonstrom: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage",
+    "Maelonstrom: Cryo-melon damage ×6, but with decreased splash radius",
     "Prometheus Liontail: Heatbeam damage frequency ×2",
     "Prometheus Liontail: Regular shots' damage ×3",
     "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks",
@@ -145,7 +145,7 @@
     "Unlock Tyrannoflora Lux: Lumos Angler > Chomper Maw",
     "Unlock Vulcannon: Pyro Cannon + Pepper Popper",
     "Unlock Princess Solarnova: Torchflower + Golden Sunflower",
-    "Unlock Vortex Melon: Winter Melon + Chrono Melon",
+    "Unlock Maelonstrom: Winter Melon + Chrono Melon",
     "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper"
   ],
   "debuffs": [
