@@ -1599,9 +1599,9 @@
         {
             "seedType": 33,
             "name": "Chrysanfer",
-            "introduce": "<size=36><color=#3D1400>Pour les plantes, faire tourner les pétales sans endommager leurs tiges est un art habile. Certains botanistes pensent que Chrysanfer pourrait être éloigné de Blover en raison de cette capacité. \"C'est en effet une compétence délicate\", a déclaré Chrysanfer d'un air faussement profond. \"Le vrai défi réside dans l'obtention de scies circulaires légères et dans leur peinture avec des motifs de pétales.\"</color>",
-            "info": "<size=36>Endommage les zombies à courte portée avec ses lames de scie qui tournent !\n\n<color=#3D1400>Spécial : </color><color=red>Fait tourner ses lames à l'approche des zombies, infligeant 5 dégâts de zone toutes les 0,02 secondes aux zombies à proximité.</color>",
-            "cost": "<size=36>Coût :<color=red>100</color>\nRecharge : <color=red>7.5 Secondes</color>"
+            "introduce": "<align=justified><size=36><color=black>Pour les plantes, faire tournoyer des pétales sans abîmer leurs tiges est un art délicat. Certains botanistes pensent même que Chrysanfer pourrait être un lointain cousin du Troufle grâce à cette capacité. \" C’est effectivement une technique subtile \", déclare-t-il avec un air faussement profond. \" Le vrai défi, c’est de trouver des scies circulaires légères… puis de les peindre avec des motifs de pétales. \"</color>",
+            "info": "<size=36>Inflige des dégâts de mêlée avec ses lames tournoyantes !\n\n<color=black>Dégâts : </color><color=#8B0000>8/0.02s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne 5 points de Bouclier toutes les 0.5s, jusqu’à un maximum égal à 1× ses PV max.\n<color=black>•</color> Fait tourner ses lames lorsque des zombies s’approchent, infligeant des dégâts perforants dont la puissance diminue avec le nombre de cibles, jusqu’à un minimum de 1.</color>\n<color=black>Mécanique de Bouclier : </color><color=#8B0000>Les Boucliers confèrent 20% de réduction de dégâts aux plantes protégées.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 242,
@@ -2610,6 +2610,34 @@
             "introduce": "<align=justified><size=36><color=black>Dans les plaines enneigées, on dit que plus le sapin est haut, plus l’année suivante sera heureuse. Mais qui donc peut placer l’étoile tout en haut ? C’est une mission pour l’Épicéa Tireur de Scie et son incroyable précision.</color>",
             "info": "<size=36>Projette des scies perforantes qui laissent des aiguilles d’épicéa tournoyantes sur les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s ; 1×75/1.5s (Aiguille d’épicéa tournoyante)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de Neige et des Blizzards.\n<color=black>•</color> Les projectiles percent une fois (y compris les blocs de glace) et déposent une aiguille tournoyante sur le premier zombie touché.\n<color=black>•</color> Les aiguilles tournoyantes infligent 1 dégât toutes les 0,02 secondes pendant 1,5 seconde.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Épicéa Tireur d'élite + Chrysanfer</color>"
+        },
+        {
+            "seedType": 37,
+            "name": "Lotus de Neige",
+            "introduce": "<align=justified><size=36><color=black>La Lotus de Neige n’a jamais eu l’intention de devenir guérisseuse — mais quand votre simple présence fait se sentir mieux les plantes alentour, la rumeur circule vite. Il passe désormais ses journées à tenir une clinique malgré lui, répétant : \" Je suis juste froid, pas diplômé. \" Les patients, eux, ne semblent pas s’en soucier.</color>",
+            "info": "<size=36>Guérisseur ami du froid qui accumule de l’énergie glacée pour soigner les plantes proches.\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 Charge de glace toutes les 10s, ou lorsqu’il est touché par une boule de neige ou un trident de glace.\n<color=black>•</color> Consomme 5 Charges pour s’éveiller et soigner toutes les plantes dans une zone de 3×3 de 50 PV toutes les 3 secondes.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisée au gel des Boules de Neige et des Blizzards.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 38,
+            "name": "Aloès d'Eau",
+            "introduce": "<align=justified><size=36><color=black>L’Aloès d’Eau pensait qu’ouvrir un spa dans les plaines enneigées serait relaxant — jusqu’à ce qu’elle réalise que personne ne veut d’un bain glacé par temps polaire. Au moins, la neige garde les serviettes bien fraîches.</color>",
+            "info": "<size=36>Lanceuse amie du froid qui projette des gouttes de rosée ou, lorsqu’elle est suffisamment refroidie, des blocs de glace.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 / 1 / 15 Charges de glace lorsqu’elle est touchée par une boule de neige / un trident de glace / un Champi-glace.\n<color=black>•</color> Consomme 1 Charge pour lancer un bloc de glace (×2 dégâts, applique Frost Profond, 40 points Cryo).\n<color=black>•</color> Frost Profond : identique au Gel normal, mais affecte aussi les Légionnaires Givrants. Les Zombonis restent immunisés.\n<color=black>•</color> Inflige ×4 dégâts aux zombies gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisée au gel des Boules de Neige.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 39,
+            "name": "Bam'bou",
+            "introduce": "<align=justified><size=36><color=black>\" Là où il y a une volonté, il y a un mur. \" Voilà la devise du Bam'bou. \" Quand j’ai germé, on disait que je n’étais qu’un caillou gênant sous le pied. Mais j’ai continué à pousser, et maintenant je suis devenu un véritable cône de signalisation. \" Et si on lui demande depuis quand ? \" Trois jours \", répond-il.</color>",
+            "info": "<size=36>Blesse les zombies qui le percutent au prix de ses propres PV.\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les autres plantes ne peuvent pas absorber de dégâts à la place de Bam'bou.\n<color=black>•</color> Immunisé à l’écrasement.\n<color=black>•</color> Au contact d’un zombie :\n  – Si le zombie a autant ou moins de PV que lui, il l’élimine instantanément mais subit des dégâts égaux aux PV du zombie.\n  – Si le zombie a plus de PV que lui, il inflige au zombie des dégâts égaux à sa propre Robustesse, puis se détruit.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>15s</color>"
+        },
+        {
+            "seedType": 233,
+            "name": "Cadeau Gelé",
+            "introduce": "<align=justified><size=36><color=black>Parmi toutes les boîtes cadeaux de la boutique, la gelée est la moins appréciée. Pourquoi ? Eh bien… disons qu’elle est souvent victime de traitements un peu trop <i>glaciaux</i>.</color>",
+            "info": "<size=36>Boîte cadeau proposée à prix réduit.\n\n<color=black>Spécial : </color><color=#8B0000>Fait apparaître une plante de base gelée aléatoire.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>15s</color>"
         }
     ]
 }
