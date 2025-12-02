@@ -2638,6 +2638,83 @@
             "introduce": "<align=justified><size=36><color=black>Parmi toutes les boîtes cadeaux de la boutique, la gelée est la moins appréciée. Pourquoi ? Eh bien… disons qu’elle est souvent victime de traitements un peu trop <i>glaciaux</i>.</color>",
             "info": "<size=36>Boîte cadeau proposée à prix réduit.\n\n<color=black>Spécial : </color><color=#8B0000>Fait apparaître une plante de base gelée aléatoire.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>15s</color>"
+        },
+        {
+            "seedType": 1221,
+            "name": "Épicéa en Fleur",
+            "introduce": "<align=justified><size=36><color=black>\" On raconte que les arbres de fer fleurissent, ou que les vieux arbres peuvent refleurir \", murmure l’Épicéa Florissant. \" Mais je ne suis ni en fer, ni vieux. Je… peu importe. \" Il s’interrompt pour admirer ses fleurs.</color>",
+            "info": "<size=36>Un épicéa orné de fleurs de lotus enneigées, capable de soigner les plantes proches à moindre coût.\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 charge de glace passivement toutes les 10 secondes.\n<color=black>•</color> Gagne 1/1/60 charges lorsqu’il est touché par une boule de neige / un trident de neige / un blizzard.\n<color=black>•</color> S’éveille à 5 charges, tirant un orbe de glace infligeant 100 dégâts avec un rayon de 3×3 (sans réduction) et appliquant Gel Profond.\n<color=black>•</color> Une fois éveillé, consomme 1 charge par seconde pour soigner une zone de 3×3 de 50 PV. Se rendort lorsque les charges sont épuisées.</color>\n\n<color=black>Spécial : </color><color=#8B0000>Immunisé au gel causé par les boules de neige et les blizzards.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Épicéa Tireur d’élite + Lotus de Neige</color>"
+        },
+        {
+            "seedType": 1219,
+            "name": "Épicéa Pulvérisateur",
+            "introduce": "<align=justified><size=36><color=black>Un archer peut-il concourir sans arc ? L'Épicéa Pulvérisateur hausse les épaules : \" C’est juste de l'eau. \"</color>",
+            "info": "<size=36>Manipule l’eau pour lancer des orbes hydriques, ou des blocs de glace en consommant des charges de froid.\n\n<color=black>Dégâts : </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1/1/15 charge(s) de glace lorsqu’il est touché par une boule de neige / un trident de glace / un Champi-glace.\n<color=black>•</color> Utilise 1 charge pour lancer un bloc de glace infligeant le double de dégâts, appliquant Gel profond et 40 points Cryo.\n<color=black>•</color> Inflige ×4 dégâts aux zombies Gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisé au gel des Boules de neige et des Blizzards.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Épicéa Tireur d’élite + Aloès d’Eau</color>"
+        },
+        {
+            "seedType": 1260,
+            "name": "Tireur de Bambou",
+            "introduce": "<align=justified><size=36><color=black>Les zombies pensaient éviter les accidents en contournant les Bam'bous. Puis le Tireur de Bambou est arrivé, lançant des pousses affûtées droit dans la cible. Affolés, ils se sont enfuis en hurlant : \" Bambou ! Des bambous ! \"</color>",
+            "info": "<size=36>Tire des pousses de bambou perforantes !\n\n<color=black>Robustesse : </color><color=#8B0000>1800</color>\n<color=black>Dégâts : </color><color=#8B0000>60/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel des Boules de neige et des Blizzards.\n<color=black>•</color> Ses projectiles percent comme ceux de l’Épicéa Tireur d’élite.\n<color=black>•</color> Lorsqu’un tir touche un zombie :\n – Si sa propre vie est supérieure à celle du zombie : il s’inflige une perte égale à la différence et tue instantanément le zombie.\n – Si sa vie est inférieure : sa vie tombe au minimum à 300, et le zombie subit des dégâts égaux à la différence.\n Cette capacité ne s’active pas si sa vie est déjà à 300 ou moins.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Épicéa Tireur d’élite + Bam'bou</color>"
+        },
+        {
+            "seedType": 1222,
+            "name": "Lotus Bouclier",
+            "introduce": "<align=justified><size=36><color=black>\" Ses oreilles de lapin sont trop mignonnes ! \" \" Il est adorable même quand il dort ! \" \" Une vraie rose ! \" Le Lotus Bouclier repousse mollement les fans un peu trop envahissants — oui, il pique comme une rose, mais ça n’empêche personne de l’admirer.</color>",
+            "info": "<size=36>Un lotus aux feuilles d’acier qui soigne les plantes proches et leur accorde des boucliers.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des propriétés du Lotus de Neige. Chaque soin confère aussi 50 points de Bouclier aux plantes affectées. Voir Chrysanfer pour le fonctionnement du Bouclier.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Lotus de Neige + Chrysanfer</color>"
+        },
+        {
+            "seedType": 1218,
+            "name": "Ne m'arrose pas",
+            "introduce": "<align=justified><size=36><color=black>Après s’être équipée d’un jet d’eau haute pression, \" Ne m’arrose pas \" a considérablement amélioré son efficacité de coupe. Seul problème : dans les plaines enneigées, l’eau courante se fait rare.</color>",
+            "info": "<size=36>Capable de résister au froid, inflige plus de dégâts lorsqu'il fait suffisamment froid et applique le gel lorsqu'il a des charges de glace.\n\n<color=black>Dégâts : </color><color=#8B0000>8/0,02 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1/1/15 charge de glace lorsqu’il est touchée respectivement par une boule de neige / un trident de neige / un Champi-glace.\n<color=black>•</color> Avec des charges, ses attaques infligent le double de dégâts, appliquent Gel Profond et ajoutent 1 point de Cryo. 1 chance sur 9 de consommer une charge.</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisée au gel provoqué par les boules de neige.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Chrysanfer + Aloe Aqua</color>"
+        },
+        {
+            "seedType": 1264,
+            "name": "Lame Bambou",
+            "introduce": "<align=justified><size=36><color=black>\" On est censés être des barrières, mais les zombies nous grignotent toujours comme si on était des amuse-bouches \", se plaint Lame Bambou. Déterminée, elle s’est entraînée à parer et contre-attaquer plus fermement. A-t-elle réussi ? Difficile à dire… mais elle n’a jamais paru aussi appétissante.</color>",
+            "info": "<size=36>Bam'bou capable de générer un bouclier protecteur de façon continue.\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>Génère 60 points de Bouclier toutes les 1,5 s, jusqu’à un maximum de (PV max × 1 + 60).</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Bam'bou + Chrysanfer</color>"  
+        },
+        {
+            "seedType": 1227,
+            "name": "Aloès Aube",
+            "introduce": "<align=justified><size=36><color=black>Le docteur Aloès Aube est le jeune médecin et le plus apprécié de l’hôpital. Ce n’est pas seulement grâce à son sérieux et à son talent — sa moustache de feuilles inspire aussi une confiance étonnante. Après tout, les patients ont tendance à préférer les médecins au look plus… mature.</color>",
+            "info": "<size=36>Lance un extrait d’aloès vers le ciel ; en retombant, il soigne les plantes autour de lui et augmente temporairement leur vitesse d’attaque.\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>\n<color=black>•</color> Gagne 1 charge de glace passivement toutes les 5 secondes.\n<color=black>•</color> Gagne 1/1/15/60 charges lorsqu’il est touché par une boule de neige, un trident de neige, un Champi-glace ou une tempête de neige.\n<color=black>•</color> Toutes les 5 secondes, consomme 5 charges pour soigner toutes les plantes dans une zone de 3×3 de 50 PV et augmenter leur vitesse d’attaque de 30 % pendant 5 secondes.</color>\n<color=black>Spécial : </color><color=#8B0000>Insensible au gel causé par les boules de neige et les blizzards.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Aloe Aqua + Lotus de Neige</color>"
+        },
+        {
+            "seedType": 1258,
+            "name": "Lotus Bambou",
+            "introduce": "<align=justified><size=36><color=black>Chaque hiver, le Lotus Bambou tente d’impressionner ses prétendantes avec un déploiement de pétales spectaculaire. Mais sa prestation est souvent… trop rapide. Et trop froide. Les demoiselles sont déjà reparties avant même qu’il ait fini d’éclore.</color>",
+            "info": "<size=36>Une barricade auto-régénérante qui devient plus robuste grâce aux alliés voisins.\n\n<color=black>Toughness : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Insensible au gel causé par les boules de neige et les blizzards.\n<color=black>•</color> Se soigne de 50 PV lorsqu’il est chargé.\n<color=black>•</color> Régénère 40 PV toutes les 1,5 s. Cette régénération est augmentée de 100 % pour chaque plante de type Bam'bou adjacente.\n<color=black>•</color> Résilience (valeur de base : 1) : les dégâts reçus sont divisés par la résilience. Les PV max sont traités comme multipliés par la résilience. La résilience augmente de 0,3 pour chaque plante de type Bamblock adjacente.</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Bam'bou + Lotus de Neige</color>"
+        },
+        {
+            "seedType": 1259,
+            "name": "Aloès'bou",
+            "introduce": "<align=justified><size=36><color=black>Aloès'bou adore voyager pour vanter les mérites de sa terre natale glacée. Mais personne ne semble intéressé. \" Ils pensent tous que la bosse dans mon dos vient d’un coup reçu \", râle-t-il. \" Après ça, pas étonnant qu’ils imaginent la toundra comme un endroit hostile. \"</color>",
+            "info": "<size=36>Une barricade durcie par la glace, particulièrement efficace contre les zombies liés au froid.\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Insensible au gel des boules de neige et des blizzards.\n<color=black>•</color> Gagne des charges de glace comme Aloès Aqua.\n<color=black>•</color> Résilience (valeur de base : 1) : les dégâts subis sont divisés par la résilience. Les PV max sont traités comme multipliés par la résilience.\n<color=black>•</color> Dépense 1 charge pour augmenter la résilience de 2.\n<color=black>•</color> Gagne +1 résilience lorsqu'il affronte des zombies refroidis/gelés (ne se cumule pas avec la capacité précédente).</color>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Bam'bou + Aloès Aqua</color>"  
+        },
+        {
+            "seedType": 1247,
+            "name": "Baliste Épicéa",
+            "introduce": "<align=justified><size=36><color=black>Tirer une énorme baliste, ça use. Même la Baliste Épicéa a parfois besoin de vacances. Grâce à Astro-noix, elle a trouvé un petit boulot dans un autre monde : propulser des volatiles furieux sur des cochons très verts et beaucoup trop sûrs d’eux.</color>",
+            "info": "<size=36>Tire d’énormes carreaux d’épicéa qui transpercent les zombies puis explosent après un court délai.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Doit être plantée sur deux Tireurs d’Épicéa côte à côte.\n<color=black>•</color> Insensible au gel des boules de neige et des blizzards.\n<color=black>•</color> Les carreaux transpercent jusqu’à 2 fois (peuvent transpercer la glace) puis explosent 0,3 s après avoir touché un zombie, infligeant des dégâts de zone.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>50s</color>"
+        },
+        {
+            "seedType": 1254,
+            "name": "Baliste Atlantéenne",
+            "introduce": "<align=justified><size=36><color=black>Autrefois fière sentinelle juchée sur les remparts d’Atlantis, la Baliste Atlantéenne se croyait aussi puissante qu’un tsunami. En réalité, tout le monde parlait simplement du grincement atroce que faisaient ses cordes en se rechargeant. Honteuse mais déterminée, elle trouva son salut dans le jus d’aloès : depuis, ses carreaux sont plus fluides, plus meurtriers… et surtout beaucoup plus silencieux.</color>",
+            "info": "<size=36>Tire des carreaux marins d’une puissance tsunamique ; les ennemis touchés deviennent plus vulnérables au froid.\n\n<color=black>Dégâts : </color><color=#8B0000>80/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Insensible au gel des boules de neige et des blizzards.\n<color=black>•</color> Tire 4 carreaux en rafale, puis se repose 3s.\n<color=black>•</color> 90% de chances de tirer un Carreau Marin, appliquant Trempé pendant 5s. Un zombie Trempé sera gelé au lieu d’être simplement refroidi lorsqu’il subit une attaque du Système Cryo. L’effet est ensuite dissipé et ne peut pas être réappliqué pendant 10s.\n<color=black>•</color> 10% de chances de tirer un Carreau de Glace, infligeant Froid Intense.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Aloès d'Eau > Baliste Épicéa</color>"
         }
     ]
 }
