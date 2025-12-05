@@ -618,10 +618,10 @@
         },
         {
             "seedType": 1020,
-            "name": "Fusil-pois",
-            "introduce": "<size=36><color=black>\"J'incarne l'esprit de mes ancêtres ; je ne tomberai pas ici !\" \" affirmait Buckshooter avec confiance à tous ceux qui croisaient son chemin. Lorsqu'on lui a fait remarquer que son casque ressemblait à celui volé au Zombie Buckethead, il a répliqué : \"Alors invoquons leur volonté et chevauchons à nouveau les vents et les vagues !\"</color></size>",
-            "info": "<size=36>Fusil-pois à la capacité de percer l'armure.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse au contact. Inflige d'immenses dégâts aux Iron Zombies et brise les portes en fer.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Bucket</color></size>",
-            "cost": ""
+            "name": "Pois Renforcé",
+            "introduce": "<align=justified><size=36><color=black>\" Je porte l'esprit de mes ancêtres — je ne tomberai pas ici ! \" déclara le Pois Renforcé. Quand on lui fit remarquer que son casque ressemblait à celui d’un Zombie Seau, il répondit : \" Alors honorons leur volonté… et chargeons à nouveau ! \"</color></size>",
+            "info": "<size=36>Le Pois Renforcé possède la capacité de briser les armures.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique. Récupère 500 de robustesse lorsqu’elle est nourrie d’un objet métallique.\n<color=black>•</color> Subit moitié moins de dégâts des Cerises explosives.\n<color=black>•</color> Ses projectiles repoussent les zombies et brisent instantanément les armures de Type 2 (avant réduction des dégâts).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Pisto-pois</color>"
         },
         {
             "seedType": 1021,
@@ -681,10 +681,10 @@
         },
         {
             "seedType": 1029,
-            "name": "Noix Seau",
-            "introduce": "<size=36><color=black>Les plantes ont des sentiments contradictoires à propos du Buck-nut. Soldat exemplaire, il exécute les ordres avec une précision sans faille, mais son attitude froide laisse beaucoup à désirer. La rouille aux coins de sa bouche fait allusion à un passé riche. Cependant, dans les moments calmes, Buck-nut est aux prises avec une inquiétude tacite : \"Comment puis-je prévenir la rouille dans un jardin humide ?\"</color></size>",
-            "info": "<size=36>Bloquer l'avancée des zombies avec un mur de fer.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Peut être alimenté avec des objets métalliques pour restaurer 500 HP. Cela s'applique également aux autres usines métalliques.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Noix + Bucket</color></size>",
-            "cost": ""
+            "name": "Noix Renforcée",
+            "introduce": "<align=justified><size=36><color=black>Les plantes entretiennent des sentiments contradictoires envers la Noix Renforcée. Soldat exemplaire, il exécute chaque ordre avec une précision inébranlable, mais son attitude glaciale laisse parfois à désirer. La rouille au coin de sa bouche laisse entrevoir un passé chargé. Et dans les rares moments de calme, une inquiétude le ronge : \" Comment empêcher la rouille dans un jardin humide ? \"</color></size>",
+            "info": "<size=36>Bâtit un véritable mur de fer pour stopper l’avancée des zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Peut être nourrie d’un objet métallique correspondant pour restaurer 500 de robustesse. Cet effet s’applique également aux autres plantes métalliques. Toutes les plantes de type Seau subissent moitié moins de dégâts des Cerises explosives.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Noix</color>"
         },
         {
             "seedType": 1030,
@@ -1143,17 +1143,17 @@
         },
         {
             "seedType": 1096,
-            "name": "Carambole de Fer",
-            "introduce": "<size=36><color=black>Les gens utilisent souvent les portraits de Starsteel et Starlure pour mettre en avant leur relation, ce qui les trouble tous les deux grandement. En fait, Starsteel veut juste être lui-même : une étoile avec un cœur de pierre difficile à rouiller.</color></size>",
-            "info": "<size=36>Tire des étoiles allignés d'une couche de métal.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>40*5/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige d'immenses dégâts aux Iron Zombies et brise les portes en fer.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Carambole + Champi-aimant) + Seau (Dans Commande)</color></size>",
-            "cost": ""
+            "name": "Carambole Renforcée",
+            "introduce": "<align=justified><size=36><color=black>Les fans adorent publier des montages de la Carambole Renforcée et de Carambole Magnétique pour nourrir des rumeurs sur leur relation, ce qui met les deux plantes très mal à l’aise. La Carambole Renforcée, elle, n’aspire qu’à une chose : être simplement elle-même — une étoile au cœur d’acier, difficile à dérouiller.</color></size>",
+            "info": "<size=36>Lance des étoiles renforcées d’un revêtement métallique.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Brise instantanément les armures de Type 2 (avant réduction des dégâts).</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Carambole Magnétique</color>"
         },
         {
             "seedType": 1097,
-            "name": "Citrouille de Fer",
-            "introduce": "<size=36><color=black>\"J'aurais aimé être plus fort\", songe Steel Citrouille. \"Peut-être que si j'étais fait de diamant...\" Starsteel sourit et répond : \"Même cela ne suffirait pas ! Il faudrait que tu sois en Netherite !\" Dans leurs plaisanteries pleines d'entrain, ils oublient une vérité vitale : ils peuvent enchanter leurs propres forces.</color></size>",
-            "info": "<size=36>Protège vos plantes avec du métal robuste.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>(Citrouille + Champi-aimant) + Seau</color></size>",
-            "cost": ""
+            "name": "Citrouille Renforcée",
+            "introduce": "<align=justified><size=36><color=black>\" J’aimerais être plus résistante \", soupire la Citrouille Renforcée. \" Peut-être si j’étais en diamant… \" La Carambole Renforcée ricane : \" Même, ça ne suffirait pas ! Il te faudrait de la netherite ! \" Dans leurs chamailleries pleines d’entrain, ils en oublient une vérité essentielle : ils peuvent renforcer leur propre pouvoir.</color></size>",
+            "info": "<size=36>Protège vos plantes avec une robuste coque de fer.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. Peut être nourrie avec un objet métallique correspondant pour restaurer 500 points de Robustesse. Subit moitié moins de dégâts des cerises explosives.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Citrouille Magnétique</color>"
         },
         {
             "seedType": 1098,
@@ -1584,10 +1584,10 @@
         },
         {
             "seedType": 1159,
-            "name": "Champi-rouille",
-            "introduce": "<size=36><color=black>'J'ai encore été mis en conserve !' S'écrie Champi-rouille qui s'appelait Champi-magnétique il y a quelques instants, \"J'ai fait par hasard une cafetière plutôt qu'un four !\"</color>",
-            "info": "<size=36>Il pourrait y avoir une autre tournure si vous lui offrez un casque de rugby ?\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>40/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige trois fois plus de dégâts aux armures.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-aimant + Seau</color>",
-            "cost": ""
+            "name": "Champi-renforcé",
+            "introduce": "<align=justified><size=36><color=black>\" On m’a encore mis en boîte ! \" se lamente Champi-Renforcé, qui était pourtant un Champi-magnétique une seconde plus tôt. \" Tout ça parce que j’ai fabriqué une cafetière au lieu d’un four ! \"</color></size>",
+            "info": "<size=36>Il pourrait bien réserver une autre surprise… si on lui offrait un casque de football.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>50/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige ×3 dégâts aux armures de Type 1.</color></size>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Champi-magnétique</color>"
         },
         {
             "seedType": 1160,
