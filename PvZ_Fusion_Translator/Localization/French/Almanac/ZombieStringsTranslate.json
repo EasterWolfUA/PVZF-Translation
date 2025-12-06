@@ -3,8 +3,8 @@
         {
             "theZombieType": 0,
             "name": "Zombie",
-            "introduce": "<size=36><color=black> Zombie déteste la façon dont son nom le fait ressembler à un zombie ordinaire. Il ne se considère pas comme un ennemi anonyme ou comme un simple cadavre ordinaire. Il ests Unique, bon sang ! Et il va faire quelque chose d'extraordinaire, même si ça vous tue.</color>",
-            "info": "<size=36>Zombie normal des jardins.\n\n<color=black>Robustesse : </color><color=#4B0082>270</color>"
+            "introduce": "<align=justified><size=36><color=black>Le Zombie déteste que son nom le fasse passer pour… un zombie tout ce qu’il y a de plus banal. Il refuse d’être un simple ennemi sans nom, un cadavre parmi tant d’autres. Il est un individu, bon sang ! Et il compte bien accomplir quelque chose d’extraordinaire — même si ça doit vous coûter la vie.</color>",
+            "info": "<size=36>Zombies standard de jardin.\n\n<color=black>Dégâts : </color><color=#4B0082>50/0.5 (morsure)</color>\n<color=black>Robustesse : </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 2,
