@@ -478,7 +478,7 @@
         },
         {
             "seedType": 1000,
-            "name": "Pisto-Tournesol",
+            "name": "Pisto-tournesol",
             "introduce": "<size=36><color=black>\"En fait, Le Tournesol derrière moi est ma sœur Expliqua Pisto-Pois à tout le monde. \"Nous sommes inséparables depuis la naissance. Elle adore produire des soleils, et j'adore détruire du zombie à ses côtés.\" Ce Pisto-Pois tient énormément à sa sœur et vaporisera en rayons de soleil n'importe quel zombie qui osera s'en approcher.</color>< /taille>",
             "info": "<size=36>Le Pois-tournesol peut tirer des Balles de Soleil qui produiront du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>100/5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les balles lâchent 5 soleils lorsqu'elles touchent des zombies.</size>",
             "cost": "\n<size=36></color>Formule de Fusion : </color><color=#8B0000>Pisto-pois + Tournesol</color>"
@@ -1234,10 +1234,10 @@
         },
         {
             "seedType": 1109,
-            "name": "Sniper-pois",
-            "introduce": "<size=36><color=black>Admiré pour sa vision perçante et sa force robuste, Sniper-pois est chéri par ses camarades pois. Cependant, lors de leurs marches en formation, le canon de son arme se retrouve souvent à l'arrière de leur tête, créant des moments de tension en cours de route.</color></size>",
-            "info": "<size=36>Snipe les zombies partout sur la carte infligeant d'énormes dégats.\n\n<color=black>Dégâts : </color><color=#8B0000>500/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Tir dans la tête une fois toutes les 6 attaques, tuant instantanément des zombies.</color></size>",
-            "cost": "<size=36><color=#6A0C9D>Usage Condition: Large Map Tower Defense Modes</color></size>"
+            "name": "Pois-sniper",
+            "introduce": "<align=justified><size=36><color=black>Admirée pour sa vision perçante et sa puissance de tir, le Pois-sniper est chérie par ses camarades Pois. Mais lors des marches en formation, son canon a la fâcheuse tendance à se retrouver dans la nuque de ses coéquipiers — ce qui rend l’ambiance un peu... tendue.</color></size>",
+            "info": "<size=36>Élimine les zombies n'importe où sur la carte en infligeant d'énormes dégâts.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Tire une balle fatale toutes les 6 attaques, tuant instantanément la cible.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>600</color>\nRecharge : <color=#8B0000>7.5s</color>"
         },
         {
             "seedType": 1110,
@@ -1698,7 +1698,7 @@
             "seedType": 1165,
             "name": "Commando Geleur",
             "introduce": "<size=36><color=#3D1400>En tant que commandant général de la famille Pea, le Commando Geleur possède une aura qui fait frémir les plantes et les zombies même à des kilomètres de distance. Mais en ce qui concerne sa fière capacité à geler, Super Ice Machine Gunner reste toujours silencieux, jusqu'au jour où un petit pois ouvre accidentellement son journal : \" Si j'avais su, je n'aurais pas parié contre le tireur d'élite. Je suis mort de froid dans les champs de glace, mais je me suis aussi transformé en cette façon. Ce soir, je vais faire manger à ce type trois gros bols de chili—\"</color>",
-            "info": "<size=36>Tire des pois mange-tout sur des zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes</color>\n<color=#3D1400></color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Commando Pois + Champi-glace</color>",
+            "info": "<size=36>Tire des pois mange-tout sur des zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes</color>\n<color=#3D1400></color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Pois Commando + Champi-glace</color>",
             "cost": ""
         },
         {
@@ -1717,10 +1717,10 @@
         },
         {
             "seedType": 1168,
-            "name": "Commando Pois",
-            "introduce": "<size=36><color=#3D1400>Face aux zombies fous et aux puissants coéquipiers, Commando Pois, venu dans le chantier pour plus de défis, ressent une immense pression, et son humeur empire... Cependant, les plantes sont toujours choquées par l'extrême tendances violentes du Commando Pois, qui tire follement des petits pois à distance. Champi Sulfat-furieux a déjà décidé de demander ses coordonnées.</color>",
-            "info": "<size=36>Tire des pois sur les zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes\n</color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Sniper Pea + Pisto-Pois</color>",
-            "cost": ""
+            "name": "Pois Commando",
+            "introduce": "<align=justified><size=36><color=black>Face aux zombies déchaînés et à ses alliés surpuissants, le Pois Commando venu chercher plus de défis ressent une énorme pression — au point que son caractère se détériore lourdement... Pourtant, les plantes restent choquées par ses accès de violence extrême : il arrose les zombies de projectiles depuis l’autre bout du jardin. La Sulfateuse Mortelle cherche déjà à obtenir son numéro.</color>",
+            "info": "<size=36>Tire des pois sur les zombies, avec une petite chance de déclencher un tir de barrage massif !\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20×6/1.5 secondes</color>\n<color=black>Ultime : </color><color=#8B0000>?×3/0.02s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> 2% de chances à chaque attaque de déclencher un barrage de pois aléatoires (pois normaux, enflammés, givrés, hypnotiques — uniformisés à 20 dégâts), durant 5 secondes.\n<color=black>•</color> Peut alterner entre le Pois Commando et Snipea via le Pois.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pois-sniper + Pisto-pois</color>"
         },
         {
             "seedType": 1169,
