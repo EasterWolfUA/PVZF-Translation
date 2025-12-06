@@ -92,8 +92,8 @@ __The Blooms Community__  | Translation ideas and assistance
 ### Language Teams
 **Language** | **Members** | **Inactive Members**
 ------ | ------ | ------
-English | Dyna, Mamoru-kun, Cassidy, Professor Cherry Zaitsev, Dimardan, JustTer, Invis19 | IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
-French | Erwandawa123, Grymm80, Jedi | Ronny, Mamoru-kun
+English | Dyna, Mamoru-kun, Cassidy, JustTer, Invis19 | Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
+French | HexAnti, Lyolia, AnthonyGourmand | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
 Spanish | Xabdi, Teyliu | Hairy Nugget, Moonlight, Arooming
