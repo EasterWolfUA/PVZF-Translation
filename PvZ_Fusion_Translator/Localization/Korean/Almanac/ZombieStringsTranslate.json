@@ -442,7 +442,7 @@
             "theZombieType": 73,
             "name": "좀비 연불꽃",
             "introduce": "<align=justified><size=36><color=black>그녀가 어째서 언데드들 사이에 나타나는지, 어떻게 끝없는 좀비의 파도를 불러오는지는 아무도 모릅니다. 어떤 이는 그녀를 연불꽃의 묘비라 부르고, 또 어떤 이는 식물들 사이의 배신자라 부릅니다. 진실이 무엇이든, 좀비연불꽃은 그것을</color>",
-            "info": "<size=36>좀비를 소환하고 묘비처럼 식물을 대체할 수 있는 사악한 꽃입니다.\n\n<color=black>체력: </color><color=#4B0082>300</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 필드내 가장 오른쪽 다섯 열에만 등장합니다. 빈 칸을 우선하며, 없을 경우 랜덤 식물을 대체합니다.\n<color=black>•</color> 삽으로 퍼내거나 장갑으로 옮길 수 없습니다. 좀비를 무시합니다.\n<color=black>•</color> 식물의 투사체를 막으며 30 피해를 입습니다.\n<color=black>•</color> 등장 후 10초 후에 랜덤으로 좀보타니 1마리 소환하며, 그 후 15초마다 랜덤으로 좀보타니를 소환하고, 죽을 때마다 한 번 더 소환합니다.\n<color=black>•</color> 비료를 사용하면 즉시 사라지고 식물 상자 시드패킷을 얻습니다.</color>"
+            "info": "<size=36>좀비를 소환하고 묘비처럼 식물을 대체할 수 있는 사악한 꽃입니다.\n\n<color=black>체력: </color><color=#4B0082>300</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 필드내 가장 오른쪽 다섯 열에만 등장합니다. 빈 칸을 우선하며, 없을 경우 랜덤 식물을 대체합니다.\n<color=black>•</color> 삽으로 퍼내거나 장갑으로 옮길 수 없습니다. 좀비를 무시합니다.\n<color=black>•</color> 식물의 투사체를 막으며 30 피해를 입습니다.\n<color=black>•</color> 등장 후 10초 후에 랜덤으로 좀보타니 1마리 소환하며, 그 후 15초마다 랜덤으로 좀보타니를 소환하고, 죽을 때마다 한 번 더 소환합니다.\n<color=black>•</color> 비료를 사용하면 즉시 사라지고 식물 상자 시드패킷을 드랍합니다.</color>"
         },
         {
             "theZombieType": 74,
