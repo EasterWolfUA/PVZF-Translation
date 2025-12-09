@@ -806,10 +806,10 @@
     },
     {
       "seedType": 942,
-      "name": "양동이슈터 버섯 소대",
-      "introduce": "<align=justified><size=36><color=black>양동이슈터 버섯들이 가장 두려워하던 일이 결국 현실이 되고 말았습니다. 정말로 자석 버섯에 붙어버린 것이죠, 그리고 아무도 그들을 떼어낼 수 없었습니다. 하지만 어쩌면 이것은 위장된 축복일지도 모릅니다. 자석 버섯이 모아온 온갖 재료 덕분에 장비를 업그레이드하여, 진정한 \"강철 부대\"가 되었으니까요.</color>",
-      "info": "<size=36>다용도의 일을 수행하는 집단으로 연사, 대공 공격, 저격을 수행합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>6000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 1초\n<color=black>•</color> 240 | 2초 (대공포)\n<color=black>•</color> 400 | 3초 (저격총)\n<color=black>공격 횟수: </color><color=#8B0000>4번(기관총, 그외 1번)</color>\n<color=black><page>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 금속 식물\n<color=black>•</color> 기관총 투사체는 대상을 넉백시키고, 대상의 제2 방어구 현재 체력에 비례한 추가 피해를 줍니다. \n<color=black>•</color> 대공포는 같은 줄의 공중 유닛만을 대상으로 하여 넉백과 동일 타일 범위 피해를 가합니다.\n<color=black>•</color> 저격 공격은 저격콩과 동일한 특성을 가집니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 저격의 대미지가 1,000,000으로 증가, 1/3 확률로 연사가 가능하지만 저격의 공격 속도가 7.5초로 증가합니다.\n2. 넉백 거리와 대공포 대미지가 300% 증가합니다. | 양동이슈터 버섯 착륙정 아종 해금</color>",
-      "cost": "<size=34>\n조합식: <color=#8B0000>자석 버섯 + 양동이슈터 버섯×3</color>"
+      "name": "양동이 버섯 소대",
+      "introduce": "<align=justified><size=36><color=black>양동이 버섯들이 가장 두려워하던 일이 결국 현실이 되고 말았습니다. 정말로 자석 버섯에 붙어버린 것이죠, 그리고 아무도 그들을 떼어낼 수 없었습니다. 하지만 어쩌면 이것은 위장된 축복일지도 모릅니다. 자석 버섯이 모아온 온갖 재료 덕분에 장비를 업그레이드하여, 진정한 \"강철 부대\"가 되었으니까요.</color>",
+      "info": "<size=36>다용도의 일을 수행하는 집단으로 연사, 대공 공격, 저격을 수행합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>6000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 1초\n<color=black>•</color> 240 | 2초 (대공포)\n<color=black>•</color> 400 | 3초 (저격총)\n<color=black>공격 횟수: </color><color=#8B0000>4번(기관총, 그외 1번)</color>\n<color=black><page>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 금속 식물\n<color=black>•</color> 기관총 투사체는 대상을 넉백시키고, 대상의 제2 방어구 현재 체력에 비례한 추가 피해를 줍니다. \n<color=black>•</color> 대공포는 같은 줄의 공중 유닛만을 대상으로 하여 넉백과 동일 타일 범위 피해를 가합니다.\n<color=black>•</color> 저격 공격은 저격콩과 동일한 특성을 가집니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 저격의 대미지가 1,000,000으로 증가, 1/3 확률로 연사가 가능하지만 저격의 공격 속도가 7.5초로 증가합니다.\n2. 넉백 거리와 대공포 대미지가 300% 증가합니다. | 양동이 버섯 착륙정 아종 해금</color>",
+      "cost": "<size=34>\n조합식: <color=#8B0000>자석 버섯 + 양동이 버섯×3</color>"
     },
     {
       "seedType": 943,
@@ -939,9 +939,9 @@
         },
         {
             "seedType": 961,
-            "name": "양동이슈터 버섯 착륙정",
+            "name": "양동이 버섯 착륙정",
             "introduce": "<align=justified><size=36><color=black>최신 자기부상 장치를 장착한 뒤, 양동이 버섯 착륙정은 마침내 정밀 타격 부대로 거듭났습니다. 기술적 한계로 인해 중화기를 사용할 수 없게 되었지만, 속도와 자유로 좀비를 타격하겠다는 그들의 결의는 여전히 굳건합니다.</color>",
-            "info": "<size=36>위치를 지정하면 양송이 버섯 드론을 보내어 발포 명령을 내릴 수 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 양동이 버섯 소대의 버프 선택</color>\n<color=black>체력: </color><color=#8B0000>6000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 0.15초</color>\n<color=black>공격 횟수: </color><color=#8B0000>x3</color>\n<color=black>특수 능력: </color>\n<color=black>•</color><color=#8B0000> 양동이슈터 버섯 소대의 아종</color>\n<color=black>•</color><color=#8B0000> 블로버 컨트롤러 클릭시 왼쪽의 원하는 타일에다 양송이 버섯 드론을 배치할 수 있습니다. Ctrl 키를 누르고 있으면 모든 양동이슈터 드론을 동시에 배치할 수 있습니다.\n<page><color=black>•</color> 선택한 타일이나 인접 타일에 좀비가 있을 경우, 양동이슈터 버섯 드론은 0.15초마다 양동이 콩을 발사하여 대상을 넉백시키고, 제2 방어구 체력에 비례한 추가 피해를 입힙니다.</color>",
+            "info": "<size=36>위치를 지정하면 양송이 버섯 드론을 보내어 발포 명령을 내릴 수 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 양동이 버섯 소대의 버프 선택</color>\n<color=black>체력: </color><color=#8B0000>6000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 0.15초</color>\n<color=black>공격 횟수: </color><color=#8B0000>x3</color>\n<color=black>특수 능력: </color>\n<color=black>•</color><color=#8B0000> 양동이 버섯 소대의 아종</color>\n<color=black>•</color><color=#8B0000> 블로버 컨트롤러 클릭시 왼쪽의 원하는 타일에다 양송이 버섯 드론을 배치할 수 있습니다. Ctrl 키를 누르고 있으면 모든 양동이슈터 드론을 동시에 배치할 수 있습니다.\n<page><color=black>•</color> 선택한 타일이나 인접 타일에 좀비가 있을 경우, 양동이 버섯 드론은 0.15초마다 양동이 콩을 발사하여 대상을 넉백시키고, 제2 방어구 체력에 비례한 추가 피해를 입힙니다.</color>",
             "cost": "\n<size=36>전환식: <color=#8B0000>자석 버섯 <-> 블로버</color>"
         },
         {
@@ -2017,8 +2017,8 @@
     },
     {
       "seedType": 1152,
-      "name": "양동이슈터 버섯",
-      "introduce": "<size=36><color=black>양동이슈터 버섯은 항상 걱정이 많습니다. 자석버섯이 실수로 자신을 끌어당길까 봐 무서워하는 것이죠. \"내 나사 어디 갔지?\"그러던 중 미치광이 데이브가 다가오자, 이제 그는 새로운 걱정을 떠안게 될 것 같습니다.</color>",
+      "name": "양동이 버섯",
+      "introduce": "<size=36><color=black>양동이 버섯은 항상 걱정이 많습니다. 자석버섯이 실수로 자신을 끌어당길까 봐 무서워하는 것이죠. \"내 나사 어디 갔지?\"그러던 중 미치광이 데이브가 다가오자, 이제 그는 새로운 걱정을 떠안게 될 것 같습니다.</color>",
       "info": "<size=36>작다고 좀비 못 밀쳐내는거 아닙니다.\n\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 2.25초</color>\n<color=black>특수 능력: </color><color=#8B0000>작은 식물\n제2 방어구를 즉시 부수며 좀비를 넉백 시킵니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>콩슈터 버섯 + 양동이</color>"
     },
