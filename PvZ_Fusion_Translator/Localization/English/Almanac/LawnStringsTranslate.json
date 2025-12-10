@@ -1789,7 +1789,7 @@
             "seedType": 1119,
             "name": "Garlic-pult",
             "introduce": "<align=justified><size=36><color=black>Few dare to put on airs in front of Garlic-pult. Most take a detour when they see him, though he doesn't intend to be intimidating. He no longer seeks the popularity he had as a chef, but he does hope to make friends who appreciate the benefits of allicin. Now, plants finally embrace his unique charm, garlic and all.</color>",
-            "info": "<size=36>Lobs large garlics on the zombies that break on impact.\n\n<color=black>Damage: </color><color=#8B0000>100/3s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> See Clove-pult for details on the Poison System.\n<color=black>•</color> Each Poison point adds bonus damage to direct hits and splash attacks. Accumulates 1 Poison point for all zombies within the garlic's splash radius.</color>",
+            "info": "<size=36>Lobs large garlic melons that break on impact.\n\n<color=black>Damage: </color><color=#8B0000>100/3s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> See Clove-pult for details on the Poison System.\n<color=black>•</color> Each Poison point adds bonus damage to direct hits and splash attacks. Accumulates 1 Poison point for all zombies within the garlic melon's splash radius.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Garlic + Melon-pult</color>"
         },
         {
