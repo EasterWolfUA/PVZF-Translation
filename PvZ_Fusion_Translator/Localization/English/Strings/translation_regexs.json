@@ -102,7 +102,7 @@
   "([^\\s]+)\n僵尸等级：(\\d+)\n韧性：([^\\s]+)\n攻击力：([^\\s]+)\n特点：([^\\s]+) \n最早出现：第(\\d+)轮": "{0}\nZombie Level: {1}\nToughness: {2}\nAttack Power: {3}\nFeatures: {4}\nEarliest Appearance: Round {5}",
   "([^\\s]+)\n僵尸等级：(\\d+)\n韧性：([^\\s]+)\n攻击力：([^\\s]+)\n特点：([^\\s]+)\n弱点：([^\\s]+)\n最早出现：第(\\d+)轮": "{0}\nZombie Level: {1}\nToughness: {2}\nAttack Power: {3}\nFeatures: {4}\nWeakness: {5}\nEarliest Appearance: Round {6}",
   "场上敌人数量：(\\d+)\n当前分数：(\\d+)": "Zombie(s): {0}\nCurrent Points: {1}",
-  "泳池无尽：危机 第(\\d+)轮": "Survival: Pool: Crisis (Endless) | Round {0}",
+  "泳池无尽：危机 第(\\d+)轮": "Survival: Pool: Chaos (Endless) | Round {0}",
   "生存模式：旅行 第(\\d+)轮": "Odyssey: Classic | Round {0}",
   "生存模式：([^\\s（]+)（([^\\s]+)） 第(\\d+)轮": "Survival: {0} ({1}) | Round {2}",
   "生存模式：([^\\s（]+)（([^\\s]+)）$": "Survival: {0} ({1})",
