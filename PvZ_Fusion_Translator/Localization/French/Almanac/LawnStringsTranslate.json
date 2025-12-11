@@ -52,16 +52,16 @@
         {
             "seedType": 7,
             "name": "Champi-fumée",
-            "introduce": "<size=36><color=black>\"J'étais dans un travail sans issue en produisant des spores de levure pour une boulangerie\", explique Champi-fumée. \"Puis Champi-gnon, bénis-le, m'a parlé de cette formidable opportunité de faire exploser des zombies. Maintenant, j'ai vraiment l'impression de faire une différence.\"</color></size>",
-            "info": "<size=36>Les Champi-fumées lancent de la fumée qui passent à travers les moustiquaires.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Lance des projectiles perforants.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<size=36><color=black>\"J’avais un emploi sans avenir où je produisais des spores de levure pour une boulangerie,\", explique Champi-fumée. \"Puis Champi-gnon, qu'il soit bénis, m'a parlé de cette formidable opportunité de faire exploser des zombies. Maintenant, j'ai vraiment l'impression de faire une différence.\"</color></size>",
+            "info": "<size=36>Champi-fumée tire des fumées qui peuvent traverser les moustiquaires.\n\n<color=black>Dégâts: </color><color=#8B0000>20/1.5s (Perçant)</color>\n<color=black>Portée: </color><color=#8B0000>4 cases devant</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Perforation infinie, ignore les armures tenues à la main (Type 2).\n<color=black>•</color> Propagation de Champi-gnon.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7.5 s</color></size>"
         },
         {
             "seedType": 8,
             "name": "Champi-hypno",
-            "introduce": "<size=36><color=black>\"Les zombies sont nos amis\", affirme Champi-hypno. \"Ce sont des créatures très incomprises qui jouent un rôle précieux dans notre écologie. Nous pouvons et devons faire davantage pour les amener à notre façon de penser.\"</color></size>",
-            "info": "<size=36>Si un zombie mange un Champi-hypno, il se ralliera à votre cause.\n\n<color=black>Spécial : </color><color=#8B0000>Raille un zombie à votre cause.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Les zombies sont nos amis\", affirme Champi-hypno. \"Ce sont des créatures très incomprises qui jouent un rôle précieux dans notre écologie. Nous pouvons et devons faire davantage pour les amener à notre façon de penser.\"</color></size>",
+            "info": "<size=36>Si un zombie mange un Champi-hypno, il se ralliera à votre cause.\n\n<color=black>Spécial : </color><color=#8B0000>Rallie un zombie à votre cause.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>30s</color></size>"
         },
         {
             "seedType": 9,
@@ -640,9 +640,9 @@
         {
             "seedType": 1023,
             "name": "Champi-parfum",
-            "introduce": "<size=36><color=black>Le PerChampi-fumée coloré fait une grande entrée ! Avec une explosion de parfum, il peut retourner les zombies en un instant. Certains prétendent qu'il s'agit d'une technique secrète transmise par la famille des champignons, tandis que d'autres pensent qu'il s'agit d'une arme militaire de pointe. PerChampi-fumée sourit et dit : \"C'est grâce à Champi-hypno qui m'aide à me rincer la bouche tous les jours.\"</color></size>",
-            "info": "<size=36>Champi-parfum pulvérisé des fumées qui peuvent charmer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes (Piercing) </color>\n<color=black>Spécial : </color><color=#8B0000>Chance de charmer des zombies avec <50 % de santé. Hypnotise le zombie qui le mange.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-hypno</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Le Champi-parfum coloré fait une grande entrée ! Avec une explosion de parfum, il peut retourner les zombies en un instant. Certains prétendent qu'il s'agit d'une technique secrète transmise par la famille des champignons, tandis que d'autres pensent qu'il s'agit d'une arme militaire de pointe. Champi-parfum sourit et dit : \"C'est grâce à Champi-hypno qui m'aide à me rincer la bouche tous les jours.\"</color></size>",
+            "info": "<size=36>Champi-parfum vaporise des fumées qui peuvent charmer les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s (Perçant) </color>\n<color=black>Spécial : </color><color=#8B0000>Chance de charmer des zombies qui ont moins de 50 % de santé. Plus la santé du zombie est basse, plus la probabilité augmente, jusqu’à 25 %. Pour les zombies affectés par l'effet du Champi-capricieux, le seuil d’hypnotisation est annulé. Hypnotise le zombie qui le mange mais redevient Champi-fumée.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-fumée + Champi-hypno</color>"
         },
         {
             "seedType": 1024,
@@ -654,9 +654,9 @@
         {
             "seedType": 1025,
             "name": "Champi-courageux",
-            "introduce": "<size=36><color=black>\"Le courage me remplit, aucune peur ne subsiste~ Que ce soit le printemps, l'automne, l'hiver ou l'été~\" Gutsy-champignon ne rétrécit plus face aux zombies. \"J'avais l'habitude de trembler, mais le Senior Champi-fumée m'a dit : 'Si un zombie s'approche, vaporise tes spores. Se cacher ne résoudra rien.'\"</color></size>",
-            "info": "<size=36>Champi-courageux est prêt à affronter les zombies, de près ou de loin !!\n\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsque les zombies s'approchent de 3 tuiles, ils pulvériseront des fumées perçantes à la place.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-fumée + Champi-peureux</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Le courage me remplit, aucune peur ne subsiste~ Que ce soit le printemps, l'automne, l'hiver ou l'été~\" Champi-courageux ne rétrécit plus face aux zombies. \"J'avais l'habitude de trembler, mais mon mentor Champi-fumée m'a dit : 'Si un zombie s'approche, vaporise tes spores. Se cacher ne résoudra rien.'\"</color></size>",
+            "info": "<size=36>Champi-courageux est prêt à affronter les zombies, de près ou de loin !\n\n<color=black>Dégâts : </color><color=#8B0000>20×2/1.5s (Grande portée); 30/1.5s (Courte portée, perçant)</color>\n<color=black>Spécial : </color><color=#8B0000>Tire 2 spores en même temps, lorsqu’un zombie s’approche à 4 cases, Champi-courageux pulvérise des fumées perçantes à la place.</color></size>",
+            "cost": "\n<size=36>Fomule de Fusion: <color=#8B0000>Champi-fumée + Champi-peureux</color>"
         },
         {
             "seedType": 1026,
@@ -1766,10 +1766,10 @@
         },
         {
             "seedType": 1176,
-            "name": "Hypno Troufle",
-            "introduce": "<size=36><color=#3D1400>Les plantes sont toujours curieuses de savoir pourquoi HypnoTroufle fait reculer les zombies. Hypno Troufle explique : \"Puisque Blover pousse toujours les zombies dans la direction opposée à laquelle ils font face, je pense qu'il est tout à fait naturel pour moi de faire la même chose avec les zombies hypnotisés.\"</color>",
-            "info": "<size=36>Peut retirer des zombies hypnotisés (charmés) !\\n\\n\n<color=#3D1400>Spécial : </color><color=red>Retire tous les zombies charmés.\n<color=#3D1400>Formule de Fusion : </color><color=red>Hypno-champignon + Blover</color>\",",
-            "cost": ""
+            "name": "Hypno-troufle",
+            "introduce": "<align=justified><size=36><color=#3D1400>Les plantes sont toujours curieuses de savoir pourquoi Hypno-troufle fait reculer les zombies. Hypno-troufle explique : \"Puisque Troufle pousse toujours les zombies dans la direction opposée à laquelle ils font face, je pense qu'il est tout à fait naturel pour moi de faire la même chose avec les zombies hypnotisés.\"</color>",
+            "info": "<size=36>Attire les zombies hypnotisés (charmés) vers Hypno-troufle !\n\n<color=black>Spécial : </color><color=#8B0000>Attire vers lui tous les zombies charmés, réduisant les points de vie maximum de 10 %, excepté pour les zombies les plus à gauche des colonnes (durée 5 s).</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-hypno + Troufle</color>"
         },
         {
             "seedType": 1177,
