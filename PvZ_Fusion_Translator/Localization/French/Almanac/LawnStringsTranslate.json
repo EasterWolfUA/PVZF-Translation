@@ -1171,10 +1171,10 @@
         },
         {
             "seedType": 1100,
-            "name": "Champi-aimant Lumineux",
-            "introduce": "<size=36><color=black>\"Honnêtement, j'aimerais pouvoir être un simple Champi-aimant\", a avoué Magled-shroom. \"De cette façon, je n'aurais pas à être constamment sous les projecteurs ni à ressentir la pression d'utiliser un aimant pour faire le travail de deux.\"</color></size>",
-            "info": "<size=36>Portée d'attraction et intervalles entre attractions réduites dépendant du niveau de lumos.\n\n<color=black>Intervalle magnétique : </color><color=#8B0000>15 secondes (LL0) → 11 secondes → 7,5 secondes → 5 secondes (LL3)</color>\n<color=black>Portée de l'aimant : </color><color=#8B0000>+1 (LL1) → +2 → +3</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Des niveaux de Lumos plus élevés raccourciront considérablement l'intervalle d'attraction et augmenteront la plage d'attraction. Lorsqu'il s'agit de Lumos niveau 2, l'attraction causera 200 dégâts aux zombies proches de la cible de l'attraction.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Planterne + Champi-aimant</color></size>",
-            "cost": ""
+            "name": "Aimant Lumineux",
+            "introduce": "<align=justified><size=36><color=black>\"Honnêtement, je souhaiterai pouvoir être un simple Champi-aimant\", a avoué Aimant Lumineux. \"De cette façon, je n'aurais pas à être constamment sous les projecteurs ni à ressentir la pression d'utiliser un aimant lumineux pour faire le travail de deux Champi-aimant.\"</color></size>",
+            "info": "<size=36>Portée d'attraction et intervalles entre attractions réduites dépendant du niveau de lumos.\n\n<color=black>Intervalle magnétique : </color><color=#8B0000>(NL = Niveaux Lumos). 15 secondes (NL0) → 11 secondes (NL1)→ 7,5 secondes (NL2)→ 5 secondes (NL3)</color>\n<color=black>Portée de l'aimant : </color><color=#8B0000>+1 (NL1) → +2 (NL2)→ +3 (NL3)</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Des niveaux de Lumos plus élevés raccourciront considérablement l'intervalle d'attraction et augmenteront le rayon d'attraction. Lorsqu'il s'agit de Lumos niveau 2, l'attraction causera 200 dégâts aux zombies proches de la cible de l'attraction.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Planterne + Champi-aimant</color></size>"
         },
         {
             "seedType": 1101,
