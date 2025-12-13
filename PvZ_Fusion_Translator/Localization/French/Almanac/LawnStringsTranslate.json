@@ -331,10 +331,10 @@
         },
         {
             "seedType": 904,
-            "name": "Champi-maître",
-            "introduce": "<size=36><color=black>La Mort emploierait-elle une fashionista ? Champi-maître n'en avait aucune idée, mais après avoir remarqué qu'il ne pouvait pas systématiquement effrayer les zombies, il s'est tourné vers Champi-hypno pour quelques suggestions de costumes. Même si les gens ne sont peut-être pas favorables à la Mort, comment réagiraient-ils s'il portait des ailes de glace étincelantes ?</color></size>",
-            "info": "<size=36>Champi-maître inflige d'énormes dégâts, tout en charmant et en ralentissant les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>120/0.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>A une chance de charmer les zombies avec des PV < 50 %, créant une explosion dans la grille où se trouve le zombie charmé avec trois fois les dégâts normaux.</color >\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-glacier + Frostveil-champignon</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Les fumées infligent désormais 3 fois plus de DMG\n2. Augmentation de la vitesse de congélation de 3 fois</color></size>",
-            "cost": ""
+            "name": "Champi-nator",
+            "introduce": "<align=justified><size=36><color=black>La Mort engagerait-elle une fashionista ? Champi-nator n’en savait rien, mais après avoir constaté qu’il n’effrayait pas toujours les zombies, il demanda conseil à Champi-Hypno pour améliorer son costume. Les gens n’aiment peut-être pas la Mort… mais comment réagiraient-ils si elle portait des ailes de glace scintillantes ?</color></size>",
+            "info": "<size=36>Champi-nator inflige des dégâts massifs tout en hypnotisant et ralentissant les zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Dégâts : </color><color=#8B0000>100 / 0,5 s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque coup ajoute 20 points de Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> A une chance de transformer les zombies avec une Robustesse < 40 % en Sentinelles Noix-Glacée hypnotisées.\n<color=black>•</color> Provoque une explosion sur la case du zombie hypnotisé, infligeant 450 dégâts.</color>\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Vitesse d’attaque de Dominateur ×3 ; dégâts d’attaque de Thornminator ×3\n2. Les zombies subissent des dégâts équivalents à 30 % de leurs PV actuels à chaque dégel</color></size>",
+            "cost": "<size=36>Formule de fusion : <color=#8B0000>Champi-glace Maudite + Champi-cryogène</color>"
         },
         {
             "seedType": 905,
