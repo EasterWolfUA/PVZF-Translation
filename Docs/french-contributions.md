@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* **Traductions ajustées** : *106*
-* **Nouvelles traductions** : *144*
-* **Reviews effectuées** : *66*
+* **Traductions ajustées** : *112*
+* **Nouvelles traductions** : *147*
+* **Reviews effectuées** : *86*
 
 **Réseaux & contacts**
 
@@ -32,75 +32,67 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ## Contributeur
 
-### [Lyolia](./french-contributor/lyolia.md)
-
-**Statistiques de contribution**
-
-* Traductions ajustées : *23*
-* Nouvelles traductions : *0*
-
-**Réseaux & contacts**
-
-* **Email** : *à renseigner*
-* **GitHub** : *à renseigner*
-* **Site web** : *à renseigner*
-* **LinkedIn** : *à renseigner*
 
 ### [Oarlina](./french-contributor/oarlina.md)
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *7*
+* Traductions ajustées : *14*
 * Nouvelles traductions : *0*
 
 **Réseaux & contacts**
 
-* **Email** : *à renseigner*
-* **GitHub** : *à renseigner*
-* **Site web** : *à renseigner*
-* **LinkedIn** : *à renseigner*
+* **GitHub** : [Oarlina](https://github.com/Oarlina) 
+* **LinkedIn** : [Rachel Marquant](https://www.linkedin.com/in/rachel-marquant-98bb4536a/)
 
-### [Samael](./french-contributor/same_el.md)
-
-**Statistiques de contribution**
-
-* Traductions ajustées : *36*
-* Nouvelles traductions : *0*
-
-**Réseaux & contacts**
-
-* **Email** : *à renseigner*
-* **GitHub** : *à renseigner*
-* **Site web** : *à renseigner*
-* **LinkedIn** : *à renseigner*
 
 ### [Hubtech](./french-contributor/hubtech.md)
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *0*
+* Traductions ajustées : *18*
 * Nouvelles traductions : *0*
 
 **Réseaux & contacts**
 
-* **Email** : *à renseigner*
-* **GitHub** : *à renseigner*
-* **Site web** : *à renseigner*
-* **LinkedIn** : *à renseigner*
+* **GitHub** : [Hubtech280](https://github.com/Hubtech280)
+
+
+### [Samael](./french-contributor/same_el.md)
+
+**Statistiques de contribution**
+
+* Traductions ajustées : *52*
+* Nouvelles traductions : *0*
+
+**Réseaux & contacts**
+
+* **GitHub** : [Same-ael](https://github.com/Same-ael)
+
 
 ### [Ink Stolas](./french-contributor/ink-stolas.md)
 
 **Statistiques de contribution**
 
-* Traductions ajustées : *0*
+* Traductions ajustées : *2*
 * Nouvelles traductions : *0*
 
 **Réseaux & contacts**
 
-* **Email** : *à renseigner*
-* **GitHub** : *à renseigner*
-* **Site web** : *à renseigner*
-* **LinkedIn** : *à renseigner*
+* **Email** : [argoss.secrets@gmail.com](mailto:argoss.secrets@gmail.com)
+* **GitHub** : [ink-stolas](https://github.com/ink-stolas)
+
+
+### [Lyolia](./french-contributor/lyolia.md)
+
+**Statistiques de contribution**
+
+* Traductions ajustées : *21*
+* Nouvelles traductions : *0*
+
+**Réseaux & contacts**
+
+* **GitHub** : [Deicture](https://github.com/Deicture)
 
 
 ## Contributeur Innactif
@@ -109,7 +101,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 * Grymm80
 * Jedi
 * Ronny
-* Mamoru-kun
+* [Mamoru-kun](https://github.com/Nanami-Houko)
 
 
 ---
@@ -117,6 +109,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 ## Remerciements
 
 Chaque contribution, même ponctuelle, participe à l’amélioration globale du projet. La traduction est un processus itératif et collaboratif, renforcé par la diversité des regards et des sensibilités linguistiques.
+
+Nous souhaitons également adresser nos remerciements au mainteneur du projet [Mamoru-kun](https://github.com/Nanami-Houko), pour la confiance accordée au pôle francophone, la liberté laissée dans l’organisation du travail et le soutien apporté à cette démarche collective.
 
 Si vous avez contribué au projet et que votre nom ne figure pas encore dans ce document, merci de le signaler afin que cette reconnaissance soit complète.
 
