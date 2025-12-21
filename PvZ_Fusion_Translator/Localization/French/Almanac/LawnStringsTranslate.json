@@ -94,16 +94,16 @@
         {
             "seedType": 13,
             "name": "Écraseur",
-            "introduce": "<size=36><color=black>\"Je suis prêt !\" crie Écraseur. \"Faisons-le ! Mettez-moi dedans ! Il n'y a personne de mieux ! Je suis votre homme ! Allez ! Qu'attendez-vous ? J'ai besoin de ça !\"</color></size>",
-            "info": "<size=36>L'Écraseur écrasera le premier zombie à proximité.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"JE SUIS PRÊT!\" crie Écraseur. \"Allez! Pose-moi! Personne n'écrase mieux que moi! C'est MON moment! Dépêche-toi! J'en ai besoin!\"</color></size>",
+            "info": "<size=36>L'Écraseur écrase le premier zombie qui s'approche trop près.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Les zombies écrasés n'activent pas leurs effets après la mort.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         },
         {
             "seedType": 14,
             "name": "Triple Pisto-pois",
-            "introduce": "<size=36><color=black>Triple Pistopois aime la lecture, le backgammon et les longues périodes d'immobilité dans le parc. Triple Pisto-pois aime aller aux spectacles, notamment de jazz moderne. \"Je recherche juste quelqu'un de spécial\", dit-il. Le numéro préféré de Triple Pisto-pois est le 5.</color></size>",
-            "info": "<size=36>Les Triple Pisto-pois tirent des pois dans 3 lignes.\n\n<color=black>Dégâts : </color><color=#8B0000>20*3/1.5 Secondes</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>275</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>Triple Pisto-pois aime lire, jouer au backgammon et rester immobile longtemps dans le parc. Il aime aller à des spectacles, surtout du jazz moderne. \"Je cherche juste quelqu'un de spécial,\" dit-il. Son chiffre préféré est le 5.</color></size>",
+            "info": "<size=36>Triple Pisto-pois tire des pois sur trois rangées.\n\n<color=black>Dégâts: </color><color=#8B0000>20×3 / 1.5 s</color>\n<color=black>Spécial: </color><color=#8B0000>Triple Pisto-pois et ces fusions redirigent les projectiles qui seraient perdus hors-carte depuis les rangées supérieures ou inférieures vers leur propre rangée.</color></size>",
+            "cost": "<size=36>Coût: <color=#8B0000>275</color>\nRecharge: <color=#8B0000>7.5 s</color></size>"
         },
         {
             "seedType": 15,
@@ -808,9 +808,9 @@
         {
             "seedType": 1047,
             "name": "Triple Pisto-écraseur",
-            "introduce": "<size=36><color=black>\"Il a trois têtes, et sa base n'est même pas une feuille ! Il ne ressemble en rien à un pois ordinaire !\" De nombreuses plantes se recroquevillent devant l'apparence particulière de l'Écraseur-épandeur. Pourtant, l’Écraseur-épandeur reste imperturbable. Il s'épanouit dans sa vie vibrante, combattant les zombies, lisant avec voracité, jouant aux échecs et remportant tous les concours de saut à la piscine.</color></size>",
-            "info": "<size=36>Écraseur-spreader peut tirer des petits écraseurs rebondissants.\n\n<color=black>Dégâts : </color><color=#8B0000>40*3/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque fois qu'un mini-Écraseur touche le sol, il inflige 40 points de dégâts aux zombies proches.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Triple Pisto-pois</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Trois têtes, pas une seule feuille, et ce n'est même pas un vrai Pisto-pois!\" Beaucoup de plantes reculent devant l'apparence étrange du Triple Pisto-écraseur. Lui, il s'en fiche. Il aime sa vie pleine d'énergie : combattre des zombies, lire sans arrêt, jouer aux échecs et gagner tous les concours de ricochets.</color></size>",
+            "info": "<size=36>Le Triple Pisto-écraseur tire de petits Écraseurs rebondissants.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3 / 3 s</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque contact avec le sol, un mini-écraseur inflige 40 dégâts aux zombies proches.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Triple Pisto-pois</color></size>"
         },
         {
             "seedType": 1049,
@@ -821,10 +821,10 @@
         },
         {
             "seedType": 1050,
-            "name": "Mutil-algue",
-            "introduce": "<size=36><color=black>Mangle Kelp s'impose comme un véritable philosophe parmi les plantes. Il réfléchit souvent à des questions profondes telles que : \" D'où vient l'herbe et où va-t-elle ? Cependant, son mépris de l'hygiène personnelle et ses cheveux négligés font fuir les autres plantes, préférant garder leurs distances.</color></size>",
-            "info": "<size=36>Mutil-algue peut tirer 3 zombies sous l'eau.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta*3</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Algue</color></size>",
-            "cost": ""
+            "name": "Algue Étrangleuse",
+            "introduce": "<align=justified><size=36><color=black>L'Algue Étrangleuse se démarque comme une vraie philosophe parmi les plantes. Elle se pose souvent des questions profondes, comme \"D'où vient l'herbe, et où va-t-elle?\" Mais son manque d'hygiène et ses algues emmêlées font que les autres plantes préfèrent garder leurs distances.</color></size>",
+            "info": "<size=36>L'Algue Étrangleuse peut entraîner trois zombies dans l'eau.\n\n<color=black>Dégâts: </color><color=#8B0000>Mort instantanée (Noyade) ×3</color>\n<color=black>Spécial: </color><color=#8B0000>Elle entraîne trois zombies dans l'eau. Chaque traînée inflige aussi 600 dégâts aux zombies proches.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Algue</color></size>"
         },
         {
             "seedType": 1051,
@@ -912,10 +912,10 @@
         },
         {
             "seedType": 1063,
-            "name": "Écraseur écrasé",
-            "introduce": "<size=36><color=black>\"Hein ? Ouais.\" Ce slogan appartient à Écraseurweed, qui parle rarement et laisse souvent les autres incertains. Après le dîner, le thème des épines devient toujours un thème favori parmi les plantes. On raconte qu'un après-midi ordinaire, alors qu'Écraseur se préparait à écraser un zombie à proximité, il a négligé les épines qui se cachaient sous ses pieds.</color></size>",
-            "info": "<size=36>Les zombies seront repoussés à chaque attaque.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque repoussera les zombies et tirera 1 mini-Écraseur rebondissant.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Écraseur + Ortie</color></size>",
-            "cost": ""
+            "name": "Écraseur Écrasé",
+            "introduce": "<align=justified><size=36><color=black>\"Hein? Ouais.\" C'est la phrase fétiche de l'Écraseur Écrasé, qui parle rarement et laisse souvent les autres incertains. Après le dîner, le sujet des orties devient toujours un favori parmi les plantes. On raconte qu'un après-midi ordinaire, alors que l'Écraseur s'apprêtait à écraser un zombie proche, il a oublié les orties tapis sous ses pieds.</color></size>",
+            "info": "<size=36>Les zombies sont repoussés à chaque attaque.\n\n<color=black>Dégâts: </color><color=#8B0000>20 / 1.5 s</color>\n<color=black>Spécial: </color><color=#8B0000>Chaque attaque repousse les zombies et lance 1 mini-Écraseur rebondissant.</color></size>",
+            "cost": "<size=36>Formule de fusion: <color=#8B0000>Écraseur + Ortie</color></size>"
         },
         {
             "seedType": 1064,
@@ -2802,9 +2802,9 @@
         },
         {
             "seedType": 1210,
-            "name": "Lance Portail",
-            "introduce": "<align=justified><size=36><color=black>\" Tu as vu Interstellar, hein ? \" demande Lance Portail en abordant, comme toujours, son film de science-fiction préféré. \" Le héros traverse un champ de maïs au début, puis un trou noir à la fin… Il y a *forcément* un lien entre les deux ! \" insiste-t-il.</color>",
-            "info": "<size=36>Le Lance Portail peut projeter une noix neutronique capable de créer une mini singularité.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer une noix neutronique infligeant 100 dégâts et générant une mini singularité à l’impact. Celle-ci ralentit fortement les zombies puis explose après 2 secondes, infligeant 100 dégâts et réduisant de 30 secondes le compte à rebours des zombies affectés par la Chronodissolution.</color>",
+            "name": "Lance-portail",
+            "introduce": "<align=justified><size=36><color=black>\" Tu as vu Interstellar, hein ? \" demande Lance-portail en abordant, comme toujours, son film de science-fiction préféré. \" Le héros traverse un champ de maïs au début, puis un trou noir à la fin… Il y a *forcément* un lien entre les deux ! \" insiste-t-il.</color>",
+            "info": "<size=36>Le Lance-portail peut projeter une noix neutronique capable de créer une mini singularité.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante métallique. A 25 % de chances de lancer une noix neutronique infligeant 100 dégâts et générant une mini singularité à l’impact. Celle-ci ralentit fortement les zombies puis explose après 2 secondes, infligeant 100 dégâts et réduisant de 30 secondes le compte à rebours des zombies affectés par la Chronodissolution.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Maïs Magnétique</color>"
         },
         {
@@ -2876,6 +2876,20 @@
             "introduce": "<align=justified><size=36><color=black>Il a abandonné la tourelle au tir incessant pour un railgun à la puissance précise et silencieuse, canalisant une force électromagnétique capable de rappeler à certains le célèbre Railgun de la Cité Académique, ainsi qu’un tireur implacable vêtu de noir.</color>",
             "info": "<size=36>Consomme de la Robustesse pour tirer des rayons pulsés à perforation infinie.\n\n<color=#4A2900>Condition d’utilisation : </color><color=#8B0000>Mode Odyssée | Déblocable avec la Tourelle de l’Apoicalypse</color>\n<color=black>Dégâts : </color><color=#8B0000>300×5/3 s</color>\n<color=black>Portée de recherche : </color><color=#8B0000>Secteur horizontal ±10°</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de la Tourelle Apoicalypse : ses attaques percent à l’infini et peuvent cibler les unités aériennes.\n<color=black>•</color> Si la Robustesse est supérieure à 500, chaque attaque consomme 100 points de Robustesse. Les autres plantes ne peuvent pas absorber les dégâts à sa place.\n<color=black>•</color> La puissance d’attaque augmente linéairement à mesure que la Robustesse diminue, jusqu’à un maximum de 900.</color>",
             "cost": "<size=36>Formule de conversion : <color=#8B0000>Pisto-pois <-> Pois-sniper</color>"
+        },
+        {
+            "seedType": 943,
+            "name": "McCornics le Quantique",
+            "introduce": "<size=36><color=black>Né à l’aube de l’univers, McCornics le Quantique est une entité dont l’âge dépasse toute mesure. Depuis le vide primordial, il a arraché trois étoiles pour les faire graviter autour de lui comme des lunes — des trésors que même les trous noirs ne pourraient lui dérober. Aujourd’hui, l’ancien trouve du plaisir à jouer avec ce souvenir cosmique, aussi ancien que lui.</color></size>",
+            "info": "<size=36>Lance des trous noirs ultra-denses qui s’effondrent en explosions, libérant toute l’énergie absorbée.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 2 s (Mini Beurre)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante métallique.\n<color=black>•</color> 75 % de chances de lancer un Mini Beurre, réduisant la taille et les PV des zombies (hors mini-boss) à 70 %. En cas d’échec, la cible est étourdie pendant 1,5 seconde. Élimine instantanément les zombies de type diablotin.\n<color=black>•</color> 25 % de chances de lancer un Trou Noir Ultime durant 2 secondes, ralentissant les zombies à proximité et absorbant les projectiles de McCornics dans une zone de 3×3.\n<color=black>•</color> Chaque projectile absorbé ajoute 2 secondes à sa durée, jusqu’à un maximum de 7,5 secondes. Lorsqu’il disparaît, il déclenche une grande explosion (de la taille d’une Cerise explosive) infligeant 320 dégâts + 60 % des dégâts stockés. Si sa durée a dépassé 5 secondes, le rayon de l’explosion est considérablement augmenté.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Le Trou Noir Ultime peut absorber tous les projectiles\n2. Rayon d’absorption du Trou Noir Ultime ×2</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-portail > Bout de maïs ×3</color></size>"
+        },
+        {
+            "seedType": 945,
+            "name": "Noix Astrale",
+            "introduce": "<size=36><color=black>Noix Astrale voyage à travers d’innombrables mondes parallèles du multivers et a contemplé de nombreuses merveilles — d’un Sphinx jouant une musique inquiétante dans des déserts oubliés, à une ruine suspendue dans le ciel où s’agitait autrefois une idole à trois têtes ; des météorites luminescentes près des rivages de Tiberium aux forteresses blindées marquées du sceau Z-Tech. Il erre à travers les rêves, juste hors de portée de la mémoire. Le passé s’efface — mais ici, il est tout à fait prêt pour une nouvelle aventure.</color></size>",
+            "info": "<size=36>Noix cosmique dotée de capacités extraordinaires de rembobinage temporel et d’invulnérabilité.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec McCornics le Quantique</color>\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de McCornics le Quantique, immunisée contre l’écrasement et ne subit jamais plus de 1000 dégâts par coup.\n<color=black>•</color> Après avoir subi 4000 dégâts, rembobine ses PV à leur valeur d’il y a 3 secondes et devient invulnérable pendant 2 secondes. Dans les 10 secondes suivant un rembobinage, chaque rembobinage au-delà du troisième coûte 500 PV (les rembobinages effectués dans cette fenêtre de 10 secondes ne réinitialisent pas le compteur).\n<color=black>•</color> 33 % de chances d’ignorer les dégâts entrants. Possède 25 % de chances de téléporter les zombies mordants vers la case la plus à droite de sa voie (temps de recharge : 10 secondes).\n<color=black>•</color> Si ses PV tombent en dessous de sa robustesse maximale, restaure des PV équivalents à 1× sa robustesse après 30 secondes consécutives sans subir de dégâts.</color></size>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Lance-maïs <-> Noix</color></size>"
         }
     ]
 }
