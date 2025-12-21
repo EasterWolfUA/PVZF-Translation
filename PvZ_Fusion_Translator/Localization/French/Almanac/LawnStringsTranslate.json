@@ -997,9 +997,9 @@
         {
             "seedType": 1075,
             "name": "Lave Épineuse",
-            "introduce": "<size=36><color=black>Il n'y a pas si longtemps, Spikinferno s'est rendu au Mexique et a été emporté par l'enthousiasme vibrant des locaux, tombant rapidement amoureux des tacos. Maintenant, il consacre toute son énergie dans un musée de tacos aux côtés de Spikecicle, bien que Spikecicle ne semble pas partager son enthousiasme.</color></size>",
-            "info": "<size=36>Enflamme les zombies qui marchent dessus et perce les pneus.\n\n<color=black>Robustesse : </color><color=#8B0000>450</color>\n<color=black>Dégâts : </color><color=#8B0000>40*2/1 Secondes</color>\n<color=#720026>Debuff Enflammé : </color><color=#8B0000>Applique le Debuff Enflammé lorsque vous attaquez des zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Jalapeño + Spikerock</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>Il n'y a pas si longtemps, Lave Épineuse s'est rendu au Mexique et a été emporté par l'enthousiasme vibrant des locaux, tombant rapidement amoureux des tacos. Maintenant, elle consacre toute son énergie dans un musée de tacos aux côtés de Glace Épineuse, bien que Glace Épineuse ne semble pas partager son enthousiasme.</color></size>",
+            "info": "<size=36>Enflamme les zombies qui marchent dessus et crève les pneus des véhicules.\n\n<color=black>Robustesse: </color><color=#8B0000>450</color>\n<color=black>Dégâts: </color><color=#8B0000>40×2/1 secondes</color>\n<color=black>Spécial: </color><color=#8B0000>Hérite des caractéristiques de Pierre Épineuse. Applique le débuff \" Enflammé \" quand il attaque des zombies.</color></size>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Jalapeño + Pierre Épineuse</color>"
         },
         {
             "seedType": 1076,
