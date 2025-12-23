@@ -860,7 +860,6 @@
   "大型泳池": "Estanque",
   "平顶山泳池": "Arroyo",
   "反转泳池": "Río",
-  "雪原泳池": "Piscina Nevada",
   "购买步数": "<size=29>Compra\nMovimiento",
   "游戏规则：旗子移动规则满足中国象棋的旗子移动规则\n玩家每回合只可移动1株植物，随后僵尸将展开进攻\n击败这一波僵尸后可以继续移动1株植物": "Reglas: Las piezas se mueven acorde a las reglas de Ajedrez Chino.\nPuedes mover 1 planta por turno; los zombies atacarán tras hacer esto.\nDerrota a la horda actual de zombis para ganar otro turno.",
   "更换地图": "Cambiar Escena",
@@ -1589,5 +1588,5 @@
   "View 词条5": "Ver Modificador 5",
   "暂无": "N/A",
   "在5个队伍中选择1个你认为最强的队伍": "¡De los 5 equipos, elige cual crees que será el mejor!",
-  "为你的队伍挑选词条": "Elige el modificador para tu equipo",
+  "为你的队伍挑选词条": "Elige el modificador para tu equipo"
 }
