@@ -1028,7 +1028,7 @@
   "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>30 Segundos</color></size>"
  },
  {
-   "seedType": 224,
+   "seedType": 225,
    "name": "Casco All-Star",
    "introduce": "<size=39><color=#3D1400>Este tipo de cosas están por todas partes en el campo de fútbol americano, así lo evalúan las plantas. Pero la Deportralladora respondió seriamente: \"Este casco de rugby es especial, porque su antiguo dueño era el único que realmente entendía el fútbol\".</color></size>",
    "info": "<size=39>Puede fusionarse con algunas plantas, haciéndolas duras como el acero.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Puedes colocarla en el campo como una planta normal, o la puedes usar de ingrediente para algunas fusiones.\n- Revisa bien el almanaque antes de fusionar. Algunas plantas metálicas necesitarán Magnetoseta en su fórmula de fusión; otros, no.\n- Las plantas fusionadas con el Casco All-Star tienen mayor resistencia y reciben la mitad de daño de cerezas explosivas.</color></size>",
@@ -6959,6 +6959,13 @@
    "introduce": "<size=39><color=#3D1400>La Shurikenseta dispara estrellas gigantes al impactar zombis, mejorando mucho la eficiencia del ataque. \"Si elimináramos el disparo hacia atrás, la eficiencia sería aún mayor\", comenta un aliado esquivando proyectiles que regresan.</color></size>",
    "info": "<size=39>Dispara estrellas gigantes que perforan y se dividen en cinco estrellas pequeñas.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20*5 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Su estrella gigante no inflige daño. Perfora 2 veces y en cada impacto se divide en 5 estrellas más pequeñas, las cuales si hacen daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Humoseta + Frustrella</color></size>",
    "cost": "<size=39>Costo: <color=red>200, 275</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1357,
+    "name": "Maceta Miédica",
+   "introduce": "<size=39><color=#3D1400>En la escuela, la Maceta Miédica siempre se acurruca y evita interactuar con los demás. Como los hongos que cultiva son menos que los de sus compañeros, él cree que es inferior. Lo que su miedo le impide notar es que sus compañeros en realidad sienten envidia: los hongos que él cultiva son los más deliciosos de todos.</color></size>",
+   "info": "<size=39>Potencia a la planta que tiene encima dependiendo de su valor.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Le agrega un bonus de daño a la planta que tiene encima por [0,04 x (el costo de Soles de esa planta)]%, hasta un 20%.\n- Si la planta encima es una Seta Miédica (o una de sus fusiones), el bonus de daño se vuelve 2 x (bonus base + 10%), hasta 60%\n- Se asusta si hay zombis presente en un área de 3x3 y su bonus de daño se detiene. Tras salir de su estado asustado, el bonus de daño gradualmente vuelve sobre 3 segundos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Maceta + Seta Miédica (En Orden)</color></size>",
+   "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
