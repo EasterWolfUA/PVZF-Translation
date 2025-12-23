@@ -6,8 +6,8 @@
   "^确定退出吗？\\s+": "Are you sure you want to exit?\nProgress will not be saved!\nExcept for Survival Mode.",
   "下一阶段：(\\d+)分(\\d+)秒\\s+当前水分：(\\d+)/100\\s+当前成长阶段：(\\d+)/2\\s+成长值：(\\d+)/100": "<size=40>Cooldown: {0}:{1}\nHydration: {2}/100\nStage: {3}/2\nFavorability: {4}/100",
   "-------UI - Buttons": "UI - Buttons-------",
-  "查看([^\\s：]+)": "View {0}",
-  "返回([^\\s：]+)": "<size=34>Back to {0}",
+  "^查看([^\\s：]+)": "View {0}",
+  "^返回([^\\s：]+)": "<size=34>Back to {0}",
   "回到([^\\s：]+)": "Back to {0}",
   "-------UI - Playing": "UI - Playing-------",
   "快捷键：(\\d+)": "<size=20>Hotkey: {0}",
@@ -238,5 +238,6 @@
   "第(\\d+)关\n场景：([^\\s]+)\n总波数：(\\d+)波\n特殊环境：([^\\s]+)\n难度：(\\d+)": "Level {0}\nScene: {1}\nTotal Waves: {2}\nModifiers: {3}\nDifficulty: {4}",
   "事件：([^\\s]+)": "Modifiers: {0}",
   "成功保存文件到:([^\\s]+)": "Custom level saved successfully! The location of the level file is:\r\n{0}",
-  "^(\\d+)分": "Score: 0"
+  "^(\\d+)分": "Score: {0}",
+  "对局结束，第(\\d+)路获胜！": "Match Over - Lane {0} Wins!!!"
 }

@@ -2461,7 +2461,7 @@
             "seedType": 1203,
             "name": "Popcorn-pult",
             "introduce": "<align=justified><size=36><color=black>\"The results of this experiment: dense planting is not conducive to plant growth, and the corn ears have obviously shrunk.\" Dave bent down, took out a magnifying glass, and looked at the Popcorn-pult, \"Not suitable for making corn rolls anymore.\" Popcorn-pult said angrily, \"The results of this experiment show that the concentrated ones are all the essence!\"</color>",
-            "info": "<size=36>A tiny Kernel-pult, with a chance to throw a small butter that shrinks zombies.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Has a 25% chance to throw a small butter that deals 40 damage, which shrinks the size and health of non-shrunken zombies by a factor of 0.7, otherwise it will be stunned for 1.5 seconds, while Imps are killed instantly. Prioritizes zombies that are not shrunken.</color>",
+            "info": "<size=36>A tiny Kernel-pult, with a chance to throw a small butter that shrinks zombies.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Has a 25% chance to throw a small butter that deals 40 damage, which shrinks the size and health of non-shrunken zombies by a factor of 0.7, otherwise it will be stunned for 1.5s, while Imps are killed instantly. Prioritizes zombies that are not shrunken.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Kernel-pult > Puff-shroom</color>"
         },
         {
@@ -3336,7 +3336,7 @@
             "seedType": 1328,
             "name": "Stench-spreader",
             "introduce": "<align=justified><size=36><color=black>\"Ugh, your taste stinks! I hate you two!\" cries the third head. Zombies think he's crying from his fellows' smell, but actually, it's just because of their terrible taste in music. \"We don't even have noses,\" the first head explains.</color>",
-            "info": "<size=36>Shoots Poison peas; makes poisoned zombies release toxic clouds on hit.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within. There can be up to 1 Toxic Cloud per lane.</color>",
+            "info": "<size=36>Shoots Poison peas; makes poisoned zombies release toxic clouds on hit.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within. There can be up to 1 active Toxic Cloud per lane.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Garlic</color>"
         },
         {
