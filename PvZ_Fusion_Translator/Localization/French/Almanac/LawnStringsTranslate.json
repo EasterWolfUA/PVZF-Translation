@@ -457,10 +457,10 @@
         },
         {
             "seedType": 922,
-            "name": "Citrouille Grenade",
-            "introduce": "<size=36><color=black>Cerise ? Citrouille ? Ou un hybride né de la fusion ? Le Blast Citrouille ne s'embarrasse pas de tels détails. Pour lui, Halloween consiste à distribuer des cerises juteuses aux gentils enfants et des bombes cerises aux méchants – rien d'autre n'a d'importance. </couleur>",
-            "info": "<size=36>Citrouille anti-explosion.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>N'engendre plus de drones en vol stationnaire, immunisés contre les explosions de cerises et n'en soigne plus. Toutes les 30 secondes, un drone autodestructeur apparaît qui recherche les zombies et explose comme une Cerise Explosive.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Citrouille Laser + Cerise Explosive</color>",
-            "cost": ""
+            "name": "Citrouille-grenade",
+            "introduce": "<align=justified><size=36><color=black>Cerise ? Citrouille ? Ou hybride né d’une fusion ? La Citrouille-grenade ne s’encombre pas de ces détails. Pour elle, Halloween consiste à distribuer de juteuses cerises aux gentils enfants… et des bombes cerises aux vilains. Le reste est secondaire.</color></size>",
+            "info": "<size=36>Citrouille résistante aux explosions.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable avec Citrouille-laser</color>\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Citrouille-laser. Hérite de ses autres propriétés mais ne génère plus de drones laser et n’assimile plus les Citrouilles Mécanique. À la place, elle déploie toutes les 30 s des drones kamikazes qui traquent les zombies et explosent comme une Cerise Explosive.\n<color=black>•</color> Absorbe les dégâts des explosions de cerises pour se soigner.</color></size>",
+            "cost": "\n<size=36>Formule de conversion : <color=#8B0000>Cactus <-> Cerise Explosive</color></size>"
         },
         {
             "seedType": 923,
@@ -1325,7 +1325,7 @@
         },
         {
             "seedType": 1122,
-            "name": "Canon Volcanique",
+            "name": "Canon Enflammé",
             "introduce": "<size=36><color=black>Pyro Cannon a une activité de pop-corn en plein essor. L'arôme enflammé fait courir les zombies, ajoutant du piquant à n'importe quel événement. Il envisage même bientôt une séance de hot pot avec Jalapeño.</color>",
             "info": "<size=36>Utilisez-le manuellement pour tirer un projectile enflammé explosif à dégâts élevés qui brûle les zombies et infuse les plantes à proximité de Jalapeño.\n\n<color=black>Dégâts : </color><color=#8B0000>3600 (Incendiaire), inflige le Debuff Enflammé</color>\n<color=black>Spécial : </color><color=#8B0000>Infuse les plantes dans son rayon d'explosion avec du Jalapeño.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Jalapeño</color>",
             "cost": "<size=36>"
@@ -1514,7 +1514,7 @@
         },
         {
             "seedType": 1149,
-            "name": "Pastèque Enflammé",
+            "name": "Pastèque Enflammée",
             "introduce": "<align=justified><size=36><color=black>Les plantes ont toujours l'impression que les Lance-pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais le Lance-pastèque explique : \" Je n'ai pas mis de pétards dans la pastèque ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !\"</color>",
             "info": "<size=36>Lance des pastèques incroyablement chaud !\n\n<color=black>Dégâts : </color><color=#8B0000>120/3s </color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Lance-pastèque + Jalapeño</color>"
@@ -2897,6 +2897,48 @@
             "introduce": "<align=justified><size=36><color=black>L’Étincelle Infernale brûle plus intensément que n’importe quelle flamme, mais c’est la cuisine futuriste qui a véritablement enflammé la compétition. Lors de la grande finale du Duel Culinaire, elle a partagé son trophée avec Noix Astrale, dont les en-cas temporels ont laissé les juges sans voix. Même le juge McCornics a qualifié le plat de \" hors du temps \".</color>",
             "info": "<size=36>Une Torche embrasée par les flammes d'une Carambole, dotée d'une puissance de feu extrême et conférant aux projectiles étoiles un guidage automatique.\n\n<color=#4A2900>Condition d’utilisation : </color><color=#8B0000>Mode Odyssée | Déblocable avec Écraseur infernal</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l’Écraseur infernal.\n<color=black>•</color> Ne génère plus d’Écraseurs épicés. Tous les 51 projectiles affectés, fait apparaître une Carambole Épicée devant elle.\n<color=black>•</color> Enflamme les projectiles stellaires (sauf étoiles épicées) : dégâts ×2, suppression des propriétés d’origine (sauf étoiles Magnétar), et acquisition d’un guidage global avec priorité aux unités aériennes.\n<color=black>•</color> Les cerises explosives deviennent des Étoiles explosives : dégâts ×2, guidage global avec priorité antiaérienne.\n<color=black>•</color> Affecte les autres projectiles comme l’Écraseur infernal. Déclenche l’effet Jalapeño à sa destruction.</color>",
             "cost": "<size=36>Formule de conversion : <color=#8B0000>Écraseur <-> Carambole</color>"
+        },
+        {
+            "seedType": 237,
+            "name": "Baie Hivernale",
+            "introduce": "<align=justified><size=36><color=black>Bien qu'elle crie souvent  \"Coupez leur la tête!\", la Baie Hivernale ne cherche pas le conflit. En tant que maître des arts martiaux de la Montagne Enneigée, sa technique consiste à transformer la glace en lames peut dissuader tout intrus indésirable.</color>",
+            "info": "<size=36>Chaque attaque libère 5 lames de glace en éventail.\n\n<color=blue>Plante de la collaboration avec SHUTTLE (jeu non officiel PVZ 2)</color>\n<color=black>Dégâts: </color><color=#8B0000>20×5/1.5s</color>\n<color=#0077b6>Système Cryo: </color>Les lames percent deux fois, appliquent l'Altération Cryo, ajoutent 5 points de Cryo et inflige ×4 de dégâts aux zombies déjà gelés.</color>\n<color=black>Spécial: </color><color=#8B0000>Attaque uniquement lorsqu’il y a des zombies dans sa propre ligne.",
+            "cost": "<size=36>Coût: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 953,
+            "name": "Canon Volcanique",
+            "introduce": "<align=justified><size=36><color=black>Né du feu qui forgea les étoiles, le Canon Volcanique brûle comme à l’aube de la création — non pour se répandre sans fin, mais pour mettre un terme à toute chose. Lorsque sa dernière flamme s’éteindra, il ne restera que le silence après la première étincelle.</color></size>",
+            "info": "<size=36>Projette des épis de lave et de chaleur pure.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable</color>\n<color=black>Dégâts : </color><color=#8B0000>3600 (zone 3×3) / 36 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Imprègne toutes les plantes dans la zone d’explosion (3×3) avec l’effet Cerise Explosive (prioritaire) ou Jalapeno (sauf Citrouilles et Pots de fleurs).\n<color=black>•</color> Les explosions infligent l’altération Enflammé avant d’appliquer les dégâts.\n<color=black>•</color> L’impact se divise en plusieurs bombes volcaniques, dont le nombre augmente selon le nombre de zombies touchés (minimum 6). Les bombes volcaniques infligent des dégâts de zone équivalents à 50 % de l’explosion principale.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>\n1. Dégâts des bombes volcaniques ×5\n2. Déclenche désormais des Détonations thermonucléaires lorsque l’explosion principale touche une Cerise Explosive ou un Jalapeno :\n • Cerise Explosive : libère 10 explosions de Cerise Explosive autour de l’impact\n • Jalapeno : libère 10 effets Jalapeno sur l’ensemble du terrain\n Chaque explosion inflige des dégâts équivalents à (dégâts de l’explosion principale × 18)</color></size>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Piment d'Espelette > Canon Enflammé</color></size>"
+        },
+        {
+            "seedType": 236,
+            "name": "Poirmafrost",
+            "introduce": "<align=justified><size=36><color=black>\"Je suis tombée d’un poirier, et je suis ici depuis longtemps,\" dit Poirmafrost. \"C’est dommage, Isaac Newton n’est pas sous l’arbre... Mais au moins, je peux réfléchir à la physique moi-même.\" Quand prendra-t-elle une pause ? Le jour où les zombies écervelés s’en prendront à elle.",
+            "info": "<size=36>Émet des ondes de choc lorsqu'elle est mordue, infligeant des dégâts et applique l'Altération Cryo\n\n<color=blue>Plante de la collaboration avec SHUTTLE (jeu non officiel PVZ 2)</color>\n<color=black>Robustesse: </color><color=#8B0000>4000</color>\n<color=#0077b6>Système Cryo: </color><color=#8B0000>Lorsqu'elle est mordue, émet une petite onde de choc toutes les 3 s, infligeant 20 dégâts et appliquant l'Altération Cryo, ajoutant 35 points de Cryo.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 238,
+            "name": "Sachrisanthème",
+            "introduce": "<align=justified><size=36><color=black>Le Sachrisanthème adore les plaines enneigées, chaque seconde ici est gratifiante et joyeuse. Après tout, il n'avait jamais vu la neige auparavant.</color>",
+            "info": "<size=36>Confère une invincibilité temporaire aux plantes proches.\n\n<color=blue>Plante de la collaboration avec PVZ: Ultimate (Mod PVZ 1)</color>\n<color=black>Spécial: </color><color=#8B0000>\nDisparaît 2 secondes après avoir été plantée. Confère pendant 6 secondes à toutes les plantes dans une zone de 3×3 une immunité contre tous les dégâts et l'écrasement.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>50s</color>"
+        },
+        {
+            "seedType": 235,
+            "name": "Double-passion",
+            "introduce": "<align=justified><size=36><color=black>Double-passion ne tire qu’un projectile à la fois, alors d'ou viens le \"Double\"? Ah, c’est le bruit des os des zombies qui se brisent. Quelle douce mélodie !</color>",
+            "info": "<size=36>Double-passion flotte et tire des graines sur les zombies.\n\n<color=blue>Plante de la collaboration avec SHUTTLE (jeu non officiel PVZ 2)</color>\n<color=black>Dégâts: </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color>Peut être planté au-dessus d'une autre plante.\n<color=black>•</color>Chaque coup inflige des dégâts supplémentaires égaux à 10 % de la Robustesse maximum du zombie sur son armure de tête (Type 1).\n<color=black>Ultime: </color>Coût : 3000 pièces, Recharge : 2 s ; Lance une graine géante infligeant des dégâts à l’armure équivalents à 20 % de la Robustesse actuels.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 940,
+            "name": "Champi-napalm",
+            "introduce": "<align=justified><size=36><color=black>Champi-napalm n’est pas seulement une boule de feu sur le champ de bataille — ses talents de barbecue sont légendaires. Son rêve ? Organiser le plus grand festin grillé jamais vu, en invitant chaque plante… et chaque zombie de la ville.</color></size>",
+            "info": "<size=36>Lance des pastèques au napalm qui se fragmentent à l’impact et laissent derrière elles un véritable enfer enflammé.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Débloquable</color>\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 6 s + 30 / 0.02 s (Inferno)</color>\n<color=#720026>Altération Enflammé : </color><color=#8B0000>Chaque pastèque crée une zone \" inferno \" durant 2.5 s.</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Portée : 4 cases ; tir manuel : terrain entier. Après avoir lancé une pastèque au napalm, Champi-napalm se repose pendant 1.5 s, puis charge pendant au minimum 6 s. Les dégâts augmentent selon la formule 1 + (temps de charge en secondes × 50 %), jusqu’à un maximum de 30 s de charge.\n<color=black>•</color> Les attaques ignorent toutes les armures et se divisent en 2 pastèques au napalm supplémentaires, ciblant des zombies proches avec les mêmes dégâts.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>\n1. Vitesse de charge et durée maximale de charge ×3\n2. Durée des zones d’inferno ×2</color></size>",
+            "cost": "\n<size=34>Formule de fusion : <color=#8B0000>Pastèque Enflammée + Champi-quarterback</color></size>"
         }
     ]
 }
