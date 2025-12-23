@@ -120,7 +120,7 @@
     "Tyrannoflora Lux: Attack Range ×2",
     "Tyrannoflora Lux: Provides 2 Lumos Level to a 5×5 area during digestion",
     "Vulcannon: Volcanic Bombs Damage ×3 | Kaledera Eruptor: Pyro Cabbages Damage ×3",
-    "Vulcannon: Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos | Kaledera Eruptor: 10% chance to trigger Cherry Bomb or Jalapeno effects when attacking, and the target limit of 10 is removed",
+    "Vulcannon: Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos | Kaledera Eruptor: 10% chance to trigger Cherry Bomb and Jalapeno effects at the barrel position and ignore the target limit of 10",
     "Princess Solarnova: When a solar shot hits a zombie, it cause nearby projectiles to explode as well",
     "Princess Solarnova: Energy cap ×3, Sun production amount after storage overflow ×3",
     "Maelonstrom: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage",
