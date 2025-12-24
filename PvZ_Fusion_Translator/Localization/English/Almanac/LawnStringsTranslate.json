@@ -989,9 +989,9 @@
         },
         {
             "seedType": 964,
-            "name": "Panmelonium Mortar",
-            "introduce": "<align=justified><size=36><color=black>Panmelonium Mortar represents the peak of cold ordnance design: distributed warheads, guided escorts, and relentless frostfire. He advances without haste, ending battles not with fury, but with absolute zero.</color>",
-            "info": "<size=36>Launches bone-chilling clusterbombs for saturated bombardment.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Cob-literator</color>\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) ×40</color>\n<color=black>Reloading Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Cob-literator Cannon.\n<color=black>•</color> Conversions between Panmelonium Mortar and Cob-literator reset remaining reloading time of both to 36s.\n<color=black>•</color> Manually click to fire 4 Oblivion Clusterbombs which spawn 36 additional Minishells. Minishells prioritize targeting zombies on the field, with a higher chance to strike zombies near the aimed position.\n<color=black>•</color> Oblivion Clusterbombs damage the full-screen; Minishells' splash radius is 1.5 tiles. On hit, both apply Freeze for 5s before dealing damage, and permanently reduce zombie speed by 0.005×, up to a maximum reduction to 0.9×.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Damage ×4\n2. Reload Time → 12s</color>",
+            "name": "Pandemelonium Mortar",
+            "introduce": "<align=justified><size=36><color=black>Pandemelonium Mortar represents the peak of cold ordnance design: distributed warheads, guided escorts, and relentless frostfire. He advances without haste, ending battles not with fury, but with absolute zero.</color>",
+            "info": "<size=36>Launches bone-chilling clusterbombs for saturated bombardment.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Cob-literator</color>\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) ×40</color>\n<color=black>Reloading Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Cob-literator Cannon.\n<color=black>•</color> Conversions between Pandemelonium and Cob-literator reset remaining reloading time of both to 36s.\n<color=black>•</color> Manually click to fire 4 Oblivion Clusterbombs which spawn 36 additional Minishells. Minishells prioritize targeting zombies on the field, with a higher chance to strike zombies near the aimed position.\n<color=black>•</color> Oblivion Clusterbombs damage the full-screen; Minishells' splash radius is 1.5 tiles. On hit, both apply Freeze for 5s before dealing damage, and permanently reduce zombie speed by 0.005×, up to a maximum reduction to 0.9×.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Damage ×4\n2. Reload Time → 12s</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Kernel-pult <-> Melon-pult</color>"
         },
         {
@@ -3454,8 +3454,8 @@
         {
             "seedType": 1345,
             "name": "Doom Squash",
-            "introduce": "<align=justified><size=36><color=black>Doom Squash rarely speaks to anyone on the lawn. It silently moves from place to place, leaving craters behind. Among Squashes, it goes by a simple nickname: \"Fat Man.\"</color>",
-            "info": "<size=36>An extremely explosive Squash, and prone to cause collateral damage.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash) + 1800 (5×5, Cremator)</color>\n<color=black>Detection Range: </color><color=#8B0000>2 tiles to the left; 3 tiles to the right</color>\n<color=black>Special: </color><color=#8B0000>Upon landing, triggers a Doom-shroom explosion, leaving a crater at the landing spot, destroying all plants in that tile as well.</color>",
+            "introduce": "<align=justified><size=36><color=black>Doom Squash rarely speaks to anyone on the lawn. It silently moves from place to place, leaving craters behind. Rumor has it that it was originally supposed to be deployed under \"dire circumstances\" but somehow escaped containment.\n\n- Edited by cassidy</color>",
+            "info": "<size=36>An extremely explosive Squash, and prone to causing collateral damage.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash) + 1800 (5×5, Cremator)</color>\n<color=black>Detection Range: </color><color=#8B0000>2 tiles to the left; 3 tiles to the right</color>\n<color=black>Special: </color><color=#8B0000>Upon landing, triggers a Doom-shroom explosion, leaving a crater at the landing spot, destroying all plants in that tile as well.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Doom-shroom</color>"
         },
         {
@@ -3467,8 +3467,8 @@
         },
         {
             "seedType": 1347,
-            "name": "TBD-7",
-            "introduce": "<align=justified><size=36><color=black>\"You two have already taken turns for three whole minutes, now it's my turn!\" The three heads of the TBD-7 have been competing for shared items since childhood, from marbles, to comic books, to a limited-edition commando badge carved from peas.</color>",
+            "name": "Multipeater",
+            "introduce": "<align=justified><size=36><color=black>\"You two have already taken turns for three whole minutes, now it's my turn!\" The three heads of the Multipeater have been competing for shared items since childhood, from marbles, to comic books, to a limited-edition commando badge carved from peas.</color>",
             "info": "<size=36>Can switch between three attack modes, allowing flexible allocation of firepower.\n\n<color=black>Damage: </color><color=#8B0000>20×6(or n)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Has three attack modes that can be switched by tapping on it; targeting behavior changes accordingly:\n<color=black>•</color> 1. Standard Mode: Fires 2 peas each into his own lane and the 2 adjacent lanes;\n<color=black>•</color> 2. Spread Mode: Fires 1 peas each into every lane (if the map has fewer than 6 lanes, the damage from missing shots is evenly redistributed among the remaining shots);\n<color=black>•</color> 3. Focus Mode: Fires 6 peas each into his own lane.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Threepeater</color>"
         },

@@ -17,7 +17,7 @@ Please visit our community for future updates and support.
   - Cherry Squash (Cherry Bomb + Squash)
   - Doom Squash (Doom-shroom + Squash)
   - Blubber-shroom (Fume-shroom + Kernel-pult)
-  - Tactical Threepeater (Peashooter + Threepeater)
+  - Multipeater (Peashooter + Threepeater)
   - Solar Blover (Sunflower + Blover)
   - Puff-kin (Puff-shroom > Pumpkin)
   - Fumy Pumpkin (Fume-shroom > Pumpkin)
@@ -34,7 +34,7 @@ Please visit our community for future updates and support.
     - Twin Inferno-nut (Twin Solar-nut + Jalapeno)
     - Cornveyor Weed (Squashweed + Butterweed)
   - Epic:
-    - Panmelonium Mortar (Cob-literator Cannon + Melon-pult)
+    - Pandemelonium Mortar (Cob-literator Cannon + Melon-pult)
     - Kaledera Eruptor (Vulcannon + Kernel-pult)
     - Pump-kaptivator (Charmatron > Pumpkin)
   - SP:
