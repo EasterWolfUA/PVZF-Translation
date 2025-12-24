@@ -6325,8 +6325,8 @@
     },
     {
       "seedType": 1266,
-      "name": "Nuez Cascolosal",
-      "introduce": "<size=39><color=#3D1400>Las plantas siempre se quejan de que la Nuez Cascolosal es un obstáculo para la vista, y que a pesar de ser tan grande no hace nada para deshacerse de los zombis que tiene delante. \u0022Es un vago, no creo que haya llegado solo\u0022, decían algunos. \u0022Rodó montaña abajo y acabó aquí\u0022, se burlaban otros. Pero la Nuez Cascolosal no tenía intención de responderles porque, al igual que su caparazón, su voluntad estaba endurecida para proteger a las plantas que, después de todo, lo necesitaban.</color></size>",
+      "name": "Nuez Colosal",
+      "introduce": "<size=39><color=#3D1400>Las plantas siempre se quejan de que la Nuez Colosal es un obstáculo para la vista, y que a pesar de ser tan grande no hace nada para deshacerse de los zombis que tiene delante. \u0022Es un vago, no creo que haya llegado solo\u0022, decían algunos. \u0022Rodó montaña abajo y acabó aquí\u0022, se burlaban otros. Pero la Nuez Colosal no tenía intención de responderles porque, al igual que su caparazón, su voluntad estaba endurecida para proteger a las plantas que, después de todo, lo necesitaban.</color></size>",
       "info": "<size=39>Una nuez extrañamente más grande de lo normal. Imaginate ver esto en persona.</color>\n\n<color=#3D1400>Dureza: </color><color=red>32000</color>\n<color=#3D1400>Especial:</color> <color=red>Cada nuez adicional en el campo aumenta su defensa. Recibe 1/3 de daño de los zombis, y no puede ser aplastado.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans colosidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>\nNuez ∞ Nuez Alta ∞ Nuez < Combinadora (En Orden)\n(La Combinadora deberá plantarse encima de la Nuez Alta)</color></size>",
       "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>140 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
@@ -6724,8 +6724,8 @@
         },
         {
     "seedType": 1323,
-    "name": "Calabaza Ajo",
-   "introduce": "<size=39><color=#3D1400>Después de innumerables revisiones, la Calabaza Ajo finalmente está lista para el combate. En comparación con el Ajo común, soluciona problemas como la defensa débil, la eficiencia del espacio y la incapacidad de proteger a las plantas de los proyectiles. En cuanto a ese olor… bueno, es hora de poner a prueba la resistencia de todos.</color></size>",
+    "name": "Calabaza Apestosa",
+   "introduce": "<size=39><color=#3D1400>Después de innumerables revisiones, la Calabaza Apestosa finalmente está lista para el combate. En comparación con el Ajo común, soluciona problemas como la defensa débil, la eficiencia del espacio y la incapacidad de proteger a las plantas de los proyectiles. En cuanto a ese olor… bueno, es hora de poner a prueba la resistencia de todos.</color></size>",
       "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nRepele zombis a otras filas y protege a una planta dentro suyo.\n<color=#133816>Sistema Venenoso:</color></color>\n- Envenena al zombi que lo muerde.</color></color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Desvía a zombis a otras líneas tras morderlo. Puede mantener una planta dentro.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Ajo</color></size>",
       "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
