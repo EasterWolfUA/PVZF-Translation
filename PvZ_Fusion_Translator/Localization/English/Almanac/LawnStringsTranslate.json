@@ -976,7 +976,7 @@
         {
             "seedType": 962,
             "name": "Phoenix Drone",
-            "introduce": "<align=justified><size=36><color=black>\"It's time to live up to my name,\" said the Phoenix Drone. For years he was trapped on the ground, but now he can finally soar like a true phoenix. Though slightly frustrated that the Cherrybomber Drone beat him to it, conquering the skies is still a joy.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"It's time to live up to my name,\" said the Phoenix Drone. For years he was trapped on the ground, but now he can finally soar like a true phoenix. Though slightly frustrated that the Cherrybomber Drone beat him to it, conquering the skies is still a joy.\n\n-Written by Medineer Gaming</color>",
             "info": "<size=36>Spreads wings like a phoenix and rides the wind.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Phoenix Threepeater's Modifier</color>\n<color=black>Damage: </color><color=#8B0000>160×3/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Phoenix Threepeater.\n<color=black>•</color> Flying plant. Projectiles inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> On death, triggers Jalapeno effect in the same lane and 2 adjacent lanes.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage bonus 50% → 150%, and regular ignited projectiles can now inflict the debuff\n2. Phoenix peas can now pierce infinitely and cause Enflamed explosions | Phoenix Drone Subspecies Unlocked</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Shovel <-> Blover</color>"
         },
@@ -3335,7 +3335,7 @@
         {
             "seedType": 1328,
             "name": "Stench-spreader",
-            "introduce": "<align=justified><size=36><color=black>\"Ugh, your taste stinks! I hate you two!\" cries the third head. Zombies think he's crying from his fellows' smell, but actually, it's just because of their terrible taste in music. \"We don't even have noses,\" the first head explains.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Ugh, your taste stinks! I hate you two!\" cries the third head. Zombies think he's crying from his fellows' smell, but actually, it's just because of their terrible taste in music. \"We don't even have noses,\" the first head explains.\n\n-Written by silver fool</color>",
             "info": "<size=36>Shoots Poison peas; makes poisoned zombies release toxic clouds on hit.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within. There can be up to 1 active Toxic Cloud per lane.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Garlic</color>"
         },
@@ -3426,7 +3426,7 @@
         {
             "seedType": 1341,
             "name": "Blacklight Plantern",
-            "introduce": "<align=justified><size=36><color=black>Blacklight Plantern does not create light by consuming darkness. Its glow comes from contempt for zombies, and a few grams of plutonium. \"Fury burns within my light. Pray you never find it shining upon you.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>Blacklight Plantern doesn't consume darkness to create light. Their light is fueled by their contempt for the Zombies, and a couple grams of plutonium. \"My light burns with rage. Pray you don't find it pointed at you.\"\n\n-Written by Goober</color>",
             "info": "<size=36>His UV light re-ignites embers and grants lasers explosive effects.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 3s, supplies Doomwoods in a 3×3 area with 3 Ember value.\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus turn purple and gain the ability to apply trigger a 1-tile explosion dealing 10 damage on hit after passing through.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom + Plantern</color>"
         },
