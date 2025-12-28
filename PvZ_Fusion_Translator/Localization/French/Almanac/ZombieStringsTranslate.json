@@ -93,8 +93,8 @@
         {
             "theZombieType": 16,
             "name": "Zomboni",
-            "introduce": "<size=36><color=black>La conduite zombie est un excellent conducteur, d'autant plus que peu de zombies peuvent naviguer de la patinoire au terrain en herbe. Maintenant, il doit aller payer l'amende. La machine à glace qu'il exploite n'est pas une Zamboni ; c'est un Zomboni produit par la société B.</color>",
-            "info": "<size=36>Le zomboni applique la glace, la vapeur et la pression à vos plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>"
+            "introduce": "<size=36><color=black>Le zombie qui conduit est un excellent conducteur, surtout si l’on considère que peu de zombies peuvent se rendre de la patinoire jusqu'au terrain de gazon. Maintenant, il doit aller payer une amende. La machine à glace qu’il utilise n’est pas une Zamboni Mais une Zomboni produite par une Company.; B.</color>",
+            "info": "<size=36>Le zomboni applique de la glace sur le terrain. il est aussi Immunisé contre le Gel.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color>"
         },
         {
             "theZombieType": 17,
@@ -111,8 +111,8 @@
         {
             "theZombieType": 19,
             "name": "Zombie Dauphin",
-            "introduce": "<size=36><color=black>Dolphin Rider Zombie est artiste à temps partiel et gardien de dauphins dans un aquarium. Le dauphin qu'il chevauche est un zombie, mais contrairement aux zombies typiques, ce \"dauphin zombie\" n'a aucun désir de cervelle.</color>",
-            "info": "<size=36>Les zombies dauphins utilisent les dauphins pour exploiter les faiblesses de votre défense aquatique.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saute au-dessus de la première plante qu'il rencontre.</color>"
+            "introduce": "<size=36><color=black>Le zombie Dauphin est artiste à temps partiel il est gardien de dauphins dans un aquarium. Le dauphin qu'il chevauche est un zombie, mais contrairement aux zombies typiques, ce \"dauphin zombie\" n'a aucun désir de cervelle.</color>",
+            "info": "<size=36>Les zombies dauphins utilisent les dauphins pour exploiter les faiblesses de votre défense aquatique.\n\n<color=black>Robustesse : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Saute au-dessus de la première plante qu'il rencontre, à part les plantes qui sont catégorisées comme des grandes Plantes.</color>"
         },
         {
             "theZombieType": 20,
