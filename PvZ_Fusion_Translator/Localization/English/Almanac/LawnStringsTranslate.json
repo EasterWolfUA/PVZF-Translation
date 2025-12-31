@@ -989,9 +989,9 @@
         },
         {
             "seedType": 964,
-            "name": "Pandemelonium",
-            "introduce": "<align=justified><size=36><color=black>Pandemelonium represents the peak of cold ordnance design: distributed warheads, guided escorts, and relentless frostfire. He advances without haste, ending battles not with fury, but with absolute zero.</color>",
-            "info": "<size=36>Launches bone-chilling clusterbombs for saturated bombardment.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Cob-literator</color>\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) ×40</color>\n<color=black>Reloading Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Cob-literator.\n<color=black>•</color> Conversions between Pandemelonium and Cob-literator reset remaining reloading time of both to 36s.\n<color=black>•</color> Manually click to fire 4 Oblivion Clusterbombs which spawn 36 additional Minishells. Minishells prioritize targeting zombies on the field, with a higher chance to strike zombies near the aimed position.\n<color=black>•</color> Oblivion Clusterbombs damage the full-screen; Minishells' splash radius is 1.5 tiles. On hit, both apply Freeze for 5s before dealing damage, and permanently reduce zombie speed by 0.005×, up to a maximum reduction to 0.9×.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Damage ×4\n2. Reload Time → 12s</color>",
+            "name": "Panmelonium",
+            "introduce": "<align=justified><size=36><color=black>Panmelonium represents the peak of cold ordnance design: distributed warheads, guided escorts, and relentless frostfire. He advances without haste, ending battles not with fury, but with absolute zero.</color>",
+            "info": "<size=36>Launches bone-chilling clusterbombs for saturated bombardment.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Cob-literator</color>\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) ×40</color>\n<color=black>Reloading Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Cob-literator.\n<color=black>•</color> Conversions between Panmelonium and Cob-literator reset remaining reloading time of both to 36s.\n<color=black>•</color> Manually click to fire 4 Oblivion Clusterbombs which spawn 36 additional Minishells. Minishells prioritize targeting zombies on the field, with a higher chance to strike zombies near the aimed position.\n<color=black>•</color> Oblivion Clusterbombs damage the full-screen; Minishells' splash radius is 1.5 tiles. On hit, both apply Freeze for 5s before dealing damage, and permanently reduce zombie speed by 0.005×, up to a maximum reduction to 0.9×.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Damage ×4\n2. Reload Time → 12s</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Kernel-pult <-> Melon-pult</color>"
         },
         {
@@ -1803,7 +1803,7 @@
             "seedType": 1109,
             "name": "Snipea",
             "introduce": "<align=justified><size=36><color=black>Admired for her sharp vision and robust strength, Snipea is cherished by her Pea comrades. However, during their formation marches, her gun barrel often finds its way into the backs of their heads, making for some tense moments along the way.</color></size>",
-            "info": "<size=36>Snipes zombies all over the map to deal massive damage.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>Headshot once every 6 attacks, insta-killing zombies.</color></size>",
+            "info": "<size=36>Snipes zombies all over the map to deal massive damage.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>Headshot once every 6 attacks, insta-killing zombies. You can glove a Gatling Pea onto a Snipea to create another Snipea seed packet.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>600</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -1831,7 +1831,7 @@
             "seedType": 1113,
             "name": "Taco-pult",
             "introduce": "<align=justified><size=36><color=black>Taco-pult always wonders why, despite learning skills from Kernel-pult and performing well on the battlefield, Dave finds it hard to look at him and even avoids him. In truth, it's because Taco-pult resembles a taco too much, and every time Dave sees him, he just wants to pick him up and eat him.</color>",
-            "info": "<size=36>Launches tacos that can bounce once, and can also throw butter.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles bounce once. Has a 1/4 chance to throw butter, dealing 60 damage and immobilizing zombies for 4 seconds.</color>",
+            "info": "<size=36>Launches tacos that can bounce once, and can also throw butter.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles bounce once. Has a 1/4 chance to throw butter, dealing 60 damage and immobilizing zombies for 4s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult + Kernel-pult</color>"
         },
         {
@@ -2846,7 +2846,7 @@
             "seedType": 1258,
             "name": "Bamblotus",
             "introduce": "<align=justified><size=36><color=black>Every winter, Bamblotus tries to impress potential mates with a dazzling petal display. But his performance often goes… too fast. And too cold. The girls walk away before he even finishes blooming.</color>",
-            "info": "<size=36>A self-healing barricade that grows stronger with nearby allies.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Heals himself by 50 HP when charged.\n<color=black>•</color> Recovers 40 HP every 1.5s. This HP recovery is increased by 100% for each adjacent Bamblock-type plants.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Resilience is increased by 0.3 for each adjacent Bamblock-type plants.</color>",
+            "info": "<size=36>A self-healing barricade that grows stronger with nearby allies.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Heals himself by 50 HP when charged.\n<color=black>•</color> Recovers 40 HP every 1.5s. This HP recovery is increased by 100% for each adjacent Bamblock-type plants.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Resilience is increased by 0.3 for each adjacent Bamblock-type plant.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamblock + Snow Lotus</color>"
         },
         {
