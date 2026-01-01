@@ -3030,6 +3030,13 @@
             "introduce": "<align=justified><size=36><color=black>\" Ha ha ! Devine où sont passés mes sourcils ! \" s’esclaffe la Coquille de Pastèque devant son public. Célèbre illusionniste des toits, elle maîtrise toutes sortes de tours, y compris celui de faire disparaître la moitié de ses yeux. Mais son numéro le plus impressionnant reste la Grande Transformation de la pastèque. À ce jour, personne n’a jamais vu comment elle parvient à cacher une pastèque entière dans le seau d’un Lance-pastèque.</color>",
             "info": "<size=36>Lance des pastèques supplémentaires lorsqu’elle protège une plante de type catapulte.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>80 / ? s</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque attaque de la plante catapulte protégée, une pastèque supplémentaire est lancée simultanément.</color>",
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Lance-pastèque > Citrouille</color>"
+        },
+        {
+            "seedType": 1350,
+            "name": "Citrouille Enfumée",
+            "introduce": "<align=justified><size=36><color=black>\" Je peux attaquer à la fois vers l’avant et vers l’arrière \", affirme Citrouille Enfumée avec assurance. \" Je suis un Champi-fumée bidirectionnel. \" Ce qu’il n’a visiblement pas remarqué, c’est qu’il ne regarde pas dans le même sens que tout le monde.</color>",
+            "info": "<size=36>Attaque comme un Champi-fumée… mais pas tout à fait dans la bonne direction.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20×3 / 1.5 s (perforants)</color>\n<color=black>Spécial : </color><color=#8B0000>Attaque depuis sa propre case jusqu’à 3 cases au-dessus et en dessous.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-fumée > Citrouille</color>"
         }
     ]
 }
