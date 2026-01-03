@@ -249,13 +249,13 @@
         {
             "theZombieType": 41,
             "name": "은 동상",
-            "introduce": "<align=justified><size=36><color=black>은, Gin. Yin. Silver. Silber. Argent. Plata. Argentum. Argyros.</color>",
+            "introduce": "<align=justified><size=36><color=black>순은으로 감싸인 좀비로 정원 기념품점에서 단 은화 두 개에 판매됩니다. \"분명히 내부의 좀비가 순은 코팅의 가치를 떨어뜨리고 있어\"라고 닥터 에드거 좀보스는 평합니다.</color>",
             "info": "<size=36>은으로 빛나는 동상입니다!\n\n<color=black>체력: </color><color=#4B0082>300</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 움직이지 않습니다.\n<color=black>•</color> 25초 동안 맵에 머무르거나 식물의 공격으로 파괴시 1000코인을 떨어뜨립니다.</color>"
         },
         {
             "theZombieType": 42,
             "name": "황금 동상",
-            "introduce": "<align=justified><size=36><color=black>금, Kin. Jin. Gold. Gold. Or. Oro. Aurum. Chrysos.</color>",
+            "introduce": "<align=justified><size=36><color=black>금으로 감싸인 좀비입니다. 기념품으로 판매되는 것에 비해 황금 알 깨기 이벤트에서 더 인기가 많습니다. \"콩으로 깨뜨려 봐. 일반적인 보상은 동전과 다이아몬드지만, 숨겨진 대박 경품은 좀비야\"라고 닥터 에드거 좀보스는 설명합니다. 지금까지 아무도 숨겨진 대박 경품을 획득하지 못했습니다.</color>",
             "info": "<size=36>황금빛 동상입니다. 팔면 비쌀듯!\n\n<color=black>체력: 체력: </color><color=#4B0082>300</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 움직이지 않습니다.\n<color=black>•</color> 25초 동안 맵에 머무르거나 식물의 공격으로 파괴시 1000코인을 떨어뜨립니다.</color>"
         },
         {
@@ -388,13 +388,13 @@
             "theZombieType": 64,
             "name": "해변 마이클 좀비",
             "introduce": "<align=justified><size=36><color=black>hee-hee~</color>",
-            "info": "<size=36>마이클은 잃어버린 해안 문명의 조각상을 발굴하는 데 새로운 열정을 갖고 휴가를 보내고 있습니다!\n\n<color=black>체력: </color><color=#4B0082>720</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color>체력 500의 댄서 조각상 4개를 소환합니다. 15초가 지날 시 석상의 체력만큼의 해변 마이클 좀비가 생성됩니다.\n<color=black>•</color>타워디펜스 모드 외 다른 모드에서는 일반 마이클 좀비가 댄서 좀비를 소환하는 것과 같은 위치에 석상을 소환합니다.</color>"
+            "info": "<size=36>마이클은 잃어버린 해안 문명의 조각상을 발굴하는 데 새로운 열정을 갖고 휴가를 보내고 있습니다!\n\n<color=black>체력: </color><color=#4B0082>720</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color>체력 500의 댄서 조각상 4개를 소환합니다. 15초가 지날 시 댄서 조각상의 체력만큼의 해변 마이클 좀비가 생성됩니다.\n<color=black>•</color>타워디펜스 모드 외 다른 모드에서는 일반 마이클 좀비가 댄서 좀비를 소환하는 것과 같은 위치에 댄서 조각상을 소환합니다.</color>"
         },
         {
             "theZombieType": 65,
             "name": "댄서 조각상",
             "introduce": "<align=justified><size=36><color=black>모아이~-</color>",
-            "info": "<size=36>문명의 조각상\n\n<color=black>체력: </color><color=#4B0082>720</color>\n<color=black>특수 능력: </color><color=#4B0082>15초가 지날 시 석상의 체력만큼의 해변 마이클 좀비가 생성됩니다.</color>"
+            "info": "<size=36>문명의 조각상\n\n<color=black>체력: </color><color=#4B0082>500</color>\n<color=black>특수 능력: </color><color=#4B0082>15초가 지날 시 조각상의 체력만큼의 해변 마이클 좀비가 생성됩니다.</color>"
         },
         {
             "theZombieType": 66,
@@ -688,7 +688,7 @@
             "theZombieType": 211,
             "name": "육지 상어라이너",
             "introduce": "<align=justified><size=36><color=black>여기에 왜 있는 걸까요? 땅에서 튀어나온 걸까요, 아니면 하늘에서 떨어진 걸까요? 아무도 정확히 알지 못합니다. 확실한 건, 흙처럼 보이는 이것들은 분명 위장용이라는 사실입니다.</color></size>",
-            "info": "<size=36>상어라이너 실험의 실패작입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>20 | 0.02초</color>\n<color=black>체력: </color><color=#4B0082>기가 메카 호두의 체력의 1/3</color>\n<color=black>특수 능력: </color><color=#4B0082>육지에 등장한 상어라이너, 움직이지 못합니다. 기가 메카 호두에 호두 시드패킷을 사용하면 매혹된 상어라이너가 소환됩니다. 기가 메카 호두가 다시 소환되거나 파괴되면, 육지 상어라이너는 즉시 사망합니다.</color></size>"
+            "info": "<size=36>상어라이너 실험의 실패작입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>20 | 0.02초</color>\n<color=black>체력: </color><color=#4B0082>기가 메카 호두의 체력의 1/3</color>\n<color=black>특수 능력: </color><color=#4B0082>육지에 등장한 상어라이너, 움직이지 못합니다. 기가 메카 호두에 호두 시드패킷을 사용하면 매혹된 상어라이너가 소환됩니다. 기가 메카 호두가 다시 소환하거나 파괴되면, 육지 상어라이너는 즉시 사망합니다.</color></size>"
         },
         {
             "theZombieType": 212,
