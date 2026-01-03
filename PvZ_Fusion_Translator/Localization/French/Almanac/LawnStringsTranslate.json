@@ -3037,6 +3037,27 @@
             "introduce": "<align=justified><size=36><color=black>\" Je peux attaquer à la fois vers l’avant et vers l’arrière \", affirme Citrouille Enfumée avec assurance. \" Je suis un Champi-fumée bidirectionnel. \" Ce qu’il n’a visiblement pas remarqué, c’est qu’il ne regarde pas dans le même sens que tout le monde.</color>",
             "info": "<size=36>Attaque comme un Champi-fumée… mais pas tout à fait dans la bonne direction.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20×3 / 1.5 s (perforants)</color>\n<color=black>Spécial : </color><color=#8B0000>Attaque depuis sa propre case jusqu’à 3 cases au-dessus et en dessous.</color>",
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-fumée > Citrouille</color>"
+        },
+        {
+            "seedType": 1265,
+            "name": "Four Bambou",
+            "introduce": "<align=justified><size=36><color=black>En tant que plus grand garde du corps de la société de sécurité Bamblock, Four Bambou reste discret mais toujours sur ses gardes. Au fil de toutes ses rencontres avec les zombies, il n’a jamais été blessé — pas une seule fois. Un palmarès plutôt impressionnant.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé Bam'bou, avec une zone de protection élargie.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée étendue à une zone de 3×3. Redevient un Four Polaire normal après 60 secondes.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Bam'bou</color></size>"
+        },
+        {
+            "seedType": 1226,
+            "name": "Four Aloès",
+            "introduce": "<align=justified><size=36><color=black>Four Aloès a amélioré son système de circulation d’air afin de mieux réguler la température dans les zones restreintes. Le seul problème : l’eau qui s’écoule du condenseur a tendance à geler très rapidement sur le champ de neige.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé Aloès d’Eau, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 90 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Aloès d’Eau</color></size>"
+        },
+        {
+            "seedType": 1225,
+            "name": "Four Lotus",
+            "introduce": "<align=justified><size=36><color=black>\" Je suis né extraordinaire \", affirme Four Lotus. Il pense que sa lueur provient d’un feu phosphorescent… mais en réalité, ce sont simplement des lucioles qui se cachent du froid à l’intérieur de lui.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé le Lotus de Neige, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 60 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Lotus de Neige</color></size>"
         }
     ]
 }
