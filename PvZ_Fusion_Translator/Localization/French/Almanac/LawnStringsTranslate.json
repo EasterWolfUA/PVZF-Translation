@@ -3058,6 +3058,20 @@
             "introduce": "<align=justified><size=36><color=black>\" Je suis né extraordinaire \", affirme Four Lotus. Il pense que sa lueur provient d’un feu phosphorescent… mais en réalité, ce sont simplement des lucioles qui se cachent du froid à l’intérieur de lui.</color></size>",
             "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé le Lotus de Neige, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 60 secondes.</color></size>",
             "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Lotus de Neige</color></size>"
+        },
+        {
+            "seedType": 1224,
+            "name": "Four Scie",
+            "introduce": "<align=justified><size=36><color=black>\" Utiliser le potassium comme combustible fournit non seulement une chaleur abondante, mais produit aussi de superbes flammes colorées \", explique Four Scie avec enthousiasme. \" Et ce ventilateur, modifié à partir d’une scie circulaire, permet de souffler l’air chaud directement vers vous. \" Employé modèle du sauna des terres enneigées, il s’efforce toujours d’offrir le meilleur service possible.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé le Chrysanfer, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 120 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Chrysanfer</color></size>"
+        },
+        {
+            "seedType": 1223,
+            "name": "Four Épicéa",
+            "introduce": "<align=justified><size=36><color=black>Four Épicéa transporte toujours sur lui des aiguilles d’épicéa bien sèches. Il affirme que c’est un excellent combustible \" vert \" — inflammable et facile à récolter. En ce moment même, il est en train d’en faire sécher une nouvelle fournée au soleil.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé l’Épicéa Tireur d’élite, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 210 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Épicéa Tireur d’élite</color></size>"
         }
     ]
 }
