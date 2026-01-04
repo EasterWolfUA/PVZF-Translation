@@ -130,13 +130,13 @@
             "theZombieType": 22,
             "name": "Zombie Boîte-en-Or",
             "introduce": "<size=36><color=black>\"Sous la boîte dorée, d'autres boîtes de différentes couleurs vous attendent. Pouvez-vous deviner de quoi est faite la boîte à l'intérieur ?\"</color>",
-            "info": "<size=36>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>2200</color>\n<color=black>Spécial : </color><color=#4B0082>Se transforme en Zombie Boîte-en-Argent en mourant.</color>"
+            "info": "<size=36>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>2200</color>\n<color=black>Spécial : </color><color=#4B0082>Se transforme en Zombie Boîte-en-Argent en perdant son armure.</color>"
         },
         {
             "theZombieType": 23,
             "name": "Zombie Boîte-en-Argent",
-            "introduce": "<size=36><color=black>Le zombie à la boîte argentée considère la boîte sur sa tête comme un pot, donc ce doit en être un. Compte tenu de son état d’esprit, pourquoi ne comprenez-vous pas son point de vue ? Et vous voyez le point d'exclamation sur sa boîte, n'est-ce pas ?</color>",
-            "info": "<size=36>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>1100</color>\n<color=black>Spécial : </color><color=#4B0082>Se transformer en Zombie Cône en mourant.</color>"
+            "introduce": "<size=36><color=black>Le Zombie Boîte-en-Argent considère la boîte sur sa tête comme un pot, donc ça doit en être un. Compte tenu de son état d’esprit, pourquoi ne comprenez-vous pas son point de vue ? Et vous le voyez le point d'exclamation sur sa boîte, n'est-ce pas ?</color>",
+            "info": "<size=36>C'est... un Zombie Cône ?\n\n<color=black>Robustesse : </color><color=#4B0082>1100</color>\n<color=black>Spécial : </color><color=#4B0082>Se transformer en Zombie Cône en perdant sont armure.</color>"
         },
         {
             "theZombieType": 24,
