@@ -626,9 +626,9 @@
         {
             "seedType": 1021,
             "name": "Champi-noix",
-            "introduce": "<size=36><color=black>Noix ou champignon ? Pourquoi s'inquiéter des étiquettes ? De toute façon, Nut-Shroom n'est pas sur le point de vous dire qu'il s'agit en fait d'un matsutake déguisé.</color></size>",
-            "info": "<size=36>Champi-noix peut être votre défenseur fidèle malgré sa taille.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Noix (Dans l'ordre)</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Noix ou champignon ? Pourquoi s'inquiéter des étiquettes ? De toute façon, Champi-noix ne vous diras pas qu'il est d'origine japonaise et qu'il s'agit en fait d'un \"Matsutake\" déguisé en Champi-noix.</color></size>",
+            "info": "<size=36>Le Champi-noix peut être votre défenseur fidèle malgré sa taille.\n\n<color=black>Robustesse : </color><color=#8B0000>2000\n<color=black>•</color> Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Noix</color>"
         },
         {
             "seedType": 1022,
@@ -696,9 +696,9 @@
         {
             "seedType": 1031,
             "name": "Champi-soleil",
-            "introduce": "<size=36><color=black>Le champignon solaire déteste le soleil. Il le déteste tellement que lorsqu'il s'accumule dans son organisme, il le recrache aussi vite qu'il le peut. Il ne le supportera tout simplement pas. Pour lui, le soleil est grossier.</color></size>",
-            "info": "<size=36>Champi-soleil donne un petit soleil au début et un soleil normal par la suite.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15 (25) / 25 Secondes\n<color=black>Temps de croissance : </color><color=#8B0000>120 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Tournesol</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Le Champi-soleil déteste le soleil. Il le déteste tellement que lorsqu'il s'accumule dans son organisme, il le recrache aussi vite qu'il le peut. C'est presque une phobie. Pour lui, le soleil est grossier.</color></size>",
+            "info": "<size=36>Le Champi-soleil produit un petit soleil au départ, puis un soleil normal une fois qu’il a grandi.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15→25/25s\n<color=black>Temps de croissance : </color><color=#8B0000>120s</color><color=#8B0000>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Tournesol</color></size>"
         },
         {
             "seedType": 1032,
@@ -1732,9 +1732,9 @@
         {
             "seedType": 1170,
             "name": "Champi-grenaille",
-            "introduce": "<size=36><color=#3D1400>Certaines plantes demandaient : \"Pourquoi le dessus du Champi-grenaille est-il rouge ?\" Potato Sprout Mushroom a alors demandé : \"Eh bien, laissez-moi d'abord vous demander...\"</color>",
-            "info": "<size=36>Peut-être se reproduire !\n\n<color=#3D1400>Dégâts :</color> <color=red>20/1,5 secondes</color>\n<color=#3D1400>Spécial :</color> <color=red>Crée un nouveau Champi-grenaille sur la même case après 20 secondes. Chaque Champi-grenaille ne peut se reproduire qu'une seule fois. À sa mort, il inflige 300 dégâts aux zombies proches.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Champi-gnon + Mine Patate</color>\"",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=#3D1400>Certaines plantes demandaient : \"Pourquoi y a-t-il une lumière rouge au-dessus du chapeau de Champi-grenaille ?\" Champi-grenaille a alors répondu : \"Eh bien, laissez-moi d'abord vous demander...\"</color>",
+            "info": "<size=36>Peut se reproduire lui-même !\n\n<color=black>Dégâts: </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial: </color><color=#8B0000>Crée un nouveau Champi-grenaille sur la même tuile après 20 secondes. Chaque Champi-grenaille ne peut se reproduire qu’un à la fois ; seuls les Champi-grenaille avec une lumière rouge peuvent se reproduire. Utiliser un fertilisant annule les 20 s de chargement et produit un nouveau Champi-grenaille instantanément. À sa mort, il inflige 300 dégâts aux zombies proches. Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Mine Patate</color>"
         },
         {
             "seedType": 1171,
