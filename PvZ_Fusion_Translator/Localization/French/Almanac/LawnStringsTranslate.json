@@ -3170,6 +3170,62 @@
             "introduce": "<align=justified><size=36><color=black>Amp-gnion pensait que son heure de gloire était arrivée — après tout, qui d’autre avait déjà mangé la foudre plus d’une centaine de fois ? Il se voyait déjà en monstre de Frankenstein. Mais lorsqu’il reçut le script, ses rêves grillèrent instantanément. Il n’était pas une star. Pas même un second rôle. Juste le paratonnerre du Dr Stanley…</color>",
             "info": "<size=36>Attaque les zombies approchants avec des éclairs.\n\n<color=black>Dégâts : </color><color=#8B0000>100/1,5 s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>5×5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les Amp-gnions inactifs à portée canalisent leur énergie vers celui qui attaque, augmentant les dégâts de 150 chacun.\n<color=black>•</color> Chaque tir peut se propager vers d’autres zombies en infligeant la moitié des dégâts, jusqu’à un maximum de 3 cibles.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>225</color>\nRecharge : <color=#8B0000>7,5 s</color>"
+        },
+        {
+            "seedType": 357,
+            "name": "Amp-gnion (TD)",
+            "introduce": "<align=justified><size=36><color=black>Amp-gnion pensait que son heure de gloire était enfin arrivée — après tout, qui d’autre avait déjà mangé la foudre plus d’une centaine de fois ? Il se voyait déjà en monstre de Frankenstein. Mais lorsqu’il reçut le script, ses rêves court-circuitèrent. Il n’était pas une star. Pas même un second rôle. Juste le paratonnerre du Dr Stanley…</color>",
+            "info": "<size=36>Attaque les zombies approchants avec des éclairs.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>5×5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les Amp-gnions inactifs à portée canalisent leur énergie vers celui qui attaque, augmentant les dégâts de 150% chacun.\n<color=black>•</color> Chaque tir peut se propager vers d’autres zombies en infligeant 1/3 des dégâts, jusqu’à un maximum de 3 cibles.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(120 Soleil) Dégâts +50%\n<color=black>• Voie élite 1 : </color>(300 Soleil) Les arcs infligent désormais les dégâts complets\n<color=black>• Voie élite 2 : </color>(300 Soleil) Dégâts +300%, mais les arcs sont désactivés</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 362,
+            "name": "Champi-courageux (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" Le courage me remplit, la peur a disparu~ Qu’importe le printemps, l’automne, l’hiver ou l’été~ \" Champi-courageux ne recule plus face aux zombies. \" Avant, je tremblais, mais le Champi-fumée vétéran m’a dit : Si un zombie s’approche, crache tes spores. Se cacher ne résout rien. \"</color>",
+            "info": "<size=36>Prêt à affronter les zombies, de près comme de loin.\n\n<color=blue>Réversible en appuyant sur R</color>\n<color=black>Dégâts : </color><color=#8B0000>20×2/1,5 s (longue portée) ; 20/1,5 s (courte portée, perforant)</color>\n<color=black>Spécial : </color><color=#8B0000>Tire deux spores simultanément. Lorsque des zombies s’approchent à moins de 4 cases, projette des fumées perforantes à la place.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(80 Soleil) Dégâts et vitesse d’attaque +20 %\n<color=black>• Voie élite 1 : </color>(200 Soleil) Dégâts +200 %, tire désormais uniquement des spores\n<color=black>• Voie élite 2 : </color>(200 Soleil) Dégâts +100 %, portée des fumées ×2</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 363,
+            "name": "Troufle Gelé (TD)",
+            "introduce": "<align=justified><size=36><color=black>Troufle Gelé est un climatiseur végétal réglé à −4 °C. Lorsque sa brise glaciale souffle, on a l’impression d’entrer en plein hiver. Même Pois Glacé en reste figé : le vent froid a gelé ses propres projectiles. Plus froid que ça ? Oui : l’atmosphère après qu’Haricot Gelé ai raconté l’une de ses blagues affreusement mal timées.</color>",
+            "info": "<size=36>Souffle une brise glaciale qui applique en permanence le gel.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Dure 10 s avant de disparaître.\n<color=black>•</color> Inflige 1 dégât et applique 20 points de Cryo à tous les zombies sur la pelouse.\n<color=black>•</color> Transforme tous les pois glacés à l’écran en pois de glace polaire.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 364,
+            "name": "Étoile de la Mort (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" Je pourrais raser presque toute la planète si je le voulais \", fanfaronne l’Étoile de la Mort. \" Et ils accuseraient tous la plus grosse étoile dans le ciel… \"</color>",
+            "info": "<size=36>Se transforme en Météore de la mort et s’écrase au sol.\n\n<color=black>Spécial : </color><color=#8B0000>Disparaît après 3 s et invoque un Météore de la mort qui inflige 1800 dégâts de zone à l’impact, puis se divise en 180 étoiles infligeant chacune 20 dégâts.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>175</color>\nRecharge : <color=#8B0000>90 s</color></size>"
+        },
+        {
+            "seedType": 365,
+            "name": "Rafale-coulante (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" Coach, je veux jouer au basket. \" Rafale-coulante a toujours rêvé de devenir une star du basketball. Elle s’entraîne jour et nuit, sans relâche. Elle a deux avantages : d’abord, elle ressemble vaguement à un panier ; ensuite, elle dispose d’un stock infini de ballons pour s’exercer. Par pitié, ne demandez jamais de quoi sont faits ces ballons.</color>",
+            "info": "<size=36>Lance des projectiles liquides qui rebondissent entre les zombies et les autres Rafale-coulante.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3 s</color>\n<color=black>Portée : </color><color=#8B0000>Dans un rayon de 2 cases dans les quatre directions</color>\n<color=black>Spécial : </color><color=#8B0000>À l’impact, les projectiles rebondissent vers d’autres Rafales Coulantes à proximité, les forçant à attaquer immédiatement deux fois.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(120 Soleil) Dégâts et vitesse d’attaque +20 %\n<color=black>• Voie élite 1 : </color>(300 Soleil) Dégâts +200 %\n<color=black>• Voie élite 2 : </color>(300 Soleil) Vitesse d’attaque +100 %, les projectiles peuvent désormais rebondir sur eux-même</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 366,
+            "name": "Nénuphar (TD)",
+            "introduce": "<align=justified><size=36><color=black>Nénuphar ne se plaint jamais. Nénuphar ne cherche jamais à savoir ce qu’il se passe. Posez une plante sur lui, il ne dira pas un mot. Cache-t-il des opinions dérangeantes ou des secrets inavouables ? Personne ne le sait. Nénuphar garde tout pour lui.</color></size>",
+            "info": "<size=36>Les Nénuphars permettent de planter des plantes non aquatiques sur l’eau.\n\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Les plantes non aquatiques peuvent être plantées dessus.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 367,
+            "name": "Noix Écraseuse (TD)",
+            "introduce": "<align=justified><size=36><color=black>Arrachée d’un terrain de jeu pour enfants par sa tige et jetée sans ménagement sur la pelouse, Noix Écraseuse a été rejetée pour n’être qu’une balle en caoutchouc difforme. Désormais furieuse et cabossée, elle rebondit frénétiquement en hurlant : \" Je vais jouer autant que je veux ! AUTANT QUE JE VEUX ! \"</color></size>",
+            "info": "<size=36>Une noix bondissante, guidée par la colère et l’impact.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1,5 s (Écrasement)</color>\n<color=black>Spécial : </color><color=#8B0000>Bondit sur sa case lorsqu’un zombie s’approche, infligeant des dégâts de zone à chaque retombée. Ne bloque pas les zombies lorsqu’elle est en l’air.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(30 Soleil) Dégâts +50 %\n<color=black>• Voie élite 1 : </color>(75 Soleil) Soigne 50 % des dégâts infligés\n<color=black>• Voie élite 2 : </color>(75 Soleil) Chaque cible touchée confère +50 % de dégâts supplémentaires</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>30 s</color></size>"
+        },
+        {
+            "seedType": 368,
+            "name": "Mine Tripatate (TD)",
+            "introduce": "<align=justified><size=36><color=black>Mine Tripatate adore jouer des tours sous terre. Elle surgit avec des surprises non pas une, ni deux, mais trois fois — comme une farceuse au stock d’explosifs inépuisable. Attention où vous mettez les pieds, ou vous pourriez bien vous prendre un triple coup qui vous fera décoller de vos bottes.\n\n- Écrit par Mme Draco</color></size>",
+            "info": "<size=36>La Mine Tripatate refait surface après chaque explosion et tire des projectiles de pomme de terre sur trois lignes.\n\n<color=blue>Réversible en appuyant sur R</color>\n<color=black>Dégâts : </color><color=#8B0000>20×3/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles tirés en ligne droite).\n<color=black>•</color> Une fois armée, explose au contact, infligeant 3600 dégâts, repoussant les zombies d’1 case, puis retourne sous terre.\n<color=black>•</color> Réémerge 15 s après l’explosion. Explose et disparaît immédiatement au contact des véhicules.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(160 Soleil) Dégâts des projectiles +50 %\n<color=black>• Voie élite 1 : </color>(400 Soleil) Dégâts des projectiles +200 %\n<color=black>• Voie élite 2 : </color>(400 Soleil) Déclenche désormais une capacité ultime toutes les 60 s, tirant 250 projectiles droit devant pendant 5 s, plus 500 supplémentaires dans un cône de 0 à 45°</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>400</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         }
     ]
 }
