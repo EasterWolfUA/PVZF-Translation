@@ -21,14 +21,39 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traductions ajustées : **30**
-* Nouvelles traductions : **11**
+* Nouvelles traductions : **14**
+* Traductions ajustées : **33**
+
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `05/01/26 → 11/01/26`
+> [PR#53](https://github.com/Teyliu/PVZF-Translation/pull/53) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **3**
+* Traductions ajustées : **3**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Four Scie** (`seedType: 1224`)
+* **Four Épicéa** (`seedType: 1225`)
+* **Haricot Gelé** (`seedType: 241`)
+
+## 🧩 **Modified Plants**
+* **Canon Burger** (`seedType: 243`)
+* **Pois-sniper Brasier** (`seedType: 1167`)
+* **Carambole Maître-épéiste** (`seedType: 249`)
 
 ---
 

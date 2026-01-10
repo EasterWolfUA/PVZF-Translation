@@ -22,13 +22,33 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **4**
-* Traductions ajustées : **57**
+* Traductions ajustées : **62**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `05/01/26 → 11/01/26`
+> [PR#53](https://github.com/Teyliu/PVZF-Translation/pull/53) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **5**
+
+---
+
+#### Détail
+
+## 🧩 **Modified Plants**
+* **Champisto-pois** (`seedType: 1018`)
+* **Champi-gnon** (`seedType: 6`)
+* **Champi-soleil** (`seedType: 1031`)
+* **Champi-noix** (`seedType: 1021`)
+* **Champi-grenaille** (`seedType: 1170`)
 
 ---
 

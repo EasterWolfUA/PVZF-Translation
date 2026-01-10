@@ -28,15 +28,79 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
+* Nouvelles traductions : **178**
 * Traductions ajustées : **113**
-* Nouvelles traductions : **167**
-* Reviews effectuées : **152**
+* Reviews effectuées : **171**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `05/01/26 → 11/01/26`
+> [PR#53](https://github.com/Teyliu/PVZF-Translation/pull/53) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **11**
+* Reviews effectuées : **19**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Pisto-tournesol (TD)** (`seedType: 350`)
+* **Champi-aube (TD)** (`seedType: 351`)
+* **Pisto-grenade (TD)** (`seedType: 352`)
+* **Noix Étoilée (TD)** (`seedType: 353`)
+* **Mine Solaire (TD)** (`seedType: 354`)
+* **Champi-sombre Glacé (TD)** (`seedType: 355`)
+* **Mordeur Explosif (TD)** (`seedType: 356`)
+* **Champisto-pois (TD)** (`seedType: 358`)
+* **Champi-soleil (TD)** (`seedType: 359`)
+* **Champi-cendré (TD)** (`seedType: 360`)
+* **Dévoreur de Tombe (TD)** (`seedType: 361`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Translations**
+[Hubtech](./hubtech.md) :
+* **Four Scie** (`seedType: 1224`)
+* **Four Épicéa** (`seedType: 1225`)
+* **Haricot Gelé** (`seedType: 241`)
+
+[Oarlina](./oarlina.md) :
+* **Imitateur en Diamant** (`seedType: 227`)
+
+
+### 🧩 **Modified Plants**
+[Hubtech](./hubtech.md) :
+* **Canon Burger** (`seedType: 243`)
+* **Pois-sniper Brasier** (`seedType: 1167`)
+* **Carambole Maître-épéiste** (`seedType: 249`)
+
+[Oarlina](./oarlina.md) :
+* **Canon à Épi** (`seedType: 1120`)
+* **Canon Arctique** (`seedType: 1123`)
+* **Canon Volcanique** (`seedType: 1122`)
+
+[Same-ael](./same_el.md) :
+* **Champisto-pois** (`seedType: 1018`)
+* **Champi-gnon** (`seedType: 6`)
+* **Champi-soleil** (`seedType: 1031`)
+* **Champi-noix** (`seedType: 1021`)
+* **Champi-grenaille** (`seedType: 1170`)
+
+### 🛠️ **Modified Zombies**
+
+[Capitain Artex](./artex2000.md) :
+* **Zombie Tuba** (`theZombieType: 17`)
+* **Zombie Boîte-en-Or** (`theZombieType: 22`)
+* **Zombie Boîte-en-Argent** (`theZombieType: 23`)
 
 ---
 

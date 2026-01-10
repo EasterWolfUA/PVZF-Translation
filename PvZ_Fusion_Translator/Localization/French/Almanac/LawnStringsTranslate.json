@@ -45,9 +45,9 @@
         {
             "seedType": 6,
             "name": "Champi-gnon",
-            "introduce": "<size=36><color=black>\"Je n'ai pris conscience que récemment de l'existence des zombies\", explique Champi-gnon. \"Comme beaucoup de champignons, je pensais simplement qu'il s'agissait de contes de fées ou de monstres de cinéma. Toute cette expérience m'a été une énorme révélation.\"</color></size>",
-            "info": "<size=36>Les Champi-gnons ne sont pas chers, mais ne tirent pas loin.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Peut s'empiler jusqu'à trois fois dans une grille.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
+            "introduce": "<align=justified><size=36><color=black>\"Je n’ai pris conscience que récemment de l'existence des zombies\", explique Champi-gnon. \"Comme beaucoup de champignons, je pensais simplement qu'il s'agissait de contes de fées ou de monstres de cinéma. Toute cette expérience m’a aidé à réaliser que la fiction peut devenir réalité.\"</color></size>",
+            "info": "<size=36>Les Champi-gnons ne sont pas chers, mais ne tirent pas loin.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Peut s'empiler jusqu'à trois fois sur une tuile.\n<color=black>•</color> Les fusions de Champi-gnon ne peuvent être créées qu’en plantant une autre plante sur un ou plusieurs Champi-gnons, ce qui tentera aussi de fusionner avec les autres plantes présentes sur la même tuile (pots, citrouilles).\n<color=black>•</color> Petite plante (évite les projectiles tirés en ligne droite).</color>\n<color=black>Propagation: </color><color=#8B0000>Plantez un Champi-fumée ou un Champi-peureux sur 1 / 2 / 3 Champi-gnon pour le propager vers les cases vides, Champi-fumée propage seulement en face de lui, Champi-peureux propage au-dessu de lui, devant lui et en dessous faisant apparaître 1 / 3 / 6 Champi-gnon.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>7.5s</color></size>"
         },
         {
             "seedType": 7,
@@ -247,10 +247,10 @@
         },
         {
             "seedType": 249,
-            "name": "Carambole Épéiste",
-            "introduce": "<size=36><color=black>\"J'ai combattu sur 3 000 miles de champ de bataille, ma lame arrêtant des millions de personnes dans leur élan.\" Le Swordmaster Carambole, amateur de bonnes boissons et de poésie, est très fier de ses talents de cosplayer impeccables. Avec un sourire narquois, il ajoute : \"Mon épée ne saigne jamais, car ce n'est qu'une décoration.\"</color></size>",
-            "info": "<size=36>Un invité de loin, je pense que vous deviendrez amis.\n\n<color=black>Dégâts : </color><color=#8B0000>200*5+30*20/6 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque libère 5 épées qui transpercent à l'infini, infligeant 200 dégâts chacune. En plus, il inflige 600 dégâts à tous les zombies dans la grille environnante, répétés 20 fois.</color></size>",
-            "cost": "<size=36>Coût : <color=#8B0000>325</color>\nRecharge : <color=#8B0000>30 Secondes</color></size>"
+            "name": "Carambole Maître-épéiste",
+            "introduce": "<align=justified><size=36><color=black>\"J’ai combattu sur 3 000 kilomètres de champs de bataille, ma lame arrêtant des millions d’ennemis dans leur élan.\" Carambole Maître-épéiste, amateur de bonnes boissons et de poésie, est très fier de ses talents de cosplayeur impeccables. Avec un sourire narquois, il ajoute : \"Mon épée ne saigne jamais, car ce n’est qu’une décoration.\"</color></size>",
+            "info": "<size=36>Un invité venu de loin, je pense que vous aurez envie de devenir amis.\n\n<color=#4A2900>Conditions de déverrouillage : Vaincre Les Dieux 1</color>\n<color=black>Dégâts : </color><color=#8B0000>(200×5 + 30×20) / 6 s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque libère 5 épées transperçantes à portée infinie, infligeant 200 dégâts chacune. De plus, il inflige 30 dégâts à tous les zombies dans la zone environnante, répétés 20 fois.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>325</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         },
         {
             "seedType": 250,
@@ -605,9 +605,9 @@
         {
             "seedType": 1018,
             "name": "Champisto-pois",
-            "introduce": "<size=36><color=black>\"Ne vous laissez pas tromper par ma taille ; même un petit corps peut contenir beaucoup d'énergie\", prévient Pea-Shroom à ceux qui le sous-estiment. \"Nous avons tous commencé comme de minuscules champignons, progressant petit à petit. En vous consacrant à un petit-déjeuner ensoleillé, vous pouvez devenir comme moi.\"</color></size>",
-            "info": "<size=36>Champisto-pois tire plus loin que le Champi-gnon.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Pisto-pois (Dans l'ordre)</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>\"Ne vous laissez pas tromper par ma taille ; petit corps mais beaucoup d'énergie à revendre !\", prévient Champisto-pois à ceux qui le sous-estiment. \"Nous avons tous commencé comme de minuscules champignons, progressant petit à petit. En vous consacrant à un petit-déjeuner ensoleillé, vous pouvez devenir comme moi.\"</color></size>",
+            "info": "<size=36>Champisto-pois tire plus loin que le Champi-gnon.\n\n<color=black>Dégâts : </color><color=#8B0000>20/2.25s</color>\n<color=black>Special: </color><color=#8B0000> Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Pisto-pois</color>"
         },
         {
             "seedType": 1019,
@@ -626,9 +626,9 @@
         {
             "seedType": 1021,
             "name": "Champi-noix",
-            "introduce": "<size=36><color=black>Noix ou champignon ? Pourquoi s'inquiéter des étiquettes ? De toute façon, Nut-Shroom n'est pas sur le point de vous dire qu'il s'agit en fait d'un matsutake déguisé.</color></size>",
-            "info": "<size=36>Champi-noix peut être votre défenseur fidèle malgré sa taille.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Noix (Dans l'ordre)</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Noix ou champignon ? Pourquoi s'inquiéter des étiquettes ? De toute façon, Champi-noix ne vous diras pas qu'il est d'origine japonaise et qu'il s'agit en fait d'un \"Matsutake\" déguisé en Champi-noix.</color></size>",
+            "info": "<size=36>Le Champi-noix peut être votre défenseur fidèle malgré sa taille.\n\n<color=black>Robustesse : </color><color=#8B0000>2000\n<color=black>•</color> Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Noix</color>"
         },
         {
             "seedType": 1022,
@@ -696,9 +696,9 @@
         {
             "seedType": 1031,
             "name": "Champi-soleil",
-            "introduce": "<size=36><color=black>Le champignon solaire déteste le soleil. Il le déteste tellement que lorsqu'il s'accumule dans son organisme, il le recrache aussi vite qu'il le peut. Il ne le supportera tout simplement pas. Pour lui, le soleil est grossier.</color></size>",
-            "info": "<size=36>Champi-soleil donne un petit soleil au début et un soleil normal par la suite.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15 (25) / 25 Secondes\n<color=black>Temps de croissance : </color><color=#8B0000>120 secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Tournesol</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Le Champi-soleil déteste le soleil. Il le déteste tellement que lorsqu'il s'accumule dans son organisme, il le recrache aussi vite qu'il le peut. C'est presque une phobie. Pour lui, le soleil est grossier.</color></size>",
+            "info": "<size=36>Le Champi-soleil produit un petit soleil au départ, puis un soleil normal une fois qu’il a grandi.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15→25/25s\n<color=black>Temps de croissance : </color><color=#8B0000>120s</color><color=#8B0000>Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Tournesol</color></size>"
         },
         {
             "seedType": 1032,
@@ -1312,8 +1312,8 @@
         {
             "seedType": 1120,
             "name": "Canon à Épi",
-            "introduce": "<size=36><color=black>Cob Cannon est une véritable puissance intellectuelle : la rumeur dit qu'il a étudié à Harvard et a travaillé dans un prestigieux cabinet d'avocats à New York. Connu pour son immense puissance, un seul tir de Cob Cannon peut décimer une vaste zone de zombies. Cependant, la véritable source de sa formidable énergie reste un mystère.</color>",
-            "info": "<size=36>Peut être tiré manuellement pour lancer des épis de maïs mortels qui causent des dommages au crémateur.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Doit être planté au-dessus de deux Lance-maïss.</color>",
+            "introduce": "<size=36><color=black>Canon à Épi est une véritable puissance intellectuelle : la rumeur dit qu'il a étudié à Harvard et a travaillé dans un prestigieux cabinet d'avocats à New York. Connu pour son immense puissance, un seul tir de Canon à Épi peut décimer une vaste zone de zombies. Cependant, la véritable source de sa formidable énergie reste un mystère.</color>",
+            "info": "<size=36>Peut être actionné manuellement pour lancer des épis de maïs mortels qui infligent des dégâts de crémation.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (crémation)</color>\n<color=black>Temps de rechargement : </color><color=#8B0000>36 secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Doit être planté sur deux Lance-maïs côte à côte. </color>",
             "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>50 Secondes</color>"
         },
         {
@@ -1325,17 +1325,17 @@
         },
         {
             "seedType": 1122,
-            "name": "Canon Enflammé",
-            "introduce": "<size=36><color=black>Pyro Cannon a une activité de pop-corn en plein essor. L'arôme enflammé fait courir les zombies, ajoutant du piquant à n'importe quel événement. Il envisage même bientôt une séance de hot pot avec Jalapeño.</color>",
-            "info": "<size=36>Utilisez-le manuellement pour tirer un projectile enflammé explosif à dégâts élevés qui brûle les zombies et infuse les plantes à proximité de Jalapeño.\n\n<color=black>Dégâts : </color><color=#8B0000>3600 (Incendiaire), inflige le Debuff Enflammé</color>\n<color=black>Spécial : </color><color=#8B0000>Infuse les plantes dans son rayon d'explosion avec du Jalapeño.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Jalapeño</color>",
-            "cost": "<size=36>"
+            "name": "Canon Volcanique",
+            "introduce": "<size=36><color=black>Canon Volcanique a une activité de pop-corn en plein essor. L'arôme enflammé fait courir les zombies, ajoutant du piquant à n'importe quel événement. Il envisage même bientôt une séance de hot pot avec Jalapeño.</color>",
+            "info": "<size=36<size=36>Utilisez-le manuellement pour tirer un projectile explosif enflammé qui inflige des dégâts importants, brûle les zombies et imprègne les plantes voisines de Jalapeño. n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Enflammé puis inflige des dégâts, et imprègne les plantes dans son rayon d'explosion de Jalapeño.</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Jalapeño + Canon à Épi</color>"
         },
         {
             "seedType": 1123,
             "name": "Canon Arctique",
-            "introduce": "<size=36><color=black>Malgré son extérieur glacial, Cryo Cannon est chaleureux, surtout envers ses amis. Pendant son temps libre, il aime skier, jouer du tambour et explorer des grottes. Son meilleur truc de fête ? Une blague froide pour \"cooler\" la foule.</color>",
-            "info": "<size=36>Utilisez-le manuellement pour tirer un projectile glacial qui endommage les zombies et infuse les plantes de Champi-glace.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire), Ralentissements</color>\n<color=black>Spécial : </color><color=#8B0000>Infuse les plantes dans son rayon de souffle avec du Champi-glace.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Cob Cannon + Champi-glace</color>",
-            "cost": "<size=36>"
+            "introduce": "<size=36><color=black>Malgré son extérieur glacial, Canon Arctique est chaleureux, surtout envers ses amis. Pendant son temps libre, il aime skier, jouer du tambour et explorer des grottes. Son meilleur truc de fête ? Une blague froide pour \"détendre\" la foule.</color>",
+            "info": "<size=36>Utilisez manuellement pour lancer un projectile glaçant qui inflige des dégâts aux zombies et imprègne les plantes de Champi-glace. n\n<color=black>Dégâts : </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige l'altération Gel et infuse les plantes dans son rayon d'explosion avec Champi-glace (à l'exception des pots de fleurs).</color>",
+            "cost":  "\n<size=36>Formule de fusion: <color=#8B0000>Champi-glace + Canon à Épi</color>"
         },
         {
             "seedType": 1124,
@@ -1612,10 +1612,10 @@
         },
         {
             "seedType": 243,
-            "name": "Burger Blaster",
-            "introduce": "<size=36><color=#3D1400>Les plantes s'interrogent souvent sur les origines de Burger Blaster, surtout lorsqu'elles le voient empiler d'autres plantes sur lui pour augmenter sa puissance. En vérité, il n’est qu’un sous-produit de la tentative de Dave de fabriquer un taco à partir de plantes. \"Le produit réel peut varier. Les remplissages supplémentaires sont fournis par vous-même.\"</color>",
-            "info": "<size=36>Un cadeau de l'édition Hybride !\n\n<color=#3D1400>Dégâts : </color><color=red>20x2/3 secondes</color>\n<color=#3D1400>Résistance : </color><color=red>1000</color>\n\n<color=#3D1400>Sortie Soleil : </color><color=red>25/25 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Tire des projectiles aléatoires. Mises à niveau en utilisant Cactus, Melon-pult et Winter Melon pour atteindre le plus haut niveau.\nCactus：Niveau 0→1, HP 1000→2000, Intervalle d'attaque 3→2,5, Num. des Tirs 2→4, Nouveaux Projectiles : Spike, Butter, Écraseur ;\nMelon-pult：Niveau 1 → 2, HP 2000 → 3000, Dégâts d'attaque 30 → 40, Num. des plans 4 → 6, nouveaux projectiles : melon chaud, melon ;\nMelon d'hiver ： Niveau 2 → 3, intervalle d'attaque 2,5 → 2, Num. des tirs 6 → 8, nouveaux projectiles : melon d'hiver, pois mange-tout, spore de neige, glaçon funeste <color=red></color>",
-            "cost": "<size=36>Coût :<color=red>150</color>\nRecharge : <color=red>30 Secondes</color>"
+            "name": "Canon Burger",
+            "introduce": "<align=justified><size=36><color=black>Les plantes se demandent souvent d’où vient Canon Burger, surtout quand elles le voient empiler d’autres plantes sur lui pour augmenter sa puissance. En vérité, il n’est qu’un sous-produit de la tentative de Dave de fabriquer un taco à partir de plantes. \"Le produit réel peut varier. Les garnitures supplémentaires sont à fournir par vous-même.\"</color></size>",
+            "info": "<size=36>Assemblez le burger en suivant les instructions sur les étiquettes !\n\n<color=blue>Plante de collaboration PvZ : Hybrid Edition</color>\n<color=#4A2900>Conditions de déverrouillage : Vaincre Casse-vases – Réaction en chaîne</color>\n<color=black>Dégâts : </color><color=#8B0000>20×2 / 3 s</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25 / 25 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante haute. Tire des projectiles aléatoires. Peut être améliorée en utilisant Cactus, Lance-pastèque et Pastèque Glacée pour atteindre le niveau maximal. Consultez la page suivante pour les détails des améliorations.</color>\n\n<color=black>|</color> <color=black>Amélioration Cactus</color> <color=black>|</color> Niveau : 0 → 1\n<color=black>•</color> Robustesse : 1000 → 2000\n<color=black>•</color> Intervalle d’attaque : 3 → 2,5\n<color=black>•</color> Nombre de tirs : 2 → 4\n<color=black>•</color> Nouveaux projectiles : Pique, Beurre, Écraseur\n\n<color=black>|</color> <color=black>Amélioration Lance-pastèque</color> <color=black>|</color> Niveau : 1 → 2\n<color=black>•</color> Robustesse : 2000 → 3000\n<color=black>•</color> Dégâts d’attaque : 30 → 40\n<color=black>•</color> Nombre de tirs : 4 → 6\n<color=black>•</color> Nouveaux projectiles : Pastèque chaude, Pastèque\n\n<color=black>|</color> <color=black>Amélioration Pastèque d’Hiver</color> <color=black>|</color> Niveau : 2 → 3\n<color=black>•</color> Robustesse : 3000 → 4000\n<color=black>•</color> Intervalle d’attaque : 2,5 → 2\n<color=black>•</color> Nombre de tirs : 6 → 8\n<color=black>•</color> Nouveaux projectiles : Pastèque d’Hiver, Pois des Neiges, Spore de Neige, Pique Funeste</size>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>30 s</color></size>"
         },
         {
             "seedType": 244,
@@ -1710,10 +1710,10 @@
         },
         {
             "seedType": 1167,
-            "name": "Pois Brasier",
-            "introduce": "<size=36><color=#3D1400>D'autres tireurs d'élite envient Pois Brasier car elle est une assistante fiable du commandant, même si elle est encore petite. \"Le talent est une chose, mais... je dois remercier le commandant de m'avoir cultivé !~\" dit Pois Brasier, mais en réalité, c'est parce que le Commando Geleur est naturellement froid et garde toujours Pois Brasier comme copain d'échauffement.< /couleur>",
-            "info": "<size=36>Peut verrouiller les zombies n'importe où sur la carte !\n\n<color=#3D1400>Dégâts : </color><color=red>300/3 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Les attaques provoquent Enflammé et infligent 100 dégâts aux zombies à proximité</color>\n<color=#3D1400>Formule de Fusion : </color><color=red>Sniper Pea + Jalapeno</color>",
-            "cost": ""
+            "name": "Pois-sniper Brasier",
+            "introduce": "<align=justified><size=36><color=black>D'autres tireurs d'élite envient Pois-sniper Brasier, car il est un assistant fiable du commandant, même si il est encore petit. \"Le talent est une chose, mais... je dois remercier le commandant de m'avoir formée !~\" dit Pois-sniper Brasier. En réalité, c’est surtout parce que le Commando Geleur est naturellement froid et garde toujours Pois-sniper Brasier comme compagnon d’échauffement.</color></size>",
+            "info": "<size=36>Marque et fait exploser des zombies n’importe où sur la carte !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>300 / 3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Les attaques appliquent l’altération Enflammé et infligent 100 dégâts aux zombies à proximité.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pois-sniper + Jalapeno</color></size>"
         },
         {
             "seedType": 1168,
@@ -1732,9 +1732,9 @@
         {
             "seedType": 1170,
             "name": "Champi-grenaille",
-            "introduce": "<size=36><color=#3D1400>Certaines plantes demandaient : \"Pourquoi le dessus du Champi-grenaille est-il rouge ?\" Potato Sprout Mushroom a alors demandé : \"Eh bien, laissez-moi d'abord vous demander...\"</color>",
-            "info": "<size=36>Peut-être se reproduire !\n\n<color=#3D1400>Dégâts :</color> <color=red>20/1,5 secondes</color>\n<color=#3D1400>Spécial :</color> <color=red>Crée un nouveau Champi-grenaille sur la même case après 20 secondes. Chaque Champi-grenaille ne peut se reproduire qu'une seule fois. À sa mort, il inflige 300 dégâts aux zombies proches.</color>\n<color=#3D1400>Formule de Fusion :</color> <color=red>Champi-gnon + Mine Patate</color>\"",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=#3D1400>Certaines plantes demandaient : \"Pourquoi y a-t-il une lumière rouge au-dessus du chapeau de Champi-grenaille ?\" Champi-grenaille a alors répondu : \"Eh bien, laissez-moi d'abord vous demander...\"</color>",
+            "info": "<size=36>Peut se reproduire lui-même !\n\n<color=black>Dégâts: </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial: </color><color=#8B0000>Crée un nouveau Champi-grenaille sur la même tuile après 20 secondes. Chaque Champi-grenaille ne peut se reproduire qu’un à la fois ; seuls les Champi-grenaille avec une lumière rouge peuvent se reproduire. Utiliser un fertilisant annule les 20 s de chargement et produit un nouveau Champi-grenaille instantanément. À sa mort, il inflige 300 dégâts aux zombies proches. Petite plante (évite les projectiles tirés en ligne droite).</color></size>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-gnon + Mine Patate</color>"
         },
         {
             "seedType": 1171,
@@ -3058,6 +3058,111 @@
             "introduce": "<align=justified><size=36><color=black>\" Je suis né extraordinaire \", affirme Four Lotus. Il pense que sa lueur provient d’un feu phosphorescent… mais en réalité, ce sont simplement des lucioles qui se cachent du froid à l’intérieur de lui.</color></size>",
             "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé le Lotus de Neige, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 60 secondes.</color></size>",
             "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Lotus de Neige</color></size>"
+        },
+        {
+            "seedType": 1224,
+            "name": "Four Scie",
+            "introduce": "<align=justified><size=36><color=black>\" Utiliser le potassium comme combustible fournit non seulement une chaleur abondante, mais produit aussi de superbes flammes colorées \", explique Four Scie avec enthousiasme. \" Et ce ventilateur, modifié à partir d’une scie circulaire, permet de souffler l’air chaud directement vers vous. \" Employé modèle du sauna des terres enneigées, il s’efforce toujours d’offrir le meilleur service possible.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé le Chrysanfer, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 120 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Chrysanfer</color></size>"
+        },
+        {
+            "seedType": 1223,
+            "name": "Four Épicéa",
+            "introduce": "<align=justified><size=36><color=black>Four Épicéa transporte toujours sur lui des aiguilles d’épicéa bien sèches. Il affirme que c’est un excellent combustible \" vert \" — inflammable et facile à récolter. En ce moment même, il est en train d’en faire sécher une nouvelle fournée au soleil.</color></size>",
+            "info": "<size=36>Une version améliorée du Four Polaire ayant absorbé l’Épicéa Tireur d’élite, avec une zone de protection étendue.\n\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 210 secondes.</color></size>",
+            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Four Polaire + Épicéa Tireur d’élite</color></size>"
+        },
+        {
+            "seedType": 227,
+            "name": "Imitateur en Diamant",
+            "introduce": "<align=justified><size=36><color=black>C'est un marchand, le plus cliché qui soit. Pas de position, pas loyal, motivé uniquement par le profit. Il change librement de camp entre les plantes et les zombies, faisant de la contrebande de marchandises. Ce qu'il apporte pourrait être la clé pour un retour en force… ou complétement inutile… ou encore un enemi puissant. Mais ce qui t'arrive finalement n'a rien à voir avec lui. Après tout, tu savais exactement ce que tu achetais.</color>",
+            "info": "<size=36>Je l'envoie! - Attendez, non, j'ai encore causé des problèmes!\n\n<color=#4A2900>Conditions de déblocage: Complète Odyssey Gacha: Imitateur en Diamant</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> 1.5 secondes après son apparition, génère une plante aléatoire, zombie, ou un évènement.\n<color=black>•</color> Chances: Odyssey plantes (10%); Plantes disponibles dans les coffrets cadeaux (50%); Odyssey zombies (10%); des bosses, des mini-bosses, ou Odyssey zombies (10%); des zombies communs (15%); des évènements aléatoire (5%). Les zombies générés ont une santé aléatoires de 0.8×/1×/1.2×.\n<color=black>•</color> Listes des évènements: \n<color=black>-</color> 1. Gagner 200 soleils.\n<color=black>-</color> 2. Obtenir un modificateur Odyssey.\n<color=black>-</color> 3. Tuez instantanément tous les zombies dans un rayon de 1,5 tuile.\n<color=black>-</color> 4. Infligez 4000 points de dégâts aux plantes dans une zone de 3×3.\n<color=black>-</color> 5. Crée une colonne de boules de feu qui roulent vers la droite, infligeant l'effet Enflammé et laissant une traînée de feu infligeant 40 points de dégâts.</color>",
+            "cost": "<size=36>Coût: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>15 secondes</color>"
+        },
+        {
+            "seedType": 241,
+            "name": "Haricot Gelé",
+            "introduce": "<align=justified><size=36><color=black>Les plantes n’arrivaient pas à comprendre comment un haricot aussi minuscule pouvait refroidir l’air avec une telle efficacité. Mais Haricot Gelé se contentait de sourire d’un air malicieux. \"Tu sais pourquoi Nénu-chat éternue quand elle fait la lessive ? Parce qu’elle lave des vêtements de chat.\" Peut-être que la vraie magie venait simplement de son sens de l’humour.</color></size>",
+            "info": "<size=36>Hey↑ Yeh↓!\n\n<color=#4A2900>Conditions de déblocage : </color><color=#8B0000>Terminer Billard de Noix 1</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante flottante.\n<color=black>•</color> Renforce les Pois Glacés dans une zone de 3×3 autour de lui, leur permettant de tirer des pois de glace polaire, doublant les dégâts infligés et les points de Cryo appliqués aux zombies.</color></size>",
+            "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>30 s</color></size>"
+        },
+        {
+            "seedType": 350,
+            "name": "Pisto-tournesol (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" En fait, le Tournesol derrière moi est ma sœur \", explique le Pisto-tournesol. \" On est inséparables depuis la naissance. Elle adore produire du Soleil, et moi je détruis les zombies pour elle. \" Après tout, chaque zombie qui s’approche de sa sœur finit mystérieusement vaporisé par la lumière du soleil.</color>",
+            "info": "<size=36>Le Pisto-tournesol tire des projectiles solaires qui peuvent générer du Soleil.\n\n<color=blue>Orientation réversible avec la touche R</color>\n<color=black>Dégâts : </color><color=#8B0000>20 / 1.5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque troisième tir génère 5 Soleil à l’impact.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(80 Soleil) Dégâts et vitesse d’attaque +20%\n<color=black>• Voie d’élite 1 : </color>(200 Soleil) Dégâts +200%\n<color=black>• Voie d’élite 2 : </color>(200 Soleil) Vitesse d’attaque +100%</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>7.5 s</color></size>"
+        },
+        {
+            "seedType": 351,
+            "name": "Champi-aube (TD)",
+            "introduce": "<align=justified><size=36><color=black>Banquier solaire chevronné, le Champi-aube propose des taux d’intérêt très avantageux sur vos dépôts. \" Vous avez choisi un dépôt à terme \", explique-t-il sèchement à une Double Noix solaire frustrée. \" Les retraits ne sont pas encore autorisés. \"</color>",
+            "info": "<size=36>Producteur de Soleil visionnaire qui absorbe et multiplie le Soleil à proximité, puis le redistribue par salves.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25 / 25 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Absorbe le Soleil au sol dans une zone de 5×5, multiplie sa valeur par ×1,3 et le stocke.\n<color=black>•</color> Libère autant de Soleil que possible par lots de 25 lors de la prochaine production.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(60 Soleil) Vitesse de production de Soleil +50%\n<color=black>• Voie d’élite 1 : </color>(150 Soleil) Vitesse de production de Soleil +200%\n<color=black>• Voie d’élite 2 : </color>(150 Soleil) Multiplicateur de valeur du Soleil ×2</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>7.5 s</color></size>"
+        },
+        {
+            "seedType": 352,
+            "name": "Pisto-grenade (TD)",
+            "introduce": "<align=justified><size=36><color=black>Voici le Pisto-grenade, le cauchemar des zombies. Plus irritable que jamais — qui aurait cru que le chaleureux Pisto-cerise avalerait encore une cerise spéciale ? Ne le provoquez pas. La cerise coincée dans sa gorge pourrait bien être son prochain tir… son visage vire déjà au rouge.</color>",
+            "info": "<size=36>Tire des cerises explosives qui détonnent à l’impact.\n\n<color=blue>Réversible en appuyant sur R</color>\n<color=black>Dégâts : </color><color=#8B0000>20 / 3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Immunisé aux explosions de cerises et inflige des dégâts de zone.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(160 Soleil) Dégâts d’attaque +50 %\n<color=black>• Voie d’élite 1 : </color>(400 Soleil) Dégâts d’attaque +100 %, rayon d’explosion +50 %\n<color=black>• Voie d’élite 2 : </color>(400 Soleil) Vitesse d’attaque +200 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>400</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 353,
+            "name": "Noix Étoilée (TD)",
+            "introduce": "<align=justified><size=36><color=black>Noix Étoilée vit sous un rocher et bouge rarement. Ce n’est pas par paresse, mais par exigence. Il n’accepte d’agir que sur invitation d’un certain ami carré pour une séance de pêche aux méduses… ou pour piéger un voisin céphalopode.</color>",
+            "info": "<size=36>Défenseur réactif qui contre-attaque avec des étoiles.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Lance cinq étoiles infligeant 10 dégâts dans toutes les directions lorsqu’il subit des dégâts.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(80 Soleil) PV et Robustesse max +50 %\n<color=black>• Voie d’élite 1 : </color>(200 Soleil) PV +200 %\n<color=black>• Voie d’élite 2 : </color>(200 Soleil) Régénération +100 % (100 PV / 3 s)</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>30 s</color></size>"
+        },
+        {
+            "seedType": 354,
+            "name": "Mine Solaire (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" Arrêtez-vous au feu rouge, ralentissez au feu orange et respectez le code de la route ! \" Mine Solaire sermonne souvent les zombies. Mais eux ne voient qu’une lueur verdâtre peu engageante. Elle serre ses feuilles vertes et boude, rêvant de davantage de soleil. \" Après tout, c’est le soleil qui nous fait vivre ! \"</color>",
+            "info": "<size=36>Mine Solaire produit du Soleil jusqu’à — et après — son explosion.\n\n<color=black>Dégâts : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Fait tomber 50 Soleil lors de l’explosion.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(10 Soleil) Dégâts d’explosion +50 %\n<color=black>• Voie d’élite 1 : </color>(25 Soleil) Rayon d’explosion +50 %\n<color=black>• Voie d’élite 2 : </color>(25 Soleil) Dégâts d’explosion +100 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 355,
+            "name": "Champi-sombre Glacé (TD)",
+            "introduce": "<align=justified><size=36><color=black>Rêvant d’une carrière de physicien, Champi-sombre Glacé consacre ses journées à percer les mystères du monde, évitant soigneusement le contact avec les autres plantes. \" Pourquoi ai-je plusieurs filaments de stalactites qui me poussent sur la tête ? \" s’interroge-t-il, absorbé par cette nouvelle énigme. Il insiste d’ailleurs pour les appeler des \" cordes \".</color>",
+            "info": "<size=36>Diffuse des fumées glaciales autour de lui, capables de geler les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>5/3,8 s (Perçant)</color>\n<color=black>Spécial : </color><color=#8B0000>Les attaques appliquent l’altération Gel.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(80 Soleil) Vitesse d’attaque +50 %\n<color=black>• Voie d’élite 1 : </color>(200 Soleil) Les attaques ajoutent 10 points de Cryo\n<color=black>• Voie d’élite 2 : </color>(200 Soleil) Durée du Gel ×2</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>200</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 356,
+            "name": "Mordeur Explosif (TD)",
+            "introduce": "<align=justified><size=36><color=black>Depuis son verre partagé avec la Cerise Explosive, Mordeur est en permanence \" survoltée \". Chaque repas est devenu un véritable carnage : ses mâchonnements résonnent désormais comme des détonations, faisant voler assiettes et couverts dans toute la maison. Après un vote à main levée, Mordeur Explosif a été reléguée au jardin… au moins, il n’a plus besoin de racheter de vaisselle.</color>",
+            "info": "<size=36>Déclenche une explosion de cerise lorsqu’il dévore un zombie.\n\n<color=blue>Orientation réversible avec la touche R</color>\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40 s</color>\n<color=black>Spécial : </color><color=#8B0000>Après une morsure réussie, crée une explosion de Cerise Explosive en 3×3 sur la case située juste devant, infligeant 1 000 dégâts.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(200 Soleil) Dégâts d’explosion +20 %, Temps de digestion −10 s\n<color=black>• Voie d’élite 1 : </color>(500 Soleil) Dégâts d’explosion +100 %\n<color=black>• Voie d’élite 2 : </color>(500 Soleil) Temps de digestion −50 % (15 s)</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>500</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 358,
+            "name": "Champisto-pois (TD)",
+            "introduce": "<align=justified><size=36><color=black>\" Ne vous fiez pas à ma taille : même un petit corps peut renfermer une grande énergie \", prévient Champisto-pois à ceux qui le sous-estiment. \" Nous avons tous commencé comme de minuscules champignons, progressant petit à petit. Avec de la persévérance et un bon petit-déjeuner ensoleillé, vous pouvez devenir comme moi. \"</color>",
+            "info": "<size=36>Champisto-pois tire plus loin que Champi-gnon.\n\n<color=blue>Orientation réversible avec la touche R</color>\n<color=black>Dégâts : </color><color=#8B0000>10/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse, empilable.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(20 Soleil) Dégâts d’attaque +50 %\n<color=black>• Voie d’élite 1 : </color>(50 Soleil) Dégâts d’attaque +100 %, tire désormais des mini-pois enflammés\n<color=black>• Voie d’élite 2 : </color>(50 Soleil) Dégâts d’attaque +200 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 359,
+            "name": "Champi-soleil (TD)",
+            "introduce": "<align=justified><size=36><color=black>Champi-soleil déteste le Soleil. Il le déteste tellement que, dès qu’il s’accumule en lui, il le recrache aussi vite que possible. Impossible de le supporter. À ses yeux, le Soleil est vulgaire.</color>",
+            "info": "<size=36>Champi-soleil produit d’abord de petits Soleils, puis des Soleils normaux.\n\n<color=black>Production de Soleil : </color><color=#8B0000>5 → 15 / 25 s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>120 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse, empilable.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(10 Soleil) Temps de production → 16,67 s\n<color=black>• Voie d’élite 1 : </color>(25 Soleil) Croît instantanément et produit du Soleil\n<color=black>• Voie d’élite 2 : </color>(25 Soleil) Produit désormais 2 Soleils à la fois</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7,5 s</color></size>"
+        },
+        {
+            "seedType": 360,
+            "name": "Champi-cendré (TD)",
+            "introduce": "<align=justified><size=36><color=black>Champi-cendré, misanthrope et bourreau de travail, ne supporte pas la vue des zombies — bien trop distrayante. Il dispose d’un stock limité de munitions, mais largement suffisant pour être mortel. \" Ne me dérangez que si c’est urgent. Si vous les voulez morts, tirez vous-même. \" Malgré son caractère sec, son efficacité redoutable force le respect.</color>",
+            "info": "<size=36>Champi-cendré peut éliminer la majorité des zombies devant lui.\n\n<color=blue>Réversible en appuyant sur R</color>\n<color=black>Dégâts : </color><color=#8B0000>1000 / 60 s</color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez manuellement dans le menu d’amélioration pour attaquer tous les zombies de la ligne devant lui.</color>\n<color=black>Améliorations : </color><color=#8B0000>\n<color=black>• Amélioration de base : </color>(200 Soleil) Dégâts +50 %\n<color=black>• Voie d’élite 1 : </color>(500 Soleil) Dégâts +200 %\n<color=black>• Voie d’élite 2 : </color>(500 Soleil) Temps de recharge d’attaque -50 %</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>500</color>\nRecharge : <color=#8B0000>50 s</color></size>"
+        },
+        {
+            "seedType": 361,
+            "name": "Dévoreur de Tombe (TD)",
+            "introduce": "<align=justified><size=36><color=black>Malgré son apparence inquiétante, Dévoreur de Tombe tient à ce que tout le monde sache qu’il adore les chatons et consacre son temps libre au bénévolat dans un centre local de réhabilitation des zombies. \" C’est simplement la bonne chose à faire \", affirme-t-il.</color>",
+            "info": "<size=36>Plantez Dévoreur de Tombe sur les statues pour les détruire.\n\n<color=black>Spécial : </color><color=#8B0000>Peut détruire les statues.</color>\n<color=black>Mécanique des Statues Solaires : </color><color=#8B0000>\n<color=black>•</color> Les statues bloquent les projectiles à tir direct et possèdent 1000 PV chacune.\n<color=black>•</color> Les statues ne peuvent être endommagées que par des projectiles ou par le Dévoreur de Tombe.\n<color=black>•</color> Les statues de Tournesol lâchent 100 Soleil à leur destruction, celles de Champi-soleil en lâchent 50.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>50 s</color></size>"
         }
     ]
 }

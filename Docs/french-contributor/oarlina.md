@@ -22,13 +22,36 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traductions ajustées : **15**
+* Nouvelles traductions : **1**
+* Traductions ajustées : **18**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `05/01/26 → 11/01/26`
+> [PR#53](https://github.com/Teyliu/PVZF-Translation/pull/53) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+* Traductions ajustées : **3**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Imitateur en Diamant** (`seedType: 227`)
+
+## 🧩 **Modified Plants**
+* **Canon à Épi** (`seedType: 1120`)
+* **Canon Arctique** (`seedType: 1123`)
+* **Canon Volcanique** (`seedType: 1122`)
 
 ---
 

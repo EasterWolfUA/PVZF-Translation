@@ -21,13 +21,31 @@ Ce document retrace l’ensemble des contributions effectuées par **Ink Stolas*
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traductions ajustées : **3**
+* Traductions ajustées : **6**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `05/01/26 → 11/01/26`
+> [PR#53](https://github.com/Teyliu/PVZF-Translation/pull/53) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **3**
+
+---
+
+#### Détail
+
+## 🛠️ **Modified Zombies**
+* **Zombie Tuba** (`theZombieType: 17`)
+* **Zombie Boîte-en-Or** (`theZombieType: 22`)
+* **Zombie Boîte-en-Argent** (`theZombieType: 23`)
 
 ---
 

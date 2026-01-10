@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
+* Nouvelles traductions : **178**
 * Traductions ajustées : **113**
-* Nouvelles traductions : **167**
-* Reviews effectuées : **152**
+* Reviews effectuées : **171**
 
 **Réseaux & contacts**
 
@@ -32,18 +32,16 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ## Contributeur
 
-
-### [Oarlina](./french-contributor/oarlina.md)
+### [Samael](./french-contributor/same_el.md)
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **0**
-* Traductions ajustées : **15**
+* Nouvelles traductions : **4**
+* Traductions ajustées : **62**
 
 **Réseaux & contacts**
 
-* **GitHub** : [Oarlina](https://github.com/Oarlina) 
-* **LinkedIn** : [Rachel Marquant](https://www.linkedin.com/in/rachel-marquant-98bb4536a/)
+* **GitHub** : [Same-ael](https://github.com/Same-ael)
 
 ---
 
@@ -51,8 +49,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **11**
-* Traductions ajustées : **30**
+* Nouvelles traductions : **14**
+* Traductions ajustées : **33**
 
 **Réseaux & contacts**
 
@@ -60,16 +58,17 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
-### [Samael](./french-contributor/same_el.md)
+### [Oarlina](./french-contributor/oarlina.md)
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **4**
-* Traductions ajustées : **57**
+* Nouvelles traductions : **1**
+* Traductions ajustées : **18**
 
 **Réseaux & contacts**
 
-* **GitHub** : [Same-ael](https://github.com/Same-ael)
+* **GitHub** : [Oarlina](https://github.com/Oarlina) 
+* **LinkedIn** : [Rachel Marquant](https://www.linkedin.com/in/rachel-marquant-98bb4536a/)
 
 ---
 
@@ -118,7 +117,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 **Statistiques de contribution**
 
 * Nouvelles traductions : **0**
-* Traductions ajustées : **3**
+* Traductions ajustées : **6**
 
 **Réseaux & contacts**
 
