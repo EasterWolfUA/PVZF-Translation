@@ -570,7 +570,7 @@
       "seedType": 904,
       "name": "파멸자 버섯",
       "introduce": "<size=36><color=black>\"죽음이 패셔니스타를 고용한다는 게 가능할까?\" 파멸자 버섯은 알 수 없었습니다. 좀비들을 꾸준히 놀라게 하지 못한다는 걸 깨달은 그는 최면 버섯에게 의상을 추천해 달라고 부탁했습니다. 비록 사람들이 죽음을 좋아하지는 않지만, 만약 그가 반짝이는 얼음 날개를 달고 있다면 과연 어떻게 반응할까요?</color></size>",
-      "info": "<size=36>파멸자 버섯은 경이로운 피해를 선사하면서 좀비를\n매혹시키거나 느리게 합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>150 | 0.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 직사\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격 시 빙결 포인트 20을 부여합니다.\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 체력이 40% 이하인 적을 일정 확률로 좀비를 매혹된 얼음 키다리 호두 파수꾼로 바꿔버립니다.\n<color=black>•</color> 좀비를 매혹할 시 그 자리에 3×3 범위에 450 피해를 주는 폭발이 발생합니다.</color>\n<page><color=black>오디세이 버프:</color><color=#8B0000>\n1. 공격 대미지가 300% 증가합니다. | 파멸자 선인장의 공격력이 300% 증가합니다.\n2. 빙결이 풀릴 시 해당 좀비의 최대 체력의 30%가 깎입니다.</color></size>",
+      "info": "<size=36>파멸자 버섯은 경이로운 피해를 선사하면서 좀비를\n매혹시키거나 느리게 합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>100 | 0.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 직사\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격 시 빙결 포인트 20을 부여합니다.\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 체력이 40% 이하인 적을 일정 확률로 좀비를 매혹된 얼음 키다리 호두 파수꾼로 바꿔버립니다.\n<color=black>•</color> 좀비를 매혹할 시 그 자리에 3×3 범위에 450 피해를 주는 폭발이 발생합니다.</color>\n<page><color=black>오디세이 버프:</color><color=#8B0000>\n1. 공격 대미지가 300% 증가합니다. | 파멸자 선인장의 공격력이 300% 증가합니다.\n2. 빙결이 풀릴 시 해당 좀비의 최대 체력의 30%가 깎입니다.</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>혹한 버섯 + 얼음 최면 버섯</color>"
     },
     {
@@ -990,7 +990,7 @@
             "seedType": 964,
             "name": "망각 멜론 대포",
             "introduce": "<align=justified><size=36><color=black>망각 멜론 대포는 냉기 병기 설계의 정점을 보여줍니다. 분산형 탄두, 유도 호위 시스템, 그리고 끊임없는 서리불꽃이 그 특징입니다. 그는 서두르지 않고 전진하며, 분노가 아닌 절대 영도의 추위로 전투를 종결짓습니다.</color>",
-            "info": "<size=36>뼈가 시릴 정도로 차가운 멜론을 발사하여 포격을 가하며, 다수의 보조 포탄을 보유하고 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 망각 옥수수 대포 해금</color>\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>공격 횟수: </color><color=#8B0000>×40\n<color=black>재장전 시간: </color><color=#8B0000>36초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 망각 옥수수 대포의 아종입니다.\n<color=black>•</color> 아종 간의 전환시 남은 재장전 시간을 모두 36초로 초기화됩니다.\n<color=black>•</color> 수동으로 클릭하여 대형 망각 멜론 4개를 발사하면 소형 멜론 36개가 추가로 생성됩니다. 소형 멜론은 필드 위의 좀비를 우선적으로 공격하며, 조준 위치 근처의 좀비를 맞출 확률이 더 높습니다.\n<color=black>•</color> 대형 망각 멜론은 화면 전체에 대미지를 주고, 소형 멜론은 폭발 범위가 1.5 타일입니다. 두 멜론 모두 명중 시 5초 동안 적을 빙결 상태로 만들후, 피해를 입히고, 좀비의 속도를 영구적으로 0.5% 감소시키며, 최대 90%까지 감소시킵니다.</color>",
+            "info": "<size=36>뼈가 시릴 정도로 차가운 멜론을 발사하여 포격을 가하며, 다수의 보조 포탄을 보유하고 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 망각 옥수수 대포 해금</color>\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>공격 횟수: </color><color=#8B0000>×40\n<color=black>재장전 시간: </color><color=#8B0000>36초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 망각 옥수수 대포의 아종입니다.\n<color=black>•</color> 아종 간의 전환시 남은 재장전 시간을 모두 36초로 초기화됩니다.\n<color=black>•</color> 수동으로 클릭하여 대형 망각 멜론 4개를 발사하면 소형 멜론 36개가 추가로 생성됩니다. 소형 멜론은 필드 위의 좀비를 우선적으로 공격하며, 조준 위치 근처의 좀비를 맞출 확률이 더 높습니다.\n<color=black>•</color> 대형 망각 멜론은 화면 전체에 대미지를 주고, 소형 멜론의 폭발 범위는 3×3 타일입니다. 두 멜론 모두 명중 시 5초 동안 적을 빙결 상태로 만들후, 피해를 입히고, 좀비의 속도를 영구적으로 0.5% 감소시키며, 최대 90%까지 감소시킵니다.</color>",
             "cost": "\n<size=36>전환식: <color=#8B0000>옥수수 펄트 <-> 멜론 펄트</color>"
         },
         {
@@ -1445,7 +1445,7 @@
       "seedType": 1058,
       "name": "잿빛 삼발슈터",
       "introduce": "<size=36><color=black>\"왜 할라피뇨만 항상 칭찬을 받는 거지?\" 잿빛 삼발슈터가 연기를 내뿜으며 외쳤습니다. \"사람들이 알아야 하는 건, 할라피뇨와 조합하면 콩이 타버린다는 거야.\" 그는 진지한 표정으로 횃불나무를 바라보며 덧붙였습니다. \"내 말을 믿어, 탄 콩을 씹고 싶은 건 아니잖아!\"</color></size>",
-      "info": "<size=36>타버린 탓에 조합할 수 없는 삼발슈터입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40(각 콩 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>심거나 조합될 시 3 라인에 할라페뇨와 동일한 효과를 발동 됩니다.</color>",
+      "info": "<size=36>조합시 할라페뇨 효과를 증폭시켜 주지만 대신 일부분이 타버린 삼발슈터입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40(각 콩 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>심거나 조합될 시 3 라인에 할라페뇨와 동일한 효과를 발동 됩니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>삼발슈터 + 할라페뇨</color></size>"
     },
     {
