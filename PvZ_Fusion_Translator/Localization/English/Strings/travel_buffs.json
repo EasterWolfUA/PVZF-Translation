@@ -157,7 +157,7 @@
   ],
   "debuffs": [
     "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken",
-    "Gatling Cherry Newspaper Zombies will be immune to all status effects except Poison",
+    "Gatling Cherry Newspaper Zombies will be immune to all status effects",
     "Giga Football-nut Zombie: Bites now disable plant healing for 1s",
     "Giga Football-nut Zombie: Bites weaken plants, making them receive 3× damage for 1s",
     "Sharkmarine: Movement speed is now doubled",
