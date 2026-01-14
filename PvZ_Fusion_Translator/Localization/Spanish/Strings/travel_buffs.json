@@ -157,7 +157,7 @@
   ],
   "debuffs": [
     "Vegezombi Becario: Puede atravesar plantas al romper su libro",
-    "Vegezombi Becario: Es inmune a todos los efectos excepto el Efecto Venenoso",
+    "Vegezombi Becario: Es inmune a todos los estado de efectos",
     "Vegezombi Lethal-Star: Las plantas que muerde no podrán regenerarse por un segundo",
     "Vegezombi Lethal-Star: Las plantas que muerde recibirán 3 veces más daño por un segundo",
     "Submarinón: Su velocidad de movimiento se duplica",
