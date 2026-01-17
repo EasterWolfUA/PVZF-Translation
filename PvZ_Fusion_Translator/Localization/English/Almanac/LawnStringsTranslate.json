@@ -3188,7 +3188,7 @@
         {
             "seedType": 1307,
             "name": "Solarfruit",
-            "introduce": "<align=justified><size=36><color=black>\"I'm Solarfruit, not Sunny Five-fingers! Don't mix us up!\" Solarfruit always tries to explain that he's different from Sunny Five-fingers, but his plant friends don't care. supporters he has are the zombies, since they think fingers are definitely more annoying to gnaw on than fruits.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I'm Solarfruit, not Sunny Five-fingers! Don't mix us up!\" Solarfruit always tries to explain that he's different from Sunny Five-fingers, but his plant friends don't care. The only supporters he has are the zombies, since they think fingers are definitely more annoying to gnaw on than fruits.</color>",
             "info": "<size=36>Uses Sun to shoot high-damage stars.\n\n<color=black>Damage: </color><color=#8B0000>100×5</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Click on a Solarfruit to spend 25 Sun and make it shoot 5 100-damage Stars in 5 directions.\n<color=black>•</color> Uses Sun and shoots automatically every 0.35s if placed in a Starry Pumpkin.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Starfruit</color>"
         },

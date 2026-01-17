@@ -341,7 +341,7 @@
     },
     "Travel": {
         "achievement": 1001,
-        "Name": "Finish Odyssey: Survival.",
+        "Name": "Finish Odyssey: Classic.",
         "Text": "Adventuring Time"
     },
     "Travel2": {
@@ -356,12 +356,12 @@
     },
     "Travel_noBuff": {
         "achievement": 1004,
-        "Name": "Finish Odyssey Mode without selecting any modifiers.",
+        "Name": "Finish Odyssey: Classic without selecting any modifiers.",
         "Text": "Odyssey Master"
     },
     "Travel_noNut": {
         "achievement": 1005,
-        "Name": "Finish Odyssey Mode without using any Wall-nut or his fusions.",
+        "Name": "Finish Odyssey: Classic without using any Wall-nut or his fusions.",
         "Text": "Bare Fight"
     },
     "Travel_sun": {
@@ -371,7 +371,7 @@
     },
     "Travel_fast": {
         "achievement": 1007,
-        "Name": "Finish Odyssey Mode in under 40 minutes.",
+        "Name": "Finish Odyssey: Classic in under 40 minutes.",
         "Text": "Speedrunner"
     },
     "SuperMachineNut_health": {
