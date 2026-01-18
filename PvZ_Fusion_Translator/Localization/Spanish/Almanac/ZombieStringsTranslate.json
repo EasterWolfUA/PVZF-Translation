@@ -303,8 +303,8 @@
     },
     {
       "theZombieType": 50,
-      "name": "Yombi Escudero",
-      "introduce": "<size=39><color=#3D1400>El Yombi Escudero fue una vez un soldado de élite en el campo de batalla. Ahora, ya retirado, es el campeón invicto de las guerras de bolas de nieve del cementerio. Aprecia muchísimo su escudo, que le ha traído tanta gloria, y siempre lo revisa con cariño para ver si tiene algún daño. Tal vez fue precisamente ese hábito lo que lo llevó a lesionarse y retirarse.</color>",
+      "name": "Yombi con Escudo",
+      "introduce": "<size=39><color=#3D1400>El Yombi con Escudo fue una vez un soldado de élite en el campo de batalla. Ahora, ya retirado, es el campeón invicto de las guerras de bolas de nieve del cementerio. Aprecia muchísimo su escudo, que le ha traído tanta gloria, y siempre lo revisa con cariño para ver si tiene algún daño. Tal vez fue precisamente ese hábito lo que lo llevó a lesionarse y retirarse.</color>",
       "info": "<size=39>Puede reflejar proyectiles con su escudo y convertirlos en bolas de nieve.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720 + 2200 (Tipo 2)</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cada 1,5 segundos levanta su escudo para reflejar proyectiles en línea recta transformándolos en bolas de nieve; al reflejar pierde 20 de vida y no bloquea los proyectiles. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
     },
     {
