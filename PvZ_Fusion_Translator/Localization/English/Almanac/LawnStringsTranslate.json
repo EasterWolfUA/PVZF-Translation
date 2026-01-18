@@ -1054,7 +1054,7 @@
             "seedType": 972,
             "name": "Epic Gatling Frenzy-shroom",
             "introduce": "<align=justified><size=36><color=black>Epic Gatling Frenzy-shroom has been growing her hair out for a while now. A lot of people ask how the crack in her helmet got there. She always answers, \"Oh, that was on purpose. It lets my hair show.\"</color>",
-            "info": "<size=36>Fires special Ember Shells that enhance Ember's combo with other status debuffs.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Auto-Unlocked After Obtaining Doom Gatling's 2 Modifiers</color>\n<color=black>Toughness: </color><color=#8B0000>300/1.5s (0.25 Minimum)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Promotion of Gatling Frenzy-shroom, inherits its other traits; Subspecies of Epic Gatling Doom.\n<color=black>•</color> Fires Ember Shells. Fires an Ultimate Ember Shell every 16 attacks, dealing 1800 damage, and then rests for 4.5s.</color>\n<color=black>•</color> When scared, resets attack speed and triggers a craterless Doom-shroom effect (does not self-destruct).\n<color=black>•</color> Depending on the target's debuffs, gains the following effects:\n- Chilled: Chilled duration increased by 25%.\n- Enflamed: Damage bonus increased by an additive 40%, stackable with other increases.\n - Poisoned: Triggers Poison effects twice.</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. No more rest after firing an Ultimate Doom Shell | Gatling Frenzy-shroom Subspecies Unlocked | Effects also apply to Epic variants\n2. Now fires a Ultimate Doom Shell every 4 attacks | Effects also apply to Epic variants</color>\n\n<color=black>Cherrybomber Drone Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Gatling Cherrybomber and Gatling Doom's modifiers before this synergy becomes available in the shop for 15k.\n<color=black>•</color> When Cherrybomber Drone and Epic Gatling Frenzy-shroom are on the same tile, they perform coordinated attacks, and the former gains 0.05 energy while the latter gains 0.1 energy. Energy drains at 0.3 per second. For the first 7 whole points of energy, each increases the number of shots fired during coordinated attacks by 1. Energy above 7 increases the 8th bullet’s damage by ×(1 + excess point).</color>",
+            "info": "<size=36>Fires special Ember Shells that enhance Ember's combo with other status debuffs.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Auto-Unlocked After Obtaining Doom Gatling's 2 Modifiers</color>\n<color=black>Toughness: </color><color=#8B0000>300/1.5s (0.25 Minimum)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Promotion of Gatling Frenzy-shroom, inherits its other traits; Subspecies of Epic Gatling Doom.\n<color=black>•</color> Fires Ember Shells. Fires an Ultimate Ember Shell every 16 attacks, dealing 1800 damage, and then rests for 4.5s.</color>\n<color=black>•</color> When frightened, resets attack speed and triggers a craterless Doom-shroom effect (does not self-destruct).\n<color=black>•</color> Depending on the target's debuffs, gains the following effects:\n- Chilled: Chilled duration increased by 25%.\n- Enflamed: Damage bonus increased by an additive 40%, stackable with other increases.\n - Poisoned: Triggers Poison effects twice.</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. No more rest after firing an Ultimate Doom Shell | Gatling Frenzy-shroom Subspecies Unlocked | Effects also apply to Epic variants\n2. Now fires a Ultimate Doom Shell every 4 attacks | Effects also apply to Epic variants</color>\n\n<color=black>Cherrybomber Drone Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Gatling Cherrybomber and Gatling Doom's modifiers before this synergy becomes available in the shop for 15k.\n<color=black>•</color> When Cherrybomber Drone and Epic Gatling Frenzy-shroom are on the same tile, they perform coordinated attacks, and the former gains 0.05 energy while the latter gains 0.1 energy. Energy drains at 0.3 per second. For the first 7 whole points of energy, each increases the number of shots fired during coordinated attacks by 1. Energy above 7 increases the 8th bullet’s damage by ×(1 + excess point).</color>",
             "cost": "<size=36>Conversion Formula: <color=#8B0000>Peashooter <-> Scaredy-shroom</color>\nPromotion Formula: <color=#8B0000>Doom-shroom > Gatling Frenzy-shroom</color>"
         },
         {
@@ -3576,6 +3576,83 @@
             "introduce": "<align=justified><size=36><color=black>At school, Scaredy Flower Pot always curls up and avoids interacting with others. Because the mushrooms he grows are fewer than those of his classmates, he believes he is inferior. What his fear prevents him from noticing is that his classmates are actually envious - the mushrooms he grows are the most delicious of all.</color>",
             "info": "<size=36>Give boosts based on the value of the plant placed on top.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Grants the plant placed on top an attack damage bonus equal to [0.04 × (that plant's Sun cost)]%, up to 20%.\n<color=black>•</color> If the plant on top is a Scaredy-type mushroom, the attack bonus becomes 2×(base bonus + 10%), up to 60%.\n<color=black>•</color> Becomes frightened when zombies are present within a 3×3 area and stops providing attack bonus while frightened. After leaving the frightened state, the attack bonus gradually recovers over 3s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom > Flower Pot</color>"
+        },
+        {
+            "seedType": 1358,
+            "name": "Poll-Result-3",
+            "introduce": "<align=justified><size=36><color=black>\"Every plant I see is wearing sunglasses,\" Poll-Result-3 grumbles. \"It's ridiculous, so pretentious!\" In the end, Poll-Result-3 chalks it up to some inexplicable trend, while the other plants agree that staring directly at an ultra-high-power laser emitter is obviously bad for your eyesight…</color>",
+            "info": "<size=36>Fires a piercing laser ray. Damage falls off with distance and increases with Lumos.\n\n<color=black>Damage: </color><color=#8B0000>10/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Fires across the entire lane with unlimited pierce.\n<color=black>•</color> Each Lumos level increases damage by 0.5×.\n<color=black>•</color> Damage increases by 1.6×(5 - column distance to the target). At Lumos level 3 or higher, this instead becomes 0.8×(10 - column distance).</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Plantern</color>"
+        },
+        {
+            "seedType": 1359,
+            "name": "Poll-Result-5-1",
+            "introduce": "<align=justified><size=36><color=black>After years of tossing cabbages without a second thought, looking down at the world from above really makes you think. What if these cabbages were alive? Do they have dreams and hopes? Families? Children? All of these questions swirl endlessly inside the leafy green mind of the Poll-Result-5-1.</color>",
+            "info": "<size=36>Provides close-range air support by dropping cabbages.\n\n<color=black>Damage: </color><color=#8B0000>40×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Cabbage-pult</color>"
+        },
+        {
+            "seedType": 1360,
+            "name": "Poll-Result-5-2",
+            "introduce": "<align=justified><size=36><color=black>Poll-Result-5-2 signed up for the Garden Variety Show, hoping to play a UFO on stage, but it never made the cut. He just kept dropping corn and butter everywhere, drawing fierce opposition from the ground crew, and even causing the director who supported him to take a nasty fall.</color>",
+            "info": "<size=36>Provides close-range air support by dropping corn kernels or butter.\n\n<color=black>Damage: </color><color=#8B0000>20×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant. Has a 25% chance to drop butter, dealing 40 damage.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Kernel-pult</color>"
+        },
+        {
+            "seedType": 1361,
+            "name": "Fall Melon",
+            "introduce": "<align=justified><size=36><color=black>Other melons call him lazy, but Fall Melon insists he's efficient. \"Just let gravity do the work! Throwing things is exhausting!\" He seems to completely ignore the fact that this also shortens his range.</color>",
+            "info": "<size=36>Provides close-range air support by dropping melons.\n\n<color=black>Damage: </color><color=#8B0000>80×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Melon-pult</color>"
+        },
+        {
+            "seedType": 1362,
+            "name": "Starch-shroom",
+            "introduce": "<align=justified><size=36><color=black>After accepting a brand partnership offer from Potato Mine, Starch-shroom quit his bakery job. \"Joining the explosive-making industry was the best decision I've ever made,\" says Starch-shroom. \"Spraying starch straight from your mouth is way more efficient than fermenting bread!\"</color>",
+            "info": "<size=36>The fume he sprays carries a strong potato scent, sometimes even explosive!\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Every 10th attack, triggers a Potato Mine explosion that deals 300 damage at the position of each zombie hit.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Fume-shroom</color>"
+        },
+        {
+            "seedType": 1363,
+            "name": "Poll-Result-6",
+            "introduce": "<align=justified><size=36><color=black>Poll-Result-6 was never good at biology. He's always believed that the idea of \"apical dominance\" is wrong, but he's learned to keep that opinion to himself, not because he's embarrassed about his grades, but because he doesn’t want anyone to realize he's a corn with an underdeveloped tip.</color>",
+            "info": "<size=36>Thrown projectiles slam zombies like a Squash, with a chance to butter the ones that get crushed.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Projectiles deal area squash damage when they land. Has a 25% chance to throw a Butter Squash, applying 4s of Butter stun to up to 3 damaged targets.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Squash + Kernel-pult</color>"
+        },
+        {
+            "seedType": 1364,
+            "name": "Crater-tot",
+            "introduce": "<align=justified><size=36><color=black>As the head chef of a French fry restaurant, Crater-tot runs a tight kitchen and is known for his strict, no-nonsense management. But behind his successful spud career lies a personal struggle: his explosive temper means he can no longer make delicious fries.</color>",
+            "info": "<size=36>Shatters in a devastating explosion, scattering five Potato Mines that instantly arm on landing.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Short plant. When it explodes, it also triggers a Doom-shroom effect, then throws potato chunks onto 5 empty tiles. Each chunk creates a fully armed Potato Mine as soon as it lands.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1365,
+            "name": "Zodiac-shroom",
+            "introduce": "<align=justified><size=36><color=black>Zodiac-shroom worries that the loose tuft of fuzz on top of his cap makes him look silly, though most zombies would never understand why that bothers him.</color>",
+            "info": "<size=36>Zombies that bite him become hypnotized, turning into moving star launchers.\n\n<color=black>Special: </color><color=#8B0000>When bitten, hypnotizes the zombie and disappears, causing it to fire stars in a spiral: 60 volleys (300 total star projectiles).</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Starfruit</color>"
+        },
+        {
+            "seedType": 1366,
+            "name": "Pea Squash",
+            "introduce": "<align=justified><size=36><color=black>\"Should I jump up and smash zombies, or should I just be a proper shooter?\" That question haunted Pea Squash throughout his entire adolescence. In the end, he chose the more traditional Squash lifestyle, but every time he hits the ground, those little green bumps on his body reflexively fire peas anyway.</color>",
+            "info": "<size=36>Bursts into a storm of peas when it slams down.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>0.5 tiles to the left; 1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>When it lands, releases 3 rings of pea projectiles (108 peas total).</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Peashooter + Squash</color>"
+        },
+        {
+            "seedType": 1367,
+            "name": "Silver Ice-shroom",
+            "introduce": "<align=justified><size=36><color=black>Ruthless. Cold-blooded. Those are the labels people stick on Silver Ice-shroom, even other Ice-shrooms think he's too icy. Silver Ice-shroom doesn't care. His success comes from being cold-hearted; anyone who isn't ruthless enough simply can't survive in the cold-chain logistics business.</color>",
+            "info": "<size=36>An Ice-shroom coated in silver frost.\n\n<color=black>Special: </color><color=#8B0000>Freezes for 1 second longer than a normal Ice-shroom.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Marigold</color>"
+        },
+        {
+            "seedType": 1368,
+            "name": "Golden Ice-shroom",
+            "introduce": "<align=justified><size=36><color=black>A monopolist of the cold-chain logistics industry, Golden Ice-shroom can sway the temperature of the market with just a light sprinkle of coins. After years in the business, his wealth and fame are beyond counting, and his life is complete… except for the fact that he still can't cure his facial paralysis. A monopolist of the cold-chain logistics industry, Golden Ice-shroom can sway the temperature of the market with just a light sprinkle of coins. After years in the business, his wealth and fame are beyond counting, and his life is complete… except for the fact that he still can't cure his facial paralysis.</color>",
+            "info": "<size=36>A stable, gold-plated Ice-shroom that brings extreme cold through money.\n\n<color=black>Special: </color><color=#8B0000>Triggers an Ice-shroom effect once on appearance (does not disappear afterwards).</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 2s; repeats the following effects 4 times on targets within a 2.2-tile radius:\n\t-Deals 200 damage, applies Chill and 25 Cryo point, and reduces the target's Cryo cap by 100.\n\t-Deals 200 damage, applies Chill and 25 Cryo point, and reduces the target's Cryo cap by 100.\n\t-Fires an icicle at each target dealing 20 damage. Icicles deal 2× damage to Chilled zombies and 4× damage to frozen zombies.</color>",
+            "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>3000 Coins</color>"
         },
         {
             "seedType": 350,
