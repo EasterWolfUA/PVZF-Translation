@@ -282,8 +282,8 @@
         },
         {
             "seedType": 223,
-            "name": "Poll-Result-4",
-            "introduce": "<align=justified><size=36><color=black>\"Peace and joy!\" Poll-Result-4 cheerfully greets every plant that passes by. Zombies get a special greeting instead: \"In this season of gratitude, have a happy Halloween!\", tailored based on the zombies' error-ridden calendar.</color>",
+            "name": "Hearty Apple",
+            "introduce": "<align=justified><size=36><color=black>\"Peace and joy!\" Hearty Apple cheerfully greets every plant that passes by. Zombies get a special greeting instead: \"In this season of gratitude, have a happy Halloween!\", tailored based on the zombies' error-ridden calendar.</color>",
             "info": "<size=36>Wards off disaster and keeps you \"apples\" safe.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts with 0 energy. Max energy is capped at 4k. Regenerates 1 energy every 0.02s. When damaged or when energy is consumed, energy regen is paused for 1s. When energy is depleted, energy regen is paused for 5s.\n<color=black>•</color> Consumes the amount of energy equal to the damage to block damage for plants in a 3×3 area.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>50s</color>"
         },
@@ -858,7 +858,7 @@
             "seedType": 944,
             "name": "Tesla Magnet",
             "introduce": "<align=justified><size=36><color=black>Tesla Magnet commands iron with thunder and thunder with magnetic fields. He grants his people eternal magnetism and built a kingdom of electricity. Yet beyond his military conquests and political achievements, he still suffers headaches in the search for a queen with the opposite charge.</color>",
-            "info": "<size=36>Extremely magnetic, quickly absorbs metal objects and turns them into explosive cherries.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Lumos Magnet, metal object absorption CD: 0.5s.\n<color=black>•</color> Can pull the pogo sticks from Clown-on-the-Pogo Zombies and convert them into Jack-in-the-Boxes; also pulls (insta-kills) Kirov Drones and converts them into Jack-in-the-Boxes.\n<color=black>•</color> Deals 300 damage every 0.5s to 1 Giga Trident-nut Zombie or Giga Football-nut Zombie within range.\n<color=black>•</color> Launches absorbed metal after 3s, dealing the same damage and AoE as explosive cherries; with full-map targeting and anti-air capability.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack Range ×2 | Edyson Magnet Subspecies Unlocked\n2. Absorbs 3 Metal Objects at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3</color>",
+            "info": "<size=36>Extremely magnetic, quickly absorbs metal objects and turns them into explosive cherries.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Lumos Magnet, metal object absorption CD: 0.5s.\n<color=black>•</color> Can pull the pogo sticks from Clown-on-the-Pogo Zombies and convert them into Jack-in-the-Boxes; also pulls (insta-kills) Kirov Drones and converts them into Jack-in-the-Boxes.\n<color=black>•</color> Deals 300 damage every 0.5s to 1 Giga Trident-nut Zombie or Giga Football-nut Zombie within range.\n<color=black>•</color> Launches absorbed metal after 3s, dealing the same damage and AoE as explosive cherries; with full-map targeting and anti-air capability.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack Range ×2 | Dyson Magnet Subspecies Unlocked\n2. Absorbs 3 Metal Objects at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Lumos Magnet + Grenadier Magnet</color>"
         },
         {
@@ -1066,9 +1066,9 @@
         },
         {
             "seedType": 974,
-            "name": "Edyson Magnet",
+            "name": "Dyson Magnet",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>Uses the power of light and magnetism to rapidly produce Metal Objects, while granting damage bonuses and healing to magnetic plants.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Tesla Magnet's Modifier</color><color=black>\nSun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Tesla Magnet.\n<color=black>•</color> Produces a random metal object every 30s (10s for initial production) and recovers 500 HP on production. Drag a metal object on it and it will produce 25 Sun. \n<color=black>•</color> Produced metal object is automatically given to Grenadier Magnet, Hypno Magnet or Charmatron directly in front.\n<color=black>•</color> Metal production speed is increased by (1 + 0.15 × [Lumos Level] + 0.05×n), where n is the Number of Magnetic Connections in the same System, up to a maximum of 4×.\n<color=black>•</color> When producing Metal, grants every other plant in its Magnetic System a 3% attack bonus for 30s. If a plant is not at full HP, restores 500 HP for it; otherwise, spawns a random Metal Object at that plant's location. The number of Metal Objects generated by this effect does not exceed (3 + n/3).</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Metal Production CD halved | Edyson Magnet Subspecies Unlocked\n2. Heal amount ×3, extra Metal Object production limit (3 + n/3) → (5 + n/2)</color>",
+            "info": "<size=36>Uses the power of light and magnetism to rapidly produce Metal Objects, while granting damage bonuses and healing to magnetic plants.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Tesla Magnet's Modifier</color><color=black>\nSun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Tesla Magnet.\n<color=black>•</color> Produces a random metal object every 30s (10s for initial production) and recovers 500 HP on production. Drag a metal object on it and it will produce 25 Sun. \n<color=black>•</color> Produced metal object is automatically given to Grenadier Magnet, Hypno Magnet or Charmatron directly in front.\n<color=black>•</color> Metal production speed is increased by (1 + 0.15 × [Lumos Level] + 0.05×n), where n is the Number of Magnetic Connections in the same System, up to a maximum of 4×.\n<color=black>•</color> When producing Metal, grants every other plant in its Magnetic System a 3% attack bonus for 30s. If a plant is not at full HP, restores 500 HP for it; otherwise, spawns a random Metal Object at that plant's location. The number of Metal Objects generated by this effect does not exceed (3 + n/3).</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Metal Production CD halved | Dyson Magnet Subspecies Unlocked\n2. Heal amount ×3, extra Metal Object production limit (3 + n/3) → (5 + n/2)</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Cherry Bomb <-> Sunflower</color>"
         },
         {
@@ -2146,7 +2146,7 @@
             "seedType": 1153,
             "name": "Split Pea-shroom",
             "introduce": "<align=justified><size=36><color=black>The front head declares, 'My turn to use the eyebrow!' The back head replies, 'Guess we'll have to split it.' Born just two minutes apart, their eternal battle over the eyebrow shows no signs of stopping.</color>",
-            "info": "<size=36>Shoots peas both forward and backward.\n\n<color=black>Damage: </color><color=#8B0000>20×3/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Backward peas rebound if no zombie is hit.</color>",
+            "info": "<size=36>Shoots small peas both forward and backward.\n\n<color=black>Damage: </color><color=#8B0000>20×3/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Backward peas rebound if no zombie is hit.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Split Pea > Puff-shroom</color>"
         },
         {
@@ -2489,7 +2489,7 @@
             "seedType": 1202,
             "name": "Squash Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Squash Pumpkin has never met a match in arm wrestling, has diligently learned various techniques for skipping stones, and is very good at selecting stones—his only bane is that he is very afraid of water and can only watch others skip stones.</color>",
-            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squash Pumpkin, a baby squash with a maximum jump distance of 1.5 tiles is spawned and jumps forward, damaging zombies when it lands. It disappears after 6 jumps and regenerates 3s after the last baby squash disappears.\n<color=black>•</color> Depending on the type of Squash inside it, the baby squashes have different effects:\n- Squashes and Squash-nut: Baby squash does 1/8 the original damage.\n- Gourd-pult: Baby squash drops a melon on landing that does the same damage.\n- Squashwood: Baby squash does 225 damage.\n- Poll-Result-2: Baby squash has a 25% chance to drop a butter on landing that does the same damage.\n- Infernal Squashwood: Baby squash does 1800 damage and releases a Jalapeno effect each time it lands.\n- Big Crunch Squash: Baby squash releases a Cherry Bomb effect each time it lands and also a ring of 12 pieces of Nuclear Debris the last time. Both do 1/8 the original damage.\n<color=black>•</color> Abilities do not work in water lanes.</color>",
+            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squash Pumpkin, a baby squash with a maximum jump distance of 1.5 tiles is spawned and jumps forward, damaging zombies when it lands. It disappears after 6 jumps and regenerates 3s after the last baby squash disappears.\n<color=black>•</color> Depending on the type of Squash inside it, the baby squashes have different effects:\n- Squashes and Squash-nut: Baby squash does 1/8 the original damage.\n- Gourd-pult: Baby squash drops a melon on landing that does the same damage.\n- Squashwood: Baby squash does 225 damage.\n- Butternut-pult: Baby squash has a 25% chance to drop a butter on landing that does the same damage.\n- Infernal Squashwood: Baby squash does 1800 damage and releases a Jalapeno effect each time it lands.\n- Big Crunch Squash: Baby squash releases a Cherry Bomb effect each time it lands and also a ring of 12 pieces of Nuclear Debris the last time. Both do 1/8 the original damage.\n<color=black>•</color> Abilities do not work in water lanes.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Squash > Pumpkin</color>"
         },
         {
@@ -3441,7 +3441,7 @@
             "seedType": 1338,
             "name": "Aurora Plantern",
             "introduce": "<align=justified><size=36><color=black>Winter is the season for meditation. The cold sharpens the mind. With gnawing winds and silent nights, such a perfect time for reflection should not be wasted. For days on end, the night-watching Aurora Plantern has been pondering what he should be thinking about. Oh wait, that's it! Thinking about what to think about!</color>",
-            "info": "<size=36>Freezes zombies with a cold aura and enables lasers to gain chilling effects.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Once per second, deals 20 damage and applies Chill to zombies in within a 1.5-tile radius, and prolongs the Freeze duration of the zombies already frozen by 1s (cannot be reapplied to the same zombie).\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Poll-Result-3 turn cyan and gain the ability to apply Chill after passing through.</color>",
+            "info": "<size=36>Freezes zombies with a cold aura and enables lasers to gain chilling effects.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Once per second, deals 20 damage and applies Chill to zombies in within a 1.5-tile radius, and prolongs the Freeze duration of the zombies already frozen by 1s (cannot be reapplied to the same zombie).\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn cyan and gain the ability to apply Chill after passing through.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Plantern</color>"
         },
         {
@@ -3462,7 +3462,7 @@
             "seedType": 1341,
             "name": "Blacklight Plantern",
             "introduce": "<align=justified><size=36><color=black>Blacklight Plantern doesn't consume darkness to create light. Their light is fueled by their contempt for the Zombies, and a couple grams of plutonium. \"My light burns with rage. Pray you don't find it pointed at you.\"\n\n-Written by Goober</color>",
-            "info": "<size=36>His UV light re-ignites embers and grants lasers explosive effects.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 3s, supplies Doomwoods in a 3×3 area with 3 Ember value.\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Poll-Result-3 turn purple and gain the ability to trigger a 1-tile explosion dealing 10 damage on hit after passing through.</color>",
+            "info": "<size=36>His UV light re-ignites embers and grants lasers explosive effects.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 3s, supplies Doomwoods in a 3×3 area with 3 Ember value.\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn purple and gain the ability to trigger a 1-tile explosion dealing 10 damage on hit after passing through.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom + Plantern</color>"
         },
         {
@@ -3579,22 +3579,22 @@
         },
         {
             "seedType": 1358,
-            "name": "Poll-Result-3",
-            "introduce": "<align=justified><size=36><color=black>\"Every plant I see is wearing sunglasses,\" Poll-Result-3 grumbles. \"It's ridiculous, so pretentious!\" In the end, Poll-Result-3 chalks it up to some inexplicable trend, while the other plants agree that staring directly at an ultra-high-power laser emitter is obviously bad for your eyesight…</color>",
+            "name": "Ray-shroom",
+            "introduce": "<align=justified><size=36><color=black>\"Every plant I see is wearing sunglasses,\" Ray-shroom grumbles. \"It's ridiculous, so pretentious!\" In the end, Ray-shroom chalks it up to some inexplicable trend, while the other plants agree that staring directly at an ultra-high-power laser emitter is obviously bad for your eyesight…</color>",
             "info": "<size=36>Fires a piercing laser ray. Damage falls off with distance and increases with Lumos.\n\n<color=black>Damage: </color><color=#8B0000>10/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Fires across the entire lane with unlimited pierce.\n<color=black>•</color> Each Lumos level increases damage by 0.5×.\n<color=black>•</color> Damage increases by 1.6×(5 - column distance to the target). At Lumos level 3 or higher, this instead becomes 0.8×(10 - column distance).</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Plantern</color>"
         },
         {
             "seedType": 1359,
-            "name": "Poll-Result-5-1",
-            "introduce": "<align=justified><size=36><color=black>After years of tossing cabbages without a second thought, looking down at the world from above really makes you think. What if these cabbages were alive? Do they have dreams and hopes? Families? Children? All of these questions swirl endlessly inside the leafy green mind of the Poll-Result-5-1.</color>",
+            "name": "Cabbage Dropper",
+            "introduce": "<align=justified><size=36><color=black>After years of mindlessly throwing cabbages, seeing the world at that height really makes you think. What if those cabbages had a life? dreams and hopes? families? children? All of those questions run through Cabbage Dropper's leafy mind.</color>",
             "info": "<size=36>Provides close-range air support by dropping cabbages.\n\n<color=black>Damage: </color><color=#8B0000>40×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Cabbage-pult</color>"
         },
         {
             "seedType": 1360,
-            "name": "Poll-Result-5-2",
-            "introduce": "<align=justified><size=36><color=black>Poll-Result-5-2 signed up for the Garden Variety Show, hoping to play a UFO on stage, but it never made the cut. He just kept dropping corn and butter everywhere, drawing fierce opposition from the ground crew, and even causing the director who supported him to take a nasty fall.</color>",
+            "name": "Butter Fly",
+            "introduce": "<align=justified><size=36><color=black>Butter Fly signed up for the Garden Variety Show, hoping to play a UFO on stage, but it never made the cut. He just kept dropping corn and butter everywhere, drawing fierce opposition from the ground crew, and even causing the director who supported him to take a nasty fall.</color>",
             "info": "<size=36>Provides close-range air support by dropping corn kernels or butter.\n\n<color=black>Damage: </color><color=#8B0000>20×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant. Has a 25% chance to drop butter, dealing 40 damage.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Kernel-pult</color>"
         },
@@ -3614,7 +3614,7 @@
         },
         {
             "seedType": 1363,
-            "name": "Poll-Result-2",
+            "name": "Butternut-pult",
             "introduce": "<align=justified><size=36><color=black>Poll-Result-6 was never good at biology. He's always believed that the idea of \"apical dominance\" is wrong, but he's learned to keep that opinion to himself, not because he's embarrassed about his grades, but because he doesn’t want anyone to realize he's a corn with an underdeveloped tip.</color>",
             "info": "<size=36>Thrown projectiles slam zombies like a Squash, with a chance to butter the ones that get crushed.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Projectiles deal area squash damage when they land. Has a 25% chance to throw a Butter Squash, applying 4s of Butter stun to up to 3 damaged targets.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Squash + Kernel-pult</color>"
