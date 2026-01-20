@@ -206,8 +206,8 @@
         },
         {
             "theZombieType": 34,
-            "name": "Pogo Melon Zombie",
-            "introduce": "<align=justified><size=36><color=black>Quote: \"It's highly unlikely for shells to explode in the same crater twice! This is what 'Crater Theory' states.\" Pogo Melon Zombie says while adjusting his melon peel hat. However, no one told him that his red-and-green color scheme stands out a bit too much in a crowd of zombies.</color>",
+            "name": "Melon Pogo Zombie",
+            "introduce": "<align=justified><size=36><color=black>Quote: \"It's highly unlikely for shells to explode in the same crater twice! This is what 'Crater Theory' states.\" Melon Pogo Zombie says while adjusting his melon peel hat. However, no one told him that his red-and-green color scheme stands out a bit too much in a crowd of zombies.</color>",
             "info": "<size=36>This zombie charges up and leaps into your defenses!\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>If in the right side of the lawn, charges up for 5s, then performs a big jump (about 4 Tiles long). Only does this once.\n<color=black>Weakness: </color><color=#4B0082>Umbrella Fusions</color>"
         },
         {
@@ -706,7 +706,7 @@
             "theZombieType": 209,
             "name": "Clown-on-the-Pogo Zombie",
             "introduce": "<align=justified><size=36><color=black>\"What, this? Just fashion, my friend,\" Clown-on-the-Pogo Zombie smirks whenever his appearance is brought up. But those who've known him long enough don't buy it. His look isn't just about style—it's a quiet, unspoken tribute to a love that once meant everything. Some trends fade, but some memories never do.</color></size>",
-            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while holding his pogo stick, he'll explode and transform into a King Jack-in-the-Box Zombie.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Clown-on-the-Pogo Zombies have their charge time reduced to 0.5s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions</color>"
+            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Melon Pogo Zombie. If he dies while holding his pogo stick, he'll explode and transform into a King Jack-in-the-Box Zombie.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Melon Pogo Zombies and Clown-on-the-Pogo Zombies have their charge time reduced to 0.5s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions</color>"
         },
         {
             "theZombieType": 210,
