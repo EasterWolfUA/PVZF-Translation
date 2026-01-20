@@ -276,6 +276,7 @@
   "已为在场的植物增加(\\d+)%攻击力": "Granted {0}% bonus attack power to all plants on the field!",
   "已为在场的植物回复(\\d+)%最大生命值以及(\\d+)点血量上限": "Healed all plants on the field by {0}% max HP and raised HP cap by {1}!",
   "请选择一个任务完成\n([^\\s]+)\n奖励：([^\\s]+)\n([^\\s]+)\n奖励：([^\\s]+)": "Choose 1 task to complete!\n{0}\nReward: {1}\n{2}\nReward: {2}",
+  "星辉迷雾：第(\\d+)关\n奖励1：": "Starbound Adventures: Fog | Level {0}\nReward 1: ",
   "星辉([^\\s]+)：第(\\d+)关\n奖励1：": "Starbound Adventures: {0} | Level {1}\nReward 1: ",
   "([^\\s]+)阶\n([^\\s]+)": "Tier {0}\n{1}",
   "([^\\s]+)阶\nHP：(\\d+)/(\\d+)": "Tier {0}\nHP: {1}/{2}",
